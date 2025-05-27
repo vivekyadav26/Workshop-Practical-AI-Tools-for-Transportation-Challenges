@@ -1,0 +1,11 @@
+taz,population,employment,attractions,notes
+101,1200,800,100,valid
+102,950,620,800,valid
+103,870,500,600,valid
+104,1400,900,1000,valid
+105,1000000,300,200,extremely high population
+106,1200,0,0,zero employment
+107,1000,800,900,valid
+108,950,,,missing employment
+109,,500,,missing population
+110,1400,900,800,ok
