@@ -1,0 +1,1001 @@
+Segment_ID,State,County,Road_Type,Functional_Class,AADT,Truck_Percent,Speed_Limit,Lane_Count,Shoulder_Width_ft,Pavement_Type,Pavement_Age_yrs,Roughness_IRI,Rutting_mm,Faulting_mm,Cracking_Percent,Structural_Capacity,Surface_Distress_Index,Maintenance_History,Last_Maintenance_Year,Climate_Zone,Precipitation_mm,Freezing_Days,PCI,Rehabilitation_Cost_USD,Years_Since_Last_Rehab
+1,OH,Cuyahoga,Urban,Local,75971,6.53,70,5,6,Concrete,25,90.73,18.26,1.99,98.42,2.44,20.94,None,2013,Cold,841.47,99,18.12,356095.93,12
+2,FL,Duval,Rural,Minor Arterial,1162,12.65,65,3,7,Concrete,7,253.1,15.96,3.08,1.99,4.41,97.01,Patch,2017,Tropical,1351.36,17,9.11,399887.37,8
+3,NY,King,State Highway,Minor Arterial,35742,12.35,45,4,5,Asphalt,23,263.35,18.43,0.42,69.9,3.22,66.79,Resurface,2021,Tropical,262.5,46,25.11,1145137.64,4
+4,OH,King,Rural,Local,20675,8.63,55,5,7,Asphalt,47,278.59,19.57,6.34,25.29,3.87,77.86,Resurface,2007,Cold,1443.11,30,28.49,1255666.62,18
+5,TX,King,Rural,Principal Arterial,74997,13.71,55,5,9,Asphalt,37,116.32,0.21,2.49,4.05,4.59,77.61,Reconstruction,2023,Temperate,1150.46,98,64.72,1388979.49,2
+6,GA,Fulton,Urban,Principal Arterial,18015,11.64,70,3,4,Composite,5,275.99,12.45,3.04,40.29,4.61,53.51,Reconstruction,2023,Cold,719.42,38,16.09,579414.9,2
+7,NY,Harris,Rural,Minor Arterial,51057,11.84,35,3,6,Concrete,34,130.17,8.26,7.71,93.52,2.31,79.75,Reconstruction,1990,Cold,1666.38,37,93.03,510298.19,35
+8,NY,Fulton,Urban,Principal Arterial,33591,19.78,25,2,3,Concrete,41,188.08,17.2,3.27,1.18,4.81,59.58,Resurface,2020,Tropical,722.09,78,55.44,153248.16,5
+9,OH,Harris,Interstate,Local,10833,9.47,45,4,3,Concrete,0,62.63,5.04,2.42,58.79,1.1,31.45,Reconstruction,1990,Cold,1984.55,46,49.09,1039471.54,35
+10,CA,Bexar,Interstate,Principal Arterial,8896,17.84,55,4,8,Asphalt,45,60.97,19.62,1.69,50.14,2.51,56.11,Resurface,2005,Continental,1669.47,69,43.47,945141.55,20
+11,TX,Fulton,Urban,Minor Arterial,33972,16.41,35,3,11,Concrete,35,230.09,12.27,7.75,87.34,4.58,53.35,Resurface,2004,Continental,1474.36,7,56.66,194157.45,21
+12,OH,Fulton,Interstate,Local,50733,16.36,65,5,11,Composite,11,161.12,15.87,1.3,8.4,2.1,82.35,Patch,2022,Tropical,310.43,103,2.24,511768.24,3
+13,TX,Cuyahoga,State Highway,Principal Arterial,42800,18.26,55,3,11,Asphalt,37,114.07,1.71,4.54,68.15,2.09,98.17,Patch,2012,Temperate,1827.76,85,99.01,567958.17,13
+14,TX,Cook,Rural,Collector,6347,15.97,35,5,7,Asphalt,10,97.6,3.67,5.07,68.01,2.21,41.1,Patch,2023,Temperate,1622.1,64,55.75,1105503,2
+15,GA,Fulton,State Highway,Local,60063,22.59,25,5,5,Asphalt,11,217.49,15.17,6.87,66.91,3.45,76.34,Reconstruction,2006,Tropical,612.25,12,3.52,422087.83,19
+16,NY,Cuyahoga,Rural,Local,3643,18.51,25,3,6,Asphalt,41,50.1,0.44,6.33,94.23,2.75,9.98,Resurface,2014,Temperate,906.05,54,59,333618.61,11
+17,FL,Orange,Interstate,Collector,41785,15.94,55,1,2,Composite,49,251.47,16.34,8.11,82.31,3.91,77.68,Reconstruction,1995,Arid,683.54,87,43.71,98277.55,30
+18,GA,Cook,State Highway,Collector,19681,21.6,55,4,8,Concrete,38,69.81,0.28,0.45,4.2,4.58,37.14,Resurface,2020,Continental,1971.95,84,2.4,419997.15,5
+19,GA,Bexar,Interstate,Local,51026,17.12,70,5,9,Composite,6,97.87,13.14,2.96,47.11,3.7,3.94,Patch,1994,Arid,1737.55,108,92.44,1400891.4,31
+20,TX,Fulton,Rural,Collector,16892,10.82,45,5,10,Concrete,10,146.56,7.3,2.8,39.8,1.82,36.32,Patch,2019,Arid,1874.41,42,1.06,1144774.47,6
+21,IL,Duval,Urban,Minor Arterial,48299,9.14,35,1,9,Composite,35,171.21,12.23,1.46,31.01,4.73,61.06,Reconstruction,1994,Arid,1619.79,3,57.79,234276.75,31
+22,NY,King,Urban,Minor Arterial,18073,8.05,55,2,6,Asphalt,30,138.75,13.92,2.89,45.13,2.06,11.93,Resurface,2001,Tropical,1021.43,70,96.18,496997.66,24
+23,CA,Orange,State Highway,Minor Arterial,31682,22.99,45,1,4,Asphalt,32,130.18,6.85,3.1,38.42,1.6,92.4,Reconstruction,1996,Arid,569.78,59,23.76,139143.26,29
+24,GA,Orange,Interstate,Local,15289,19.2,70,1,11,Composite,12,290.98,2.16,5.22,43.23,1.36,7.77,None,2002,Cold,574.54,11,25.42,241796.15,23
+25,FL,Bexar,Interstate,Collector,8927,23.75,45,5,10,Composite,17,210.39,1.39,6.64,97.93,3.25,93,Reconstruction,1993,Temperate,473.03,58,0.04,1473016.74,32
+26,IL,Cuyahoga,State Highway,Collector,49330,17.07,55,4,7,Concrete,40,55.86,11.78,3.81,8.86,1.46,70.71,Patch,1992,Tropical,1183.97,76,6.64,898394.25,33
+27,IL,Orange,Urban,Principal Arterial,67707,14.47,25,1,6,Composite,23,157.54,10.41,7.19,92.22,1.56,32.97,Resurface,2001,Cold,1855.94,53,4.49,154188.28,24
+28,CA,Cook,Rural,Principal Arterial,78454,6.19,35,2,4,Composite,8,268.75,14.84,3.36,48.02,2.2,39.08,Resurface,1990,Cold,1985.24,43,82.27,458179.89,35
+29,GA,Fulton,State Highway,Collector,66428,18.43,35,3,7,Concrete,30,125.36,10.19,2.9,62.37,2.13,74.08,Reconstruction,2016,Continental,717.14,15,83.67,825596.03,9
+30,FL,Fulton,Rural,Collector,51601,16.64,25,1,4,Concrete,40,73.64,8.45,5.41,83.02,3.42,60.15,Patch,2002,Continental,1455.17,5,72.67,82190.39,23
+31,NY,Duval,Urban,Collector,78465,24.8,55,1,11,Concrete,9,239.6,7.96,0.24,36.05,4.27,67.16,None,2006,Cold,1274.78,13,35.27,116323.67,19
+32,WA,Bexar,Interstate,Local,3539,9.78,35,2,7,Composite,1,201.5,0.53,0.8,43.04,4.05,38.92,Reconstruction,1997,Continental,1080.09,114,82.13,559648.11,28
+33,FL,King,Urban,Collector,23669,15.61,55,4,5,Concrete,37,192.58,6.71,4.18,40.95,2.05,48.78,Resurface,2021,Temperate,1398.38,111,53.98,1146232.9,4
+34,CA,Cuyahoga,State Highway,Principal Arterial,71968,18.02,70,1,3,Asphalt,14,63.39,19.52,9.43,37.47,1.98,98.99,Patch,2009,Temperate,868.45,57,30.43,171034.78,16
+35,IL,King,Interstate,Local,21644,17.89,55,1,9,Asphalt,2,85.12,17.47,7.22,92.55,4.86,21.39,Resurface,2006,Continental,1900.07,30,43.73,143637.74,19
+36,NY,Orange,State Highway,Collector,19745,16.23,45,4,5,Asphalt,42,205.64,6.59,0.88,82.89,1.03,41.79,Resurface,2023,Arid,1469.81,99,6.58,482781.81,2
+37,FL,Bexar,State Highway,Principal Arterial,29228,20.54,25,2,10,Composite,30,101.96,11.76,8.46,10.9,4.52,29.18,Resurface,2024,Cold,1557.56,100,94.49,349375.77,1
+38,WA,Duval,Urban,Local,35521,9.1,55,1,8,Asphalt,5,176.02,16.95,7.32,10.81,1.8,76.51,Resurface,2024,Temperate,636.36,40,61.91,283632.79,1
+39,WA,King,State Highway,Collector,27928,19.51,70,4,3,Composite,2,186.22,8.83,6.11,42.79,4.79,76.4,None,2013,Continental,503.45,119,73.12,349809.63,12
+40,TX,Cook,Urban,Collector,19322,17.39,65,1,5,Composite,10,120.88,0.36,8.2,9.87,2.37,29.24,Patch,2007,Continental,909.81,34,67.66,154957.66,18
+41,TX,Fulton,Interstate,Collector,58714,22.92,25,3,6,Asphalt,14,287.11,1.49,4.04,61.91,2.76,8.14,Reconstruction,2022,Temperate,1580.01,117,66.77,833705.89,3
+42,OH,Orange,Urban,Local,88896,21.94,35,5,4,Concrete,44,260.62,10.21,2.22,14.37,3.83,1.14,Patch,2012,Temperate,1889.83,9,1.73,686399.09,13
+43,CA,Duval,Interstate,Principal Arterial,63292,11.3,45,3,10,Composite,27,230.59,19.39,5.12,52.24,3.35,42.75,Patch,2014,Arid,969.19,80,52.54,726061.06,11
+44,GA,King,Urban,Principal Arterial,30055,10.52,35,1,6,Asphalt,9,69.5,13.86,5.49,0.72,2.27,41.03,Patch,2016,Continental,1593.48,114,82.17,147314.95,9
+45,FL,Cuyahoga,Rural,Minor Arterial,43891,24.63,70,2,3,Composite,37,76.53,1.42,5.38,31.66,3.22,98.84,Reconstruction,1990,Continental,1046.73,105,4.45,502463.34,35
+46,FL,Cook,Rural,Collector,82912,15.55,70,5,4,Concrete,46,173.2,3.79,5.65,67.72,3.92,46.98,Patch,2010,Tropical,731.41,29,95.62,1476252.94,15
+47,GA,Cook,State Highway,Minor Arterial,7588,23.13,35,3,10,Concrete,49,90.18,15.43,9.49,48.4,1.17,25.64,Reconstruction,1999,Arid,1530.68,43,42.42,440866.51,26
+48,OH,King,Urban,Minor Arterial,7304,8.28,25,4,8,Asphalt,49,294.57,16.83,9.02,97.83,1.04,89.12,Reconstruction,2020,Temperate,1636.76,54,28.99,1045098.65,5
+49,IL,Fulton,Urban,Principal Arterial,8345,17.86,35,2,3,Composite,6,89.63,12.35,8.76,87.41,2.83,49.11,None,2014,Temperate,565.11,70,53.18,594208.41,11
+50,IL,King,Interstate,Local,30300,21.2,55,3,10,Composite,14,171.87,12.89,8.01,35.91,1.53,59.92,Resurface,2009,Cold,749.31,17,80.12,887872.61,16
+51,OH,Orange,State Highway,Local,25259,23.95,35,4,5,Composite,17,141.03,0.57,9.43,4.55,3.66,9.57,Reconstruction,1991,Temperate,1090.6,82,47.48,633771.08,34
+52,IL,King,Urban,Principal Arterial,89553,11.75,45,1,10,Composite,17,209.85,16.57,0.98,84.56,1.86,38.29,Resurface,2004,Continental,535.74,78,64.51,171440.28,21
+53,TX,Cook,State Highway,Local,16352,19.5,45,4,3,Asphalt,40,82.26,15.77,2.65,91.12,2.73,94.42,Patch,2017,Temperate,1871.9,102,49.99,503401.56,8
+54,FL,Duval,Rural,Minor Arterial,34365,15.78,65,3,11,Concrete,23,157.58,5.18,4.95,82.06,1.79,58.95,Resurface,2002,Continental,1264.4,107,63.13,385514.07,23
+55,OH,King,Urban,Collector,20446,6.21,45,3,5,Asphalt,1,118.68,14.17,8.47,12.79,3.19,34.45,Resurface,2003,Continental,418.17,85,13.8,519352.97,22
+56,FL,Fulton,Urban,Principal Arterial,3336,18.8,35,1,6,Composite,39,271.94,4.3,5.05,99.79,1.46,62.57,Resurface,1991,Arid,531.25,38,3.87,100129.65,34
+57,GA,Bexar,State Highway,Collector,63032,18.8,45,4,3,Composite,19,60.15,0.81,7.48,25.86,1.09,91.04,Patch,2023,Temperate,1917.84,41,13.69,911123.3,2
+58,WA,Duval,Urban,Local,76415,23.61,25,4,11,Concrete,33,278.43,4.02,1.39,72.42,1.2,27.4,Patch,2024,Arid,1528.7,119,28.58,736308.53,1
+59,TX,Cuyahoga,State Highway,Collector,8521,14.95,45,1,2,Composite,42,258.25,3.57,2.52,90.8,4.82,50.51,Reconstruction,2014,Continental,1521.93,53,25.34,274516.96,11
+60,NY,Harris,Urban,Local,72707,9.61,55,4,8,Asphalt,25,124.39,6.75,7.32,23.57,1.57,95.87,Reconstruction,2004,Temperate,330.5,29,61.52,1010582.43,21
+61,TX,King,Interstate,Local,24481,5.89,25,1,11,Asphalt,6,247.32,8.37,1.65,90.83,3.83,17.24,None,2001,Temperate,1811.54,19,45.59,130617.78,24
+62,OH,Fulton,State Highway,Minor Arterial,19474,13.31,65,2,2,Concrete,37,57.8,10.17,3.51,30.95,1.27,71.97,Patch,1998,Arid,998.72,95,3.88,352902.31,27
+63,NY,Duval,Urban,Local,47760,11.04,55,3,9,Asphalt,29,291.72,9.54,2.65,97.64,1.43,61.45,None,2020,Arid,1387.49,41,3.49,712886.2,5
+64,WA,Fulton,Rural,Minor Arterial,56718,20.22,35,2,4,Asphalt,41,181.65,5.41,3.5,28.13,3.04,67.97,Patch,2003,Continental,1927.44,88,9.06,196600.06,22
+65,OH,Cuyahoga,Urban,Minor Arterial,45629,12.09,35,5,11,Asphalt,4,125.82,0.58,7.08,95.34,2.86,35.12,Resurface,2018,Continental,380.02,86,35.31,289497.16,7
+66,CA,Cook,Rural,Minor Arterial,46232,23.98,35,5,7,Asphalt,10,140.65,12.1,3.68,5.35,4.81,31.39,None,1997,Temperate,1068.1,4,0.62,1315380.66,28
+67,FL,Fulton,Rural,Principal Arterial,87544,24.25,55,5,8,Composite,0,66.6,7.91,5.55,70.93,4.78,68.42,None,1992,Temperate,289.3,49,49.4,421937.82,33
+68,WA,Duval,Interstate,Principal Arterial,68169,17.42,55,1,11,Asphalt,33,297.34,5.97,1,53.21,4.12,21.55,None,1991,Tropical,1099.18,40,36.07,272352.86,34
+69,FL,Fulton,State Highway,Local,51669,23.57,55,4,2,Concrete,0,59.82,17.34,8.05,47.79,3.41,41.97,Patch,2005,Tropical,654.07,93,55.54,1113608.02,20
+70,IL,Fulton,Urban,Minor Arterial,79021,20.22,25,2,7,Concrete,18,213.73,14.93,3.7,22.35,2.82,18.82,Reconstruction,2008,Cold,1839.92,111,72.08,330350.22,17
+71,CA,Fulton,Interstate,Principal Arterial,70184,15.94,70,2,8,Asphalt,1,160.68,17.16,6.49,70.56,2.42,0.83,None,2019,Continental,917.29,38,25.1,503390.86,6
+72,CA,Orange,Urban,Minor Arterial,48945,8.61,25,2,7,Concrete,20,287.23,9.9,7.25,19.08,4.79,97.01,Reconstruction,2005,Cold,1340.97,56,15.71,281595.62,20
+73,WA,Orange,Rural,Collector,14140,14.17,35,2,5,Asphalt,19,111.5,2.62,2.1,55.28,3.41,43.17,Patch,2020,Cold,1748.52,90,27.81,529132.27,5
+74,CA,Cook,State Highway,Collector,84457,16.22,70,5,2,Concrete,22,183.02,13.92,8.85,25.32,3.32,96.93,None,2017,Arid,1970.65,56,0.18,1280852.36,8
+75,NY,King,Urban,Collector,15357,22.28,45,2,10,Concrete,20,170.59,4.12,6.16,95.56,1.93,14.03,Patch,1993,Arid,1106.87,105,12,139259.19,32
+76,CA,Fulton,Urban,Local,69673,14.63,35,4,5,Asphalt,23,225.72,8.82,4.29,2.86,1.19,58.74,Reconstruction,1999,Tropical,1020.36,36,75.08,782601.74,26
+77,FL,Cuyahoga,Rural,Minor Arterial,66633,22.95,65,5,8,Asphalt,3,67,1.3,1.82,19.97,4.78,20.1,Reconstruction,2007,Cold,336.33,6,22.28,1049998.63,18
+78,FL,King,Urban,Collector,77943,18.49,25,2,8,Composite,11,98.45,16.51,9.42,24.23,2.25,79.01,None,2021,Tropical,222.93,4,99.43,100428.65,4
+79,OH,Cuyahoga,Urban,Principal Arterial,79258,7.74,55,1,3,Asphalt,21,103.64,2.52,7.55,41.41,2.77,78.37,Reconstruction,2019,Continental,1295.84,78,16.78,294979.58,6
+80,FL,King,Rural,Collector,13924,24.9,25,3,2,Asphalt,19,234.54,18.06,2.08,23.27,1.46,11.26,Resurface,1998,Temperate,317.84,50,78.88,454925.68,27
+81,OH,Cook,Interstate,Collector,70286,15.54,55,3,9,Composite,17,97.28,17.28,3.38,49.13,4.35,91.21,Resurface,2018,Arid,884.68,105,70.5,538007.4,7
+82,FL,Fulton,Rural,Collector,75071,12.84,70,3,9,Asphalt,0,193.37,9.29,8.1,87.25,1.11,19.46,None,2005,Continental,206.49,7,32.21,296103.06,20
+83,NY,Fulton,Interstate,Local,58326,18.18,65,5,8,Asphalt,29,103.81,14.89,6.96,71.21,4.34,61.3,Patch,2017,Continental,1307.41,55,33.07,1013648.22,8
+84,GA,Harris,State Highway,Principal Arterial,31651,7.18,70,2,9,Composite,32,265.41,12.39,7.66,58,1.56,98.56,Patch,2010,Arid,965.75,72,56.36,505309.93,15
+85,OH,Cuyahoga,Interstate,Minor Arterial,71202,17.73,65,5,4,Asphalt,23,285.55,16.06,4.41,8.9,4.55,88.24,Patch,1991,Arid,428.64,10,85.24,982365.43,34
+86,TX,King,Interstate,Principal Arterial,49777,14.96,25,4,3,Asphalt,13,179.62,8.64,7.16,69.4,3.92,95.66,Resurface,2024,Cold,733.46,21,38.62,988035.05,1
+87,IL,King,State Highway,Minor Arterial,17994,13.13,55,1,8,Composite,35,138.08,15.72,3.86,16.64,1.66,34.26,Reconstruction,2017,Tropical,1225.39,97,6.12,232776.99,8
+88,WA,Bexar,Interstate,Local,68263,24.06,70,1,9,Composite,4,108.51,9.25,2.11,78.64,3.26,10.56,Resurface,2020,Continental,1382.08,98,37.44,109414.45,5
+89,FL,Bexar,Rural,Local,60634,15.45,65,3,2,Concrete,10,62.45,18.82,6.33,25.01,2.25,18.83,Reconstruction,2022,Cold,1032.2,76,20.73,476859.63,3
+90,CA,Orange,Interstate,Local,11800,9.38,35,3,11,Asphalt,23,117.13,9.73,9.76,41.7,1.71,50.05,Resurface,2012,Cold,1647.13,10,93.92,261470.16,13
+91,GA,Harris,State Highway,Local,38823,14.18,35,3,10,Concrete,30,213.56,9.25,3.11,35.05,4.44,79.32,Patch,2006,Continental,402.39,59,69.73,181451.91,19
+92,FL,Duval,Rural,Minor Arterial,64878,23.39,70,2,5,Concrete,12,183.4,15.7,4.61,85.88,2.61,15.02,Patch,1990,Continental,352.18,95,5.08,131534.48,35
+93,CA,Bexar,State Highway,Collector,19708,8.52,55,4,5,Composite,15,286.01,16.43,6.74,12.65,2.59,65.97,Patch,2012,Temperate,279.64,105,29.3,1142499.93,13
+94,IL,Duval,State Highway,Minor Arterial,13819,9.28,70,4,4,Asphalt,23,149.07,11.09,5.42,56.56,1.68,32.36,None,2016,Tropical,1164.49,14,5.02,1184537.46,9
+95,IL,Orange,Urban,Principal Arterial,75905,5.26,25,4,7,Asphalt,12,223.47,3.6,8.43,14.21,2.53,34.12,None,2014,Continental,1471.22,37,83,294977.51,11
+96,IL,Orange,Urban,Local,64870,5.28,65,4,2,Composite,23,172.33,9.36,7.62,70.48,4.49,66.19,Reconstruction,2021,Arid,434.94,0,90.63,535193.44,4
+97,CA,Orange,State Highway,Local,10283,21.59,25,3,7,Concrete,25,178.14,19.36,0.58,90.51,2.45,46.7,None,2008,Temperate,1350.1,45,11.23,235815.51,17
+98,FL,Cuyahoga,State Highway,Principal Arterial,31573,19.64,35,1,3,Composite,1,116.94,15.06,9.98,43.46,4.81,81.2,Resurface,2013,Tropical,1058.51,113,44.03,258557.21,12
+99,IL,Cuyahoga,State Highway,Minor Arterial,79707,12.1,65,3,10,Asphalt,15,163.74,16.22,7.52,48.81,4.79,15.59,Resurface,1992,Arid,1977.22,87,93.19,522222.82,33
+100,NY,Cook,Urban,Collector,31933,18.97,70,4,3,Composite,37,167.7,0.66,8.64,92.74,1.58,78.99,Reconstruction,2001,Arid,1491.45,42,14.52,821261.76,24
+101,OH,Cook,Urban,Collector,6774,12.9,25,3,8,Asphalt,45,226.66,9.36,6.51,52.1,1.71,6.42,Reconstruction,2024,Tropical,1383.45,103,29.19,554933.15,1
+102,CA,Orange,Interstate,Principal Arterial,73055,24.06,45,4,2,Concrete,0,285.16,12.93,8.56,48.76,4.45,19.41,Patch,2004,Temperate,1226.81,21,30.43,910253.58,21
+103,CA,Harris,Interstate,Collector,11983,24.34,55,5,8,Asphalt,48,132.33,16.6,1.12,57.83,2.57,65.61,None,2006,Arid,1995.26,2,3.01,648915.3,19
+104,FL,King,State Highway,Minor Arterial,19133,12.86,55,1,6,Concrete,10,60.55,0.99,3.48,68.92,1.02,85.49,Patch,2021,Cold,1964.83,13,3.63,84373.34,4
+105,CA,Cuyahoga,Rural,Minor Arterial,15939,22.08,45,5,9,Concrete,34,174.07,17.05,8.76,10.69,2.1,25.27,None,1996,Tropical,1168.61,1,95.28,272025,29
+106,CA,Harris,Rural,Principal Arterial,1781,20.46,35,2,5,Asphalt,42,186.12,10.97,2.02,82.11,3.39,32.72,None,2008,Tropical,1019.33,60,57.11,322846.44,17
+107,IL,Fulton,Urban,Minor Arterial,57700,11.2,65,3,11,Asphalt,28,92.11,3.95,0.78,43.55,4.2,53.71,Reconstruction,1996,Continental,1031.81,31,30.66,830875.82,29
+108,FL,Cuyahoga,Urban,Local,28624,9.64,55,2,8,Concrete,36,240.12,6.35,7.88,7.23,1.53,21.16,Patch,1994,Temperate,971.02,111,37.87,252633.27,31
+109,IL,Cuyahoga,Urban,Principal Arterial,7823,14.16,45,3,7,Composite,16,296.23,5.64,8.35,78.62,1.44,81.12,Patch,2010,Cold,1156.52,37,71.48,296967.62,15
+110,OH,Cook,State Highway,Minor Arterial,19489,20.63,70,5,6,Asphalt,38,286.44,10.62,1.63,37.69,4.69,77.36,None,1996,Cold,692.45,96,36.65,1407553.43,29
+111,GA,King,Rural,Principal Arterial,40961,24.2,45,4,5,Concrete,41,99.28,1.03,8.54,10.04,4,14.53,None,2012,Continental,1868.22,45,22.78,305448.64,13
+112,OH,King,Interstate,Collector,30118,20.27,35,4,8,Concrete,27,268.84,3.17,6.87,63.38,3.36,46.38,Reconstruction,2000,Arid,1082.41,41,10.18,251801.03,25
+113,GA,Bexar,State Highway,Minor Arterial,82816,22.1,35,3,6,Composite,28,226.12,16.25,5.2,88.01,4.08,77.48,Resurface,1999,Arid,1715.61,5,72.89,809559.88,26
+114,IL,Duval,Interstate,Local,23263,17.06,25,4,6,Asphalt,42,163.46,2.65,8.3,88.78,2.72,33.73,Patch,2010,Cold,1055.55,40,18.06,900909.38,15
+115,OH,Duval,Interstate,Minor Arterial,14565,21.71,55,5,2,Concrete,2,185.15,4.67,4.19,95.77,4.03,63.31,Patch,2022,Temperate,1492.92,102,6.96,777585.8,3
+116,FL,Duval,State Highway,Principal Arterial,21354,20.69,25,4,3,Composite,9,262.4,9.07,1.94,86.77,2.49,5.02,Reconstruction,2009,Arid,806.39,24,42.7,952343.97,16
+117,WA,Duval,Interstate,Principal Arterial,43951,12.54,45,5,6,Concrete,41,170.03,10.34,2.85,0.21,1.98,60.87,Reconstruction,2022,Tropical,1324.65,97,3.96,1176799.94,3
+118,IL,Fulton,Rural,Minor Arterial,24648,16.04,65,2,4,Asphalt,13,143.3,15.27,5.05,38.02,3.92,15.27,Patch,2024,Continental,1097.07,10,96.5,120030.28,1
+119,GA,Fulton,Interstate,Local,51729,21.1,65,5,3,Composite,11,173.31,8.95,5.31,81.85,2.68,83.06,Patch,2023,Temperate,860.81,109,62.73,1095308.52,2
+120,NY,Cuyahoga,Rural,Local,42971,5.92,35,1,5,Concrete,46,194.78,15.8,8.06,36.63,4.93,35.54,None,2016,Arid,1786.8,100,15.27,210218.09,9
+121,GA,Orange,Rural,Local,19658,21.16,65,1,5,Composite,41,97.27,12.37,7.91,60.15,2.4,28.16,Resurface,2008,Cold,402.88,40,17.25,290944.78,17
+122,NY,Cook,Rural,Principal Arterial,22253,8.56,65,1,5,Asphalt,29,275.23,2.26,5.81,60.63,4.69,84.09,Patch,1994,Continental,1076.46,70,56.98,291655.65,31
+123,CA,Cook,Urban,Minor Arterial,65166,15.29,65,3,5,Composite,31,218.55,3.13,7.81,36.5,4.73,5.01,Reconstruction,2018,Arid,549.86,56,35.66,433349.49,7
+124,OH,Duval,Interstate,Collector,49563,21.17,45,3,4,Asphalt,31,208.32,8.74,1.92,90.45,1.97,39.66,None,1999,Cold,1749.9,45,77.43,592381.43,26
+125,NY,Cuyahoga,State Highway,Principal Arterial,27390,10.08,65,3,8,Concrete,41,74.87,7.94,0.5,50.32,4.19,37,None,2002,Arid,656.24,111,54.58,256018.03,23
+126,GA,Bexar,State Highway,Local,89664,9.92,70,5,10,Asphalt,31,201.04,14.87,8.74,46.48,2.73,28.48,Reconstruction,2018,Continental,1340.17,85,43.33,333070.66,7
+127,CA,Harris,Interstate,Minor Arterial,52578,13.06,65,3,6,Concrete,25,80.24,11.61,0.76,99.75,4.67,91.18,Reconstruction,1994,Tropical,498.01,47,96.3,474584.9,31
+128,WA,Orange,Urban,Local,80025,22.89,65,2,5,Concrete,0,69.67,7.76,2.47,49.35,2.8,75.09,None,2001,Tropical,928.84,62,39.07,444941.01,24
+129,FL,Cuyahoga,Urban,Collector,33658,5.01,25,1,3,Asphalt,41,181.83,3.42,6.95,17.84,3.98,6.39,Reconstruction,2002,Cold,1818.84,38,40.06,191940.28,23
+130,FL,Orange,Rural,Local,7852,23.03,45,5,3,Concrete,1,150.7,4.54,4.09,51.31,2.87,71.47,None,2011,Tropical,498.92,9,66.58,787071.15,14
+131,FL,Orange,Interstate,Local,3551,8.08,35,1,6,Composite,16,197.2,11.51,8.76,81.4,1.91,52.73,Reconstruction,2004,Continental,1393.75,84,80.95,254528.14,21
+132,NY,Orange,Interstate,Collector,72947,24.8,25,3,8,Concrete,29,72.31,8.47,2.98,77.69,1.8,90.09,None,2002,Cold,568.12,69,62.62,745820.6,23
+133,WA,Cuyahoga,State Highway,Minor Arterial,62001,24.1,55,5,11,Asphalt,38,157.75,10.3,0.12,78.86,2.7,31.29,Patch,1990,Arid,948.35,112,69.86,1164927.57,35
+134,NY,Duval,Interstate,Principal Arterial,50159,14.89,45,4,11,Composite,6,93.7,3.41,3.01,70.8,4.02,57.42,Patch,1990,Temperate,1173.11,64,37.29,277032.25,35
+135,OH,Cook,Urban,Minor Arterial,52707,15.25,70,2,10,Composite,26,296.78,13.26,5.78,25.42,3.42,50.08,Reconstruction,2000,Arid,1239.15,97,47.95,498234.81,25
+136,NY,Cook,Interstate,Collector,34243,14.63,45,3,8,Concrete,8,190.29,17.05,3.76,86.21,3.75,48.96,Resurface,2011,Continental,1284.52,58,19.7,839565.99,14
+137,WA,Duval,State Highway,Local,22800,17.71,55,3,6,Concrete,21,221.86,5.16,5.35,89.34,2.13,45.61,Patch,2024,Cold,1352.24,77,68.02,194581.57,1
+138,WA,Orange,Rural,Minor Arterial,76939,6.81,55,2,11,Asphalt,33,131.35,9.83,8.77,19.42,2.93,20.56,None,1995,Arid,689.18,35,22.15,300835.69,30
+139,OH,Harris,State Highway,Principal Arterial,58828,5.65,55,2,11,Composite,45,73.68,19.51,9.12,13.05,1.18,75.57,Resurface,2017,Cold,922.46,26,0.13,594177.74,8
+140,WA,King,State Highway,Collector,8239,6.15,35,4,11,Asphalt,48,293.97,6.66,2.66,97.56,4.27,45.13,None,2020,Tropical,267.17,72,93.38,799238.86,5
+141,GA,Cuyahoga,Rural,Minor Arterial,7710,13.89,65,3,7,Concrete,0,121.56,11.9,4.62,86.83,4.96,95.85,None,1997,Temperate,1583.76,54,30.6,535183.05,28
+142,WA,King,State Highway,Principal Arterial,22384,10.51,45,3,4,Composite,8,155.95,1.8,5.49,89.32,2.63,26.08,Patch,1994,Continental,1706.78,69,19.66,283084.61,31
+143,FL,Bexar,State Highway,Collector,22038,17.44,65,1,6,Asphalt,19,212.47,12.12,9.49,88.64,1.04,68.27,Reconstruction,2006,Arid,558.63,94,26.81,191371.57,19
+144,GA,Duval,Interstate,Principal Arterial,41846,24.85,65,5,9,Asphalt,18,56.17,1.79,9.99,54.17,1.68,94.07,Reconstruction,1998,Temperate,562.6,80,33.04,798804.08,27
+145,GA,Harris,Interstate,Collector,88983,12.73,70,5,2,Asphalt,35,252.56,19.18,2.35,64.64,3.61,66.35,None,1999,Continental,275.67,52,47.45,409303.82,26
+146,OH,Cuyahoga,Rural,Local,68821,16.48,55,1,2,Asphalt,39,184.14,14.31,7.27,54.54,3.45,87.13,Patch,2009,Continental,1946.69,106,6.94,166083.16,16
+147,TX,Duval,Interstate,Minor Arterial,38991,13.31,35,5,8,Asphalt,44,119.55,15.76,3.78,5.12,4.15,82.75,None,2003,Tropical,1652.94,59,5.27,455499.13,22
+148,TX,Orange,Interstate,Principal Arterial,80057,21.95,70,2,6,Composite,3,65.4,14.08,0.08,74.55,2.02,36.01,Resurface,2003,Cold,849.27,60,29.29,465331.81,22
+149,WA,Cook,State Highway,Collector,7971,23.04,25,5,6,Asphalt,8,90.62,11.79,0.09,50.53,4.05,60.01,None,2015,Cold,1067.43,35,29.58,1467060.46,10
+150,GA,King,Urban,Principal Arterial,30139,22.55,35,5,2,Composite,40,273.76,9,4.61,64.77,3.75,15.63,Patch,2018,Temperate,725.54,84,11.76,836971.31,7
+151,TX,Fulton,Interstate,Principal Arterial,86445,24.49,65,1,10,Asphalt,21,221.51,17.17,4.88,50.26,2.29,53.55,None,2016,Tropical,1275.04,26,40.48,208092.08,9
+152,TX,Fulton,Urban,Minor Arterial,78067,5.55,35,4,2,Concrete,17,112.48,19.14,0.23,49.18,3.18,23.04,Patch,2014,Continental,1491.16,40,28.4,630975.52,11
+153,WA,Harris,Interstate,Local,81257,21.8,55,5,6,Concrete,11,66.4,9.98,6.87,17.18,1.59,74.37,Reconstruction,2005,Tropical,1005.26,27,2.61,423067.32,20
+154,TX,Orange,Interstate,Principal Arterial,85742,20.04,25,5,11,Asphalt,41,222.65,18.63,2.94,27.87,2.81,52.81,Patch,2023,Tropical,1772.47,15,88.57,1463194.11,2
+155,NY,Bexar,Rural,Collector,38711,9.57,55,4,10,Concrete,42,193.1,11.67,5.6,15.89,4.52,41.12,Resurface,2005,Temperate,1130.65,34,88.6,329578.66,20
+156,CA,King,Rural,Collector,7530,24.13,25,1,5,Composite,38,151.13,10.77,3.01,19.57,2.68,26.88,Patch,2022,Cold,459.66,35,20.92,77906.7,3
+157,OH,Orange,Rural,Local,12116,7.96,70,4,9,Asphalt,8,140.9,9.09,1.67,97.3,4.36,99.87,Resurface,1992,Tropical,1320.12,55,16.29,659172.94,33
+158,CA,King,Urban,Collector,66794,18.59,65,1,7,Composite,5,104.2,4.19,4.07,15.31,3.36,7.17,Resurface,2012,Tropical,1032.02,98,54.73,214721.82,13
+159,WA,Harris,State Highway,Local,1282,9.5,25,2,4,Asphalt,18,217.4,0.07,2.32,26.93,1.77,4.36,None,2000,Tropical,1884.21,108,63.08,277461.64,25
+160,FL,Harris,Interstate,Collector,80473,13.63,25,1,5,Concrete,47,292.67,4.83,5.35,59.06,3.32,21.73,Resurface,2007,Arid,905.41,18,95.75,98129.26,18
+161,OH,Bexar,Interstate,Minor Arterial,2898,19.38,25,2,3,Composite,46,93.93,10.19,1.99,61.02,3.02,97.11,Patch,2018,Tropical,925.16,56,37.73,509481.68,7
+162,WA,Fulton,Interstate,Principal Arterial,5135,16.27,35,2,2,Concrete,6,199.28,7.6,5.08,15.4,2.59,97.92,Reconstruction,1994,Tropical,1371.39,84,61.82,281551.66,31
+163,GA,Orange,Urban,Minor Arterial,7629,13.55,70,1,9,Concrete,15,156.05,8.97,1.57,79.37,1.48,65.49,Patch,2013,Continental,1148.58,32,87.82,98580.24,12
+164,FL,Cuyahoga,Rural,Principal Arterial,86120,11.53,35,3,2,Asphalt,4,161.67,19.61,6.71,78.52,2.67,88.01,Reconstruction,2018,Arid,874.01,22,45,423813.66,7
+165,CA,Fulton,State Highway,Principal Arterial,66031,21.79,65,1,2,Composite,15,113.54,7.01,7.54,23.73,1.29,21.4,Resurface,2018,Tropical,1981.59,118,12.23,103638.55,7
+166,WA,Orange,Urban,Principal Arterial,34380,7.88,25,5,5,Concrete,0,256.28,9.04,1.1,28.87,1.4,97.2,None,2015,Tropical,743.93,62,37.74,899309.67,10
+167,GA,Fulton,Rural,Minor Arterial,18071,13.6,70,5,11,Asphalt,36,171.31,2.67,4.68,93.8,2.66,14.28,Resurface,1992,Temperate,699.55,69,13.66,1085361.73,33
+168,OH,Cuyahoga,Urban,Principal Arterial,21074,23.08,70,3,11,Asphalt,38,185.85,0.96,0.71,82.57,2.22,10.11,Resurface,1991,Temperate,1755.97,95,1.66,749668.03,34
+169,OH,Cook,State Highway,Minor Arterial,68843,21.92,45,2,7,Asphalt,18,126.19,15.51,5.98,69.78,4.7,11.22,Reconstruction,2014,Arid,206.07,21,75.16,213781.02,11
+170,IL,Cook,Rural,Local,40901,13.02,65,3,10,Concrete,36,95.45,11.41,2.64,8.22,2.5,57.31,Patch,2008,Continental,562.26,66,23.84,275215.5,17
+171,GA,Bexar,Urban,Collector,12205,20.26,70,5,2,Asphalt,16,71.48,15.21,5.28,41.83,4.03,78.1,None,1991,Arid,1262.8,98,0.2,274504.28,34
+172,NY,Cook,State Highway,Collector,56661,21.46,25,3,8,Composite,25,228.53,3,5.17,55.93,3.12,36.67,None,2008,Arid,492.41,79,87.24,321065.83,17
+173,TX,Cook,Interstate,Principal Arterial,6906,22.78,25,1,11,Composite,21,99.06,11.44,9.24,18.74,3.82,97.79,None,1990,Temperate,1974.45,105,44.38,55976.34,35
+174,FL,Duval,State Highway,Minor Arterial,3591,15.89,70,3,6,Concrete,7,222.52,5.07,5.49,44.82,2.04,43.44,None,2016,Temperate,1035.55,58,23.89,409105.65,9
+175,GA,King,Interstate,Collector,63987,9.09,35,2,9,Composite,32,147.59,4.56,5.83,60.1,4.77,15.04,Patch,2024,Continental,1275.26,24,26.28,172846.54,1
+176,IL,Duval,Urban,Minor Arterial,64370,10.11,65,1,8,Asphalt,1,153.94,0.23,4.02,32.74,3.12,46.6,None,1994,Tropical,488.67,16,24.05,194973.9,31
+177,TX,Duval,Rural,Minor Arterial,81685,10.91,25,4,5,Concrete,29,167.29,2.61,9.49,78.09,4.33,67.9,Reconstruction,1993,Continental,720.88,38,19.46,583726.76,32
+178,TX,Bexar,Rural,Principal Arterial,55400,16.88,70,5,5,Asphalt,46,141.93,6.19,7.77,84.04,2.46,83.22,Reconstruction,2006,Tropical,1306.32,76,84.12,366981.68,19
+179,WA,Duval,Urban,Collector,26150,5.66,25,5,7,Concrete,19,75.15,2.34,2.85,32.36,1.4,45.88,None,2010,Cold,1189.2,91,17.03,749833.08,15
+180,TX,Cook,Rural,Principal Arterial,32852,17.72,70,3,7,Concrete,17,127.41,19.72,8.44,83.87,3.69,59.36,None,2020,Temperate,1611.86,74,56.19,307011.09,5
+181,NY,Cuyahoga,Rural,Principal Arterial,43870,12.29,65,1,10,Asphalt,42,215.93,6.17,4.32,10.36,1.03,26.73,Patch,2011,Cold,684.62,73,7.73,220044.34,14
+182,OH,Bexar,Interstate,Collector,53756,10.9,70,4,6,Composite,9,216.45,2.61,8.29,83.77,2.9,64.59,Patch,2000,Cold,1376.38,38,94.95,564436.24,25
+183,IL,Bexar,Urban,Collector,57481,22.59,45,1,9,Composite,23,121.56,3.98,8.23,15.28,1.77,98.6,None,2023,Temperate,723.76,23,60.33,86757.5,2
+184,TX,Harris,State Highway,Local,2283,14.2,70,5,6,Concrete,3,165.03,11.75,1.89,8.29,3.51,4.91,Patch,2004,Cold,1256.15,37,90.32,687002.17,21
+185,WA,Bexar,Interstate,Local,34691,6.9,70,1,3,Asphalt,36,98.36,1.28,7.01,64.18,4.92,88.65,Resurface,1999,Arid,1289.06,87,39.79,106094.58,26
+186,NY,Harris,Urban,Minor Arterial,2125,21.53,65,4,7,Asphalt,3,102.59,17.25,2.91,47.19,2.86,56.23,None,2021,Tropical,419.31,96,81.07,995779,4
+187,CA,Bexar,Interstate,Collector,68065,5.95,70,3,10,Concrete,12,55.76,19.23,2.97,90.79,4.27,25.21,Patch,2020,Continental,1187.54,80,85.37,887525.67,5
+188,OH,King,State Highway,Local,27170,19.53,65,2,4,Composite,24,274.19,4.93,2.96,36.32,3.03,95.49,Reconstruction,2017,Temperate,221.49,56,70.29,112745.69,8
+189,OH,Cook,State Highway,Minor Arterial,9438,20.48,45,1,2,Asphalt,12,102.68,9,7.26,28.72,2.98,48.34,None,2020,Arid,1102.18,43,9.29,222505.03,5
+190,IL,Bexar,Urban,Minor Arterial,21095,12.05,65,2,2,Composite,17,106.88,0.44,2.3,50.07,4.72,33.17,None,1995,Continental,1455.54,35,1.61,231978.92,30
+191,OH,Cook,State Highway,Minor Arterial,17154,21.5,25,5,4,Composite,23,119.9,12.81,0.01,45.59,4.56,18.15,Reconstruction,2003,Continental,331.1,98,16.86,333010.8,22
+192,TX,Cook,Interstate,Local,9004,15.31,65,3,11,Concrete,1,81.85,8.28,7.15,34.44,4.14,24.45,Reconstruction,2012,Continental,1889.68,69,11.81,160763.48,13
+193,WA,Fulton,State Highway,Collector,10752,14.27,45,3,6,Concrete,47,209.82,5.4,1.71,69.37,2.19,83.28,Patch,2005,Cold,1025.76,79,72.51,810757.25,20
+194,OH,Bexar,Interstate,Principal Arterial,56426,5.91,55,1,4,Composite,32,68.79,4.14,1.04,75.96,3.18,61.44,Reconstruction,2014,Cold,1889.15,44,55.7,138401.63,11
+195,OH,Orange,Interstate,Minor Arterial,27819,10.8,70,3,10,Asphalt,18,83.55,13.08,2.38,85.3,1.9,91.32,Resurface,1991,Cold,393.32,91,52.6,895907.92,34
+196,CA,Fulton,State Highway,Local,25217,23.62,65,1,9,Asphalt,8,211.19,8.32,3.8,97.29,2.78,23.2,None,2023,Cold,1909.82,104,25.29,160594.29,2
+197,CA,Orange,Urban,Local,89708,12.84,70,1,4,Concrete,27,134.92,3.59,4.76,26.67,2.94,12.11,Resurface,2014,Arid,396.55,95,15.46,96899.44,11
+198,FL,Cook,Rural,Principal Arterial,33994,15.93,35,2,10,Composite,34,226.99,13.78,0.45,71.61,4.33,0.61,Patch,2005,Cold,1030.69,25,20.65,488571.78,20
+199,NY,Cook,State Highway,Principal Arterial,16036,15.64,25,3,7,Asphalt,38,189.36,11.3,9.71,39.43,4.58,50.79,Reconstruction,2007,Temperate,1888.39,10,40.03,844869.16,18
+200,TX,Fulton,Interstate,Local,78275,16.81,25,1,8,Asphalt,9,114.01,17.17,7.16,67.71,2.66,99.83,None,2002,Continental,618.87,51,74.01,253905.26,23
+201,OH,Fulton,Interstate,Collector,50416,6.23,35,2,5,Concrete,0,212.71,2.35,3.23,47.6,1.07,69.5,Reconstruction,2016,Arid,262.61,24,25.45,472599.62,9
+202,GA,Orange,State Highway,Principal Arterial,10587,12.24,35,4,5,Composite,41,79.07,15.71,3.19,99.38,4.45,30.84,Reconstruction,2023,Cold,1627.6,30,69.86,534699.69,2
+203,OH,Harris,Urban,Local,1645,19.46,65,2,3,Asphalt,20,184.1,13.47,4.49,72.89,1.7,87.69,Patch,2000,Continental,1272.59,84,49.15,132245.18,25
+204,WA,Orange,Urban,Principal Arterial,31930,9.01,35,2,6,Concrete,8,159.29,2.3,6.26,95.25,3.49,78.17,Patch,1990,Arid,1125.06,44,88.54,200649.67,35
+205,FL,Fulton,Interstate,Collector,82835,9.07,55,1,9,Asphalt,46,116.97,13.9,1.46,83.5,1.1,1.54,Patch,2002,Continental,261.82,118,23.29,161702.56,23
+206,NY,Cuyahoga,Interstate,Minor Arterial,31090,5.2,70,5,8,Asphalt,14,201,8.83,1.89,90.29,2.6,81.69,Patch,2019,Arid,1375.82,114,45.09,1445249.84,6
+207,GA,Fulton,Urban,Principal Arterial,88489,13.75,70,5,8,Asphalt,34,267.83,18.9,8.59,81.44,4.94,30.05,None,1994,Tropical,508.92,66,9.67,1153567.72,31
+208,FL,Cuyahoga,Rural,Collector,53142,22.65,45,5,7,Concrete,4,299.73,2.83,2.56,45.92,1.4,14.97,Resurface,2007,Arid,1876.15,75,33.52,1285353.81,18
+209,IL,King,State Highway,Local,27475,6.04,35,2,4,Composite,40,201.94,12.86,3.8,25.18,2.69,22.63,Resurface,2003,Cold,1434.31,114,50.69,238646.95,22
+210,NY,Fulton,Interstate,Principal Arterial,19888,8.82,35,1,6,Concrete,21,151.18,7.64,8.71,37.03,2.23,46.86,None,2002,Continental,1472.66,39,73.27,220955.76,23
+211,OH,King,Interstate,Principal Arterial,44732,11.2,55,3,2,Composite,40,106.3,19.14,6.63,2.02,4.62,42.49,Reconstruction,2021,Continental,618.64,45,19.81,796828.61,4
+212,OH,Harris,Urban,Local,82623,19.63,25,2,8,Asphalt,22,114.27,6.6,3.42,52.4,4.48,28.89,None,1996,Continental,1785.36,53,21.81,339705.76,29
+213,NY,Orange,State Highway,Minor Arterial,47305,17.81,25,2,10,Composite,6,169.86,19.24,6.84,50.51,1.95,17.22,Resurface,1997,Temperate,1167.92,40,63.16,314945.93,28
+214,OH,Cuyahoga,Urban,Local,47037,13.32,70,1,2,Asphalt,22,141.82,18.03,0.2,52.53,1.32,76.22,Resurface,1996,Temperate,1742.75,88,38.25,229851.13,29
+215,TX,Orange,State Highway,Principal Arterial,10346,20.18,70,4,3,Asphalt,43,278.45,5.41,7.36,97.4,3.51,99.01,None,2005,Cold,687.71,119,48.21,759911.69,20
+216,NY,King,State Highway,Local,1587,17.19,65,2,4,Concrete,24,142.07,16.07,4.87,91.15,2.35,77.78,Patch,2020,Tropical,1559.83,80,83.61,596585.54,5
+217,FL,Cuyahoga,State Highway,Collector,13763,22.92,55,4,4,Asphalt,26,143.36,19.91,8.13,16.17,3.69,29.59,Reconstruction,2016,Temperate,1234.22,37,49.91,625102.8,9
+218,NY,Orange,Interstate,Local,60165,21.36,45,4,9,Concrete,40,145.88,5.05,9.55,36.89,1.13,24.48,None,2022,Arid,287.15,99,65.25,375943.28,3
+219,GA,Fulton,Rural,Principal Arterial,70615,10.06,45,5,8,Composite,5,259.16,8.74,9.26,42.4,1.53,21.77,Resurface,2018,Cold,929.62,35,65.68,839918.82,7
+220,OH,Cook,Urban,Local,37116,10.43,55,1,7,Composite,33,212.7,10.4,9.09,36.05,3.75,13.67,Patch,1997,Tropical,531.04,82,80.36,108801.25,28
+221,TX,King,Rural,Minor Arterial,86751,7.51,45,4,11,Asphalt,8,203.54,5.9,5.12,79.85,1.85,55.13,Reconstruction,2022,Arid,846.51,43,63.81,761253.82,3
+222,TX,Orange,Urban,Local,26556,11.74,25,1,11,Concrete,48,133.54,0.31,3.6,52.4,4.43,60.54,Resurface,2008,Continental,890.03,56,6.48,81449.25,17
+223,IL,King,State Highway,Minor Arterial,60042,24.99,45,5,5,Asphalt,32,254.48,4.4,4.65,57.21,1.23,70.55,Reconstruction,2010,Temperate,1054.87,65,34.22,1437470.34,15
+224,FL,Duval,Interstate,Collector,19099,13.12,45,1,10,Concrete,5,59.59,5.64,6.9,85.3,1.86,68.02,Patch,2010,Arid,1280.52,80,98.93,264955.72,15
+225,CA,King,Rural,Minor Arterial,46096,9.41,55,2,2,Concrete,36,267.7,8.87,8.84,80.59,4.99,29.23,Resurface,2014,Tropical,1227.76,29,19.65,177782.7,11
+226,CA,Cuyahoga,Interstate,Local,72986,20.25,55,4,3,Concrete,30,178.19,3.42,2.07,13.22,2.73,33.03,Patch,2012,Cold,270.18,110,58.67,372392.92,13
+227,NY,Duval,Urban,Principal Arterial,14230,15.85,45,1,5,Composite,33,149.56,17.47,9.18,71.39,3.81,68.15,None,2000,Arid,1551.24,9,84.29,178109.67,25
+228,IL,Bexar,Interstate,Minor Arterial,30009,7.99,35,3,4,Concrete,40,174.29,14.1,8.15,43.54,1.73,34.94,None,2022,Cold,1908.53,98,58.66,729661.04,3
+229,WA,Cuyahoga,Interstate,Collector,71969,12.61,55,1,2,Composite,28,216.85,1.7,9.79,29.46,3.44,21.26,Reconstruction,2009,Continental,827.63,60,37.23,104769.83,16
+230,NY,Cook,Rural,Minor Arterial,34866,13.29,65,4,6,Concrete,13,53.19,13,8.8,5,3.9,37.43,Patch,2014,Tropical,523.54,62,8.02,260971.72,11
+231,IL,Duval,State Highway,Minor Arterial,85246,20.08,65,5,8,Composite,35,267.89,13.07,2.8,48.72,2.26,27.21,Patch,2015,Tropical,1172,115,36.17,931917.85,10
+232,FL,Bexar,Interstate,Minor Arterial,77975,5.41,25,5,3,Composite,35,161.68,19.12,1.06,35.54,4.32,8.83,Reconstruction,2001,Temperate,1468.84,35,18.21,1114496.39,24
+233,FL,Fulton,State Highway,Collector,42855,10.38,45,4,6,Composite,14,135.74,0.06,1.12,25.15,3.41,83.01,Reconstruction,2021,Tropical,1422.03,53,96.09,444365.49,4
+234,FL,King,Urban,Local,82557,15.35,35,2,7,Asphalt,7,84.56,4.96,2.91,69.47,2.56,85.31,Reconstruction,2022,Arid,1301.8,96,71.5,469883.89,3
+235,FL,Orange,Interstate,Minor Arterial,7416,10.38,25,2,8,Concrete,25,159.87,18.56,6.14,76.95,3.23,21.98,None,1999,Arid,463.22,64,74.94,575321.89,26
+236,FL,Harris,Rural,Minor Arterial,73516,17.57,45,5,2,Asphalt,35,174.08,18.64,8.04,24.48,3.31,6.48,Reconstruction,1993,Arid,1706.28,81,43.6,421343.05,32
+237,IL,King,Urban,Principal Arterial,56915,14.64,55,5,8,Concrete,47,150.91,14.41,8.99,4.94,1.66,73.88,None,2004,Continental,966.12,3,11,888786.33,21
+238,IL,Bexar,Urban,Collector,19058,12.23,65,4,5,Concrete,20,219.67,15.32,6.24,84.88,2.61,21.15,Reconstruction,1995,Tropical,598.64,54,26.67,256841.95,30
+239,TX,King,Rural,Minor Arterial,77637,23.98,70,2,9,Asphalt,27,155.22,1.83,0.06,1,2.37,39.34,Patch,2016,Tropical,355.28,53,25.97,203330.5,9
+240,GA,Cook,Interstate,Collector,41718,17.64,35,5,5,Composite,3,290.35,10.28,1.86,93.71,2.6,6.41,Patch,1994,Arid,950.09,110,48.68,362274.19,31
+241,CA,Fulton,Interstate,Minor Arterial,33602,7.6,70,2,7,Concrete,15,199.82,4.63,1,62.76,4.04,22.63,Reconstruction,1994,Temperate,1312.35,90,46.1,302003.31,31
+242,OH,Harris,Urban,Local,75658,16.2,65,5,10,Composite,21,251.87,3.62,3.63,32.18,2.93,79.29,Reconstruction,2007,Temperate,1397.68,88,43.34,1276039.74,18
+243,FL,Duval,Interstate,Local,79112,20.61,70,1,6,Asphalt,11,77.34,16.21,5.01,24.65,4.76,80.44,None,2017,Tropical,1932.93,63,49.6,194282.61,8
+244,WA,Duval,State Highway,Minor Arterial,59067,19.17,55,3,5,Composite,15,149.32,2.7,0.43,0.9,2.17,20.71,Resurface,2024,Tropical,475.67,118,98.7,316938.63,1
+245,OH,Duval,Rural,Local,28516,8.44,45,1,9,Concrete,39,134.21,9.37,3.48,23.55,2.66,33.59,None,2011,Cold,1974.39,91,29.84,60027.66,14
+246,IL,Bexar,State Highway,Minor Arterial,88969,24.45,55,5,10,Concrete,37,192.37,18.77,1.79,13.77,4.15,13.42,Patch,2023,Tropical,1378.42,116,61.53,941747.74,2
+247,WA,Cuyahoga,Interstate,Local,2089,13.98,70,3,5,Concrete,41,265.28,3.72,6.47,61.22,3.18,7.42,Reconstruction,1993,Arid,1017.61,21,23.95,249597.54,32
+248,WA,Cuyahoga,Urban,Principal Arterial,38346,8.18,55,3,4,Asphalt,36,69.58,19.56,4.64,16.65,3.19,99.22,Patch,2007,Continental,1798.75,105,46.66,407050.52,18
+249,WA,Orange,Rural,Principal Arterial,75663,8.6,65,5,9,Concrete,28,68.14,19.89,4.95,52.86,1.21,65.56,Resurface,2015,Tropical,1450.06,24,20,887740.32,10
+250,TX,Harris,Interstate,Principal Arterial,11487,6.96,35,5,6,Asphalt,17,262.58,11.11,4.28,59.01,2.59,54.21,None,2011,Tropical,827.69,80,55.82,1379665.67,14
+251,IL,Duval,Interstate,Collector,1155,21.07,55,2,3,Composite,9,103.21,3.4,9.56,29.8,2.08,76.55,Patch,2022,Arid,1791.35,58,26.5,140911.66,3
+252,WA,Cuyahoga,Urban,Collector,68494,7.44,65,5,11,Concrete,41,217.19,6.32,2.15,3.51,5,84.01,None,2003,Cold,1399.91,56,3.68,1085759.49,22
+253,FL,Bexar,Urban,Principal Arterial,77229,7.5,35,4,10,Concrete,38,185.72,8.49,5.17,3.73,2.23,80.67,Reconstruction,2020,Tropical,1457.91,53,81.53,214081.29,5
+254,NY,Orange,State Highway,Collector,39547,22.01,45,5,4,Concrete,17,258.22,6.19,7.36,2.63,4.54,1.65,Patch,1999,Temperate,1813.5,43,12.83,1037385.69,26
+255,WA,Fulton,Rural,Local,29795,11.89,70,4,3,Composite,0,81.27,5.61,5.57,73.91,3.7,18.68,Resurface,2013,Temperate,1007.15,51,36.8,751532.49,12
+256,TX,Orange,Rural,Minor Arterial,56296,5.62,45,5,2,Concrete,38,82.45,19.44,9.29,31.8,2.36,65.49,None,2010,Temperate,1382.43,75,47.72,1264833.28,15
+257,OH,Cuyahoga,Urban,Minor Arterial,22447,6.04,25,2,9,Asphalt,20,189.2,3.07,3.78,79.63,3.17,37.58,None,1997,Continental,1540.44,15,43.25,365831.24,28
+258,IL,Cook,State Highway,Minor Arterial,37598,7.84,65,4,4,Composite,0,286.59,14.67,4.64,43.17,4.36,98.25,Resurface,2021,Continental,1017.09,100,72.57,552616.6,4
+259,GA,Bexar,Rural,Principal Arterial,42814,9.27,35,1,8,Composite,14,153.75,0.01,0.89,45.3,4.53,66.54,Patch,2020,Tropical,350.21,15,59.68,110687.72,5
+260,TX,Cook,Urban,Collector,76330,18.3,55,4,2,Composite,3,131.74,11.92,6.09,51.29,1.64,95.65,Patch,2023,Tropical,1588.59,80,29.54,285249.74,2
+261,WA,Duval,Interstate,Local,88960,8.15,45,2,2,Composite,19,201.67,18.32,2.88,71.3,2.36,20.14,None,2012,Tropical,286.07,54,5.17,367306.34,13
+262,IL,Cook,Rural,Local,64278,7.38,35,4,10,Composite,9,282.61,5.76,1.6,27.35,2.34,86.4,Resurface,2014,Continental,1492.25,60,76.76,1088321.93,11
+263,NY,Duval,State Highway,Principal Arterial,56077,20.29,65,5,9,Asphalt,22,259.23,3.71,5.45,12.16,1.17,32.14,None,1996,Tropical,1839.58,94,35.25,893430.62,29
+264,WA,Duval,State Highway,Local,72906,18.42,25,5,4,Composite,40,298.87,13.03,5.32,55.61,3.39,98.96,None,2008,Arid,824.54,78,88.97,1173878.57,17
+265,TX,Cuyahoga,State Highway,Local,10528,13.71,45,2,7,Concrete,33,55.64,14.25,0.76,32.7,4.42,15.77,Reconstruction,1996,Cold,383.71,76,39.51,249217.47,29
+266,CA,Cook,Interstate,Local,51100,15.99,70,3,4,Composite,45,78.21,13.76,6.98,44.25,2.53,51.63,Patch,1997,Temperate,619.16,39,71.77,486098.14,28
+267,FL,Duval,Rural,Local,9179,11.24,35,5,5,Composite,47,202.37,6.39,6.24,64.69,3.96,79.28,Patch,2003,Temperate,1212.11,90,93.96,655754,22
+268,GA,Harris,Rural,Collector,49781,14.65,70,1,2,Composite,32,255.14,5.04,1.89,49.41,3.51,43.26,Reconstruction,1990,Arid,1896.79,20,65.12,77316.53,35
+269,OH,Fulton,Interstate,Local,56267,15.13,35,2,6,Composite,33,121.31,19.12,4.69,62.03,2.5,46.81,Patch,2002,Tropical,1122.11,65,41.35,308494.3,23
+270,TX,Orange,Rural,Minor Arterial,83379,12.74,35,4,2,Composite,38,109.8,18.47,7.2,54.42,1.56,98.64,Patch,1992,Continental,402.93,7,56.74,964287.23,33
+271,IL,Orange,Interstate,Principal Arterial,24952,23.13,65,4,2,Asphalt,9,246.74,9.15,5.29,73.98,3.84,42.53,Patch,2017,Tropical,1330.01,105,54.34,594975,8
+272,GA,Cuyahoga,Interstate,Collector,54798,5.32,65,1,11,Asphalt,19,64.1,16.92,3.95,70.59,4.42,60.41,Resurface,2004,Tropical,1519.12,70,58.48,212544.81,21
+273,GA,Cook,Interstate,Local,51939,20.64,65,5,8,Composite,0,142.35,9.05,3.22,53.42,3.74,5.45,Reconstruction,1992,Temperate,907.91,9,14.68,1198269.36,33
+274,GA,Cook,State Highway,Collector,30516,7.49,55,2,7,Asphalt,12,176.45,8.49,6.1,67.89,1.07,84.22,None,1993,Temperate,1498.73,56,69.85,261368.11,32
+275,WA,Duval,Rural,Local,57526,20.95,35,1,3,Concrete,0,190.09,3.14,9.39,87.36,1.86,64.82,Resurface,1994,Continental,784.68,3,14.5,249378.64,31
+276,FL,Bexar,Interstate,Minor Arterial,11449,17.32,45,5,3,Composite,4,232.15,8.53,6.72,43.23,1.28,40.4,None,2015,Temperate,1620.36,42,1.46,673657.15,10
+277,WA,King,Rural,Principal Arterial,51290,21.87,70,2,8,Concrete,15,138.71,10.75,0.75,41.28,3.28,1.62,Reconstruction,2014,Tropical,813.93,104,62.48,228053.53,11
+278,IL,Duval,State Highway,Local,87661,6.95,65,4,2,Concrete,14,203.17,0.45,4.61,76.42,4.03,59.17,Reconstruction,1999,Arid,660.99,99,11.69,422446.17,26
+279,WA,Fulton,Interstate,Local,73954,16.18,65,2,3,Composite,48,196.34,8.88,8.91,58.26,1.44,1.27,Reconstruction,1997,Continental,1782.53,98,77.04,199952.07,28
+280,CA,Harris,Urban,Local,23746,15.02,70,3,9,Concrete,27,186.9,15.63,0.94,7.1,4.35,0.12,Patch,2001,Arid,1187.25,62,86.6,702843.05,24
+281,FL,Orange,State Highway,Local,68990,19.12,70,2,7,Concrete,30,210.12,13.6,9.89,89.21,3.22,61.61,Resurface,1992,Tropical,713.28,42,94.47,543754.63,33
+282,FL,Duval,Urban,Principal Arterial,59810,15.69,35,3,3,Concrete,22,114.86,12.7,9.49,3.08,3.76,18.9,Reconstruction,2016,Continental,1883.16,66,66.45,322986.36,9
+283,IL,King,Rural,Principal Arterial,84297,15.81,65,2,8,Composite,47,71.16,18.19,0.78,74.84,4.89,19.19,None,2012,Arid,1443.53,81,48.2,142620.15,13
+284,OH,King,Rural,Minor Arterial,16223,13.59,70,3,5,Composite,44,79.82,0.36,9.33,75.88,1.33,65.33,Patch,2022,Continental,597.26,50,35.23,385325.23,3
+285,CA,Duval,State Highway,Principal Arterial,73237,11.18,55,4,3,Concrete,42,106.15,11.14,3.63,95.31,4.6,5.37,Patch,2003,Tropical,1306.36,109,49.09,857847.24,22
+286,TX,Cuyahoga,Rural,Local,3597,14.65,55,5,7,Composite,16,175.05,15.75,8.45,5.41,1.5,31.34,Resurface,2012,Continental,1766.65,55,19.04,710650.12,13
+287,WA,Orange,Urban,Minor Arterial,66677,7.37,65,3,10,Composite,48,260.11,10.83,4.18,59.69,2.57,14.94,Resurface,2020,Tropical,1453.08,42,34.84,561882.4,5
+288,NY,Cuyahoga,Interstate,Minor Arterial,3659,24.23,70,3,10,Concrete,33,225.32,6.48,4.41,42.78,4.41,58.02,Resurface,2002,Continental,640.57,23,71.79,708228.72,23
+289,WA,Harris,Interstate,Minor Arterial,87516,19.29,35,4,9,Composite,12,247.26,2.73,6.34,33.06,4.63,66.18,Patch,2001,Continental,1367.93,95,21.74,608478.53,24
+290,GA,King,Interstate,Local,75567,24.05,35,3,4,Asphalt,13,137.74,17.75,7.74,9.03,3.03,72.11,Reconstruction,2024,Temperate,1314.49,33,26.41,899771.12,1
+291,WA,King,State Highway,Collector,16037,9.53,35,1,4,Composite,10,151.16,9.42,0.34,56.27,3.38,25.52,None,2007,Tropical,1677.52,58,74.93,124487.32,18
+292,TX,Fulton,Rural,Local,47738,22.59,25,4,3,Asphalt,27,148.42,17.56,5.93,47.9,3.83,8.92,Reconstruction,2010,Cold,520.64,1,17.78,1178248.35,15
+293,WA,Harris,Urban,Principal Arterial,72678,21.18,65,1,6,Concrete,41,97.97,11.72,1.87,10.46,4.33,7.87,None,1990,Continental,1459.34,1,24.59,100757.42,35
+294,CA,King,Rural,Principal Arterial,13109,18.54,35,4,5,Composite,31,65.3,13.48,3.46,61.25,1.49,42.62,Reconstruction,1998,Arid,249.27,9,1.75,310931.74,27
+295,CA,Harris,Rural,Local,23010,17.5,55,3,8,Concrete,34,197.73,16.09,3.48,73.8,4.24,94.58,Resurface,2012,Temperate,1453.12,22,72.01,713122.97,13
+296,FL,Orange,Rural,Local,9787,11.33,70,1,5,Concrete,30,297.3,13.18,4.69,76.73,2.93,21.77,None,2003,Temperate,1928.79,14,61.79,225577.41,22
+297,IL,Cook,Interstate,Minor Arterial,9472,21.33,45,3,10,Concrete,16,91.71,7.96,3.34,90.54,2.8,25.67,Patch,2000,Continental,513.9,117,69.44,758377.01,25
+298,OH,King,Urban,Local,24383,15.03,45,4,3,Concrete,46,61.67,10.27,1.07,40.95,2.7,10.09,None,1996,Cold,760.34,75,21.43,543590.42,29
+299,NY,Fulton,Urban,Minor Arterial,62709,6.42,35,3,7,Concrete,8,244.88,16.06,1.46,95.31,3.04,60.56,Patch,2020,Temperate,1249.17,106,68.74,848105.74,5
+300,GA,Orange,Rural,Principal Arterial,70785,11.26,45,1,8,Composite,9,113.15,7.47,0.33,86.54,4.78,67.99,Reconstruction,2013,Tropical,1518.31,16,59.64,79870.36,12
+301,WA,Duval,Interstate,Minor Arterial,35518,23.71,45,1,5,Asphalt,7,257.41,7.76,4.7,29.65,3.19,64.29,Resurface,2015,Continental,819.87,81,36.61,57569.28,10
+302,WA,Harris,Interstate,Local,54909,22.01,25,3,7,Composite,20,225.98,1.91,9.54,15.93,4.81,86.11,None,2019,Continental,1395.67,13,43.78,375422.91,6
+303,TX,Duval,Urban,Principal Arterial,19351,24.64,55,2,8,Composite,12,286.42,18.29,1.16,43.54,1.72,48.64,Patch,2023,Cold,1818.7,80,56.79,498662.23,2
+304,IL,Cuyahoga,Interstate,Collector,70624,17.56,55,4,5,Composite,49,152.23,1.82,9.46,40.19,3.9,13.45,Reconstruction,1994,Tropical,1507.81,78,49.33,872982.31,31
+305,CA,Orange,Interstate,Minor Arterial,54330,9.95,25,4,9,Composite,4,215.49,12.96,7.33,57.57,4.25,28.94,Resurface,1994,Tropical,1479.84,75,64.18,636208.76,31
+306,NY,Duval,Interstate,Principal Arterial,16282,8.26,25,3,10,Asphalt,5,166.21,8.26,6.37,58.34,3.72,66.24,Resurface,2008,Cold,887.55,15,18.1,342190.21,17
+307,FL,Bexar,State Highway,Minor Arterial,85866,8.74,45,2,2,Composite,29,207.65,8.11,6.45,75,3.43,61.31,Resurface,2017,Arid,1840.57,31,54.07,129636.39,8
+308,CA,Bexar,Rural,Principal Arterial,22778,5.4,65,1,8,Concrete,30,162.4,13.59,8.27,50.99,3.26,53.1,Reconstruction,2015,Tropical,699.18,22,45.03,134376.39,10
+309,GA,King,Urban,Principal Arterial,25264,12.81,70,5,10,Composite,16,97.16,1.34,1.07,10.48,4.44,68.3,Reconstruction,2012,Arid,569.5,101,46.1,825024.71,13
+310,IL,Harris,Urban,Minor Arterial,60675,8.83,70,5,11,Composite,10,176.97,11.87,5.05,85.83,4.29,63.74,Reconstruction,2019,Arid,855.6,33,46.94,1108779.8,6
+311,GA,Cook,State Highway,Collector,6075,13.23,45,3,6,Asphalt,19,182.15,15.44,6.97,30.98,1.49,88.13,Resurface,1992,Continental,1370.28,97,88.15,634478.97,33
+312,OH,Orange,Rural,Principal Arterial,76948,23.7,70,2,3,Asphalt,47,252.65,16.56,5.87,97.13,4.39,58.6,None,2017,Continental,1751.02,15,81.86,573672.45,8
+313,FL,King,Urban,Principal Arterial,49454,13.61,25,2,11,Concrete,8,233.88,3.41,8.33,11.79,2.66,77.86,Patch,2022,Temperate,437.74,33,62.96,150197.96,3
+314,OH,Fulton,Interstate,Principal Arterial,29365,22.56,55,4,7,Composite,1,215.95,17.95,0.72,95.83,2.01,24.87,Reconstruction,1992,Continental,1664.84,103,71.65,536340.12,33
+315,TX,Cuyahoga,Urban,Collector,73766,17.11,70,1,8,Composite,36,78.35,13.12,6.91,9.1,4.48,67.82,None,1994,Tropical,1663.08,70,4.28,170394.52,31
+316,GA,Harris,Interstate,Collector,49200,9.94,45,2,3,Composite,0,230.15,17.64,5.34,23.1,2.73,90.22,Patch,2008,Tropical,1256.45,32,74.4,435347.9,17
+317,TX,Orange,State Highway,Local,12002,12.12,65,5,3,Concrete,3,175.08,9.71,3.79,4.66,4.23,38.57,Resurface,1990,Arid,1569.17,67,48.62,869314.61,35
+318,WA,Bexar,Interstate,Minor Arterial,14947,6.68,45,1,11,Asphalt,35,273.52,10.84,3.4,70.51,2.05,77.91,None,1998,Tropical,527.39,42,31.77,278189.56,27
+319,OH,Orange,Urban,Collector,80222,11.67,35,1,11,Concrete,24,279.97,18.38,6.21,85.03,1.02,72.48,Resurface,1994,Continental,505.25,63,13.98,202168.09,31
+320,IL,Cook,Urban,Minor Arterial,79610,18.55,45,3,2,Composite,2,63.79,18,8.91,43.41,2.98,5.95,Patch,2023,Continental,1753.04,115,7.52,179749.06,2
+321,GA,Bexar,Urban,Local,53142,6.44,25,2,5,Asphalt,8,255.16,8.96,4.96,92.85,1.4,58.15,Reconstruction,2022,Continental,1096.67,70,4.49,156827.98,3
+322,NY,Cook,State Highway,Minor Arterial,57307,9.11,55,3,8,Asphalt,21,59.42,5.49,8.25,59.03,4.02,13.02,Resurface,2014,Cold,642.69,17,16.18,715121.67,11
+323,FL,Fulton,State Highway,Collector,5493,12.63,55,2,10,Concrete,22,141.79,7.86,4.02,63,2.1,96.73,None,2018,Tropical,1439.71,67,3.01,457893.85,7
+324,CA,Cuyahoga,Rural,Minor Arterial,51085,24.64,70,4,4,Asphalt,11,185.57,7.76,1.02,84.54,2.77,81.14,Reconstruction,2014,Temperate,1805.38,112,73.26,353497,11
+325,IL,Fulton,Urban,Collector,35228,20.7,25,3,8,Asphalt,9,87.03,5.74,0.62,29.68,1.35,10.97,None,1998,Tropical,1338.18,60,24.86,194181.5,27
+326,IL,King,Interstate,Minor Arterial,80676,19.67,35,3,8,Composite,33,236.58,5.37,0.51,35.43,2.15,12.18,Patch,1992,Tropical,825.22,74,36.87,584038.39,33
+327,TX,King,State Highway,Collector,52875,7.32,25,5,8,Composite,42,52.09,17.22,3.8,90.6,4.13,59.45,Patch,2004,Cold,1069.83,106,82.27,1044673.54,21
+328,OH,Fulton,Urban,Collector,32655,20.62,45,3,3,Asphalt,9,92.15,1.4,3.37,90.1,1.61,34.49,Reconstruction,1993,Tropical,1554.09,19,11.47,251474.73,32
+329,GA,Cuyahoga,Urban,Minor Arterial,44472,20.71,25,2,7,Asphalt,29,195.2,13.55,7.18,97.65,3.59,3.49,None,2009,Arid,321.5,10,83.56,336809.66,16
+330,GA,Fulton,State Highway,Local,50437,17.02,25,5,3,Concrete,21,228.6,3.46,7.43,90.18,4.67,54.16,None,2012,Continental,590.9,78,63.95,632289.41,13
+331,WA,Cuyahoga,Rural,Principal Arterial,50416,24.81,35,3,7,Concrete,5,279.16,6.89,0.51,12.74,3.72,38.78,None,1997,Continental,1032.65,45,34.2,848479.23,28
+332,WA,Cuyahoga,State Highway,Local,60711,11.51,45,3,11,Asphalt,49,226.37,1.23,2.21,82.37,4.24,10.11,None,2022,Cold,1287.63,63,11.78,314399.85,3
+333,FL,Duval,State Highway,Minor Arterial,7816,23.83,65,4,4,Composite,1,217.94,5.4,2.74,40.98,1.44,80.19,Patch,2022,Continental,810.5,80,9.15,933260.73,3
+334,TX,Bexar,Interstate,Local,78175,23.29,65,3,3,Asphalt,29,148.59,15.37,5.48,99.08,2,91.51,None,1996,Arid,737.1,97,33.55,538600.44,29
+335,IL,Harris,Interstate,Collector,65307,5.23,55,1,7,Asphalt,1,50.32,17.7,1.45,47.23,4.58,75.66,Patch,2011,Cold,274.49,113,14.03,52880.25,14
+336,GA,Cuyahoga,Rural,Principal Arterial,47733,14,70,5,3,Composite,31,80.04,4.43,1.34,55.38,3.86,82.24,None,1994,Temperate,258.68,111,26.77,896248.23,31
+337,NY,Cook,Urban,Minor Arterial,12240,24.54,25,1,6,Composite,41,183.64,9.27,9.44,52.98,3.56,21.65,None,2004,Continental,701.65,75,5.3,74868.04,21
+338,TX,Cuyahoga,State Highway,Minor Arterial,72363,7.06,55,5,3,Concrete,15,218.78,9.41,8.04,32.17,3.66,26.36,Resurface,2010,Tropical,1154.91,105,59.5,1073827.74,15
+339,FL,Cuyahoga,Rural,Minor Arterial,33762,15.96,35,4,4,Concrete,11,154.36,17.47,1.81,7.5,2.66,20.85,Resurface,2014,Arid,1201.47,27,14.53,765523.53,11
+340,FL,Cuyahoga,Interstate,Principal Arterial,9259,24.58,65,3,4,Concrete,0,232.67,15.26,4.07,89.57,1.18,76.51,None,2006,Arid,1089.25,47,75.67,157820.42,19
+341,TX,Duval,State Highway,Collector,51139,16.11,25,3,7,Concrete,7,180.47,10.26,3.56,80.27,4.14,94.79,Patch,1996,Continental,937.79,34,21.82,303519.62,29
+342,FL,Bexar,Urban,Minor Arterial,15849,8.8,35,3,7,Composite,47,68.54,13.41,7.91,13.95,3.71,71.68,None,2008,Temperate,654.12,7,79.8,732168.79,17
+343,TX,Duval,Interstate,Local,82768,16.64,70,5,11,Asphalt,49,98,16.95,5.1,77.68,2.89,88.15,Resurface,1996,Tropical,921.25,90,18.99,594715.77,29
+344,CA,King,Interstate,Minor Arterial,55869,9.09,35,3,4,Concrete,12,260,0.19,1.28,62.58,4.6,63.87,None,2013,Temperate,449.77,21,72.14,524462.55,12
+345,TX,Duval,Interstate,Minor Arterial,64095,15.39,25,1,4,Concrete,14,231.23,8.06,7.39,40.91,2.34,38.77,Resurface,2000,Temperate,407.47,117,33.31,127999.65,25
+346,OH,Cook,Rural,Minor Arterial,71910,6.48,70,3,2,Composite,43,273.69,18.14,3.97,25.4,2.18,42.58,None,1990,Continental,739.9,23,58.31,841145.14,35
+347,TX,Cook,Urban,Minor Arterial,87710,17.11,35,4,8,Composite,7,79.39,14.81,2.63,85.97,4.49,7.53,Reconstruction,2021,Tropical,1991.63,65,3.87,736577.02,4
+348,FL,Duval,State Highway,Collector,24567,15.34,70,1,9,Asphalt,9,297.56,10.86,3.75,70.02,4.19,3.15,None,1991,Continental,787.69,94,49.52,224043.38,34
+349,GA,Bexar,Rural,Local,36292,19.8,25,3,3,Asphalt,45,102.35,10.59,4.98,54.77,3.06,69.55,Patch,2004,Continental,1885.62,85,14.87,212607.08,21
+350,OH,Fulton,Rural,Collector,75813,17.61,25,3,5,Composite,4,52.94,6.96,3.43,60.96,1.52,43.84,Resurface,2010,Arid,906.07,63,48.63,180251.99,15
+351,FL,Harris,Rural,Local,52631,15.99,70,2,11,Concrete,49,299.36,10.41,2.42,9.11,1.86,55.22,Reconstruction,2013,Continental,990.22,64,14.14,229614.1,12
+352,WA,Bexar,Interstate,Minor Arterial,10885,18.8,45,5,8,Concrete,18,120.27,13.11,3.99,47.39,3.62,55.77,Resurface,2006,Cold,1634.71,13,43.71,636417.87,19
+353,WA,Duval,Urban,Principal Arterial,60659,7.88,55,1,9,Concrete,46,217,8.37,0.19,19.37,2.54,27.74,Resurface,1998,Tropical,368.55,24,11.06,221920.14,27
+354,GA,Cuyahoga,Rural,Collector,55306,16.91,35,2,2,Asphalt,37,94.17,14.28,7.72,20.84,4.35,47.59,Patch,2024,Arid,528.16,99,22,384565.25,1
+355,GA,Orange,State Highway,Principal Arterial,67314,8.44,35,4,5,Concrete,10,195.06,17.22,1.71,66.13,4.8,47.08,None,2009,Tropical,1952.91,99,59.51,574579.61,16
+356,OH,Harris,Urban,Collector,66087,23.51,45,5,7,Concrete,42,276.01,3.09,0.44,91.13,4.22,38.84,Patch,2008,Arid,1110.65,104,97.67,1067646.86,17
+357,CA,Harris,State Highway,Minor Arterial,30165,6.37,45,1,4,Composite,19,130.05,9.03,6.54,40.38,2.51,82.07,None,2007,Cold,279.76,2,44.92,90891.44,18
+358,GA,Cook,Urban,Collector,59929,13.61,45,3,6,Concrete,19,217.56,8.16,7.74,20.77,4.15,45.12,Reconstruction,2009,Continental,285.29,4,68.72,197617.27,16
+359,WA,Harris,State Highway,Minor Arterial,68028,18.92,65,1,11,Composite,20,96.98,13.75,8.14,64.87,2.41,60.36,Patch,2019,Arid,1833.03,64,53.94,263626.27,6
+360,TX,Duval,Interstate,Collector,50812,14.16,65,3,10,Concrete,17,206.2,5,4.94,87.12,1.67,89.55,Patch,1990,Arid,1772.06,53,49.84,572959.6,35
+361,FL,Cuyahoga,Rural,Minor Arterial,51500,6.84,70,5,4,Asphalt,49,134.11,12.81,2.05,74.83,1.13,86.62,Resurface,2013,Arid,1025.12,18,6.47,1061369.09,12
+362,WA,Cuyahoga,State Highway,Minor Arterial,80151,16.07,65,3,6,Concrete,9,102.8,17.55,7.37,86.88,2.54,89.04,Patch,2013,Cold,493.8,96,14.43,380431.69,12
+363,WA,King,Urban,Local,59643,17.83,25,4,9,Concrete,33,128.3,8.36,7,53.66,4.61,27,None,2008,Tropical,1694.51,105,88.31,571954.96,17
+364,CA,Cuyahoga,Rural,Minor Arterial,45900,19.08,70,3,7,Composite,25,94.71,18.22,2.46,75.19,1.96,3.5,Patch,2019,Cold,784.28,53,41.02,211775.59,6
+365,OH,Bexar,Rural,Local,43946,12.47,35,4,5,Composite,29,275.48,19.86,9.03,14.01,1.83,26.11,Patch,2015,Arid,954.31,93,61.43,1056988.19,10
+366,OH,Cuyahoga,Urban,Minor Arterial,8851,16.27,55,5,9,Composite,8,149.3,2.12,1.04,34.83,4.88,27.87,Reconstruction,2018,Arid,1428.46,75,52.82,990549.31,7
+367,IL,Cook,State Highway,Principal Arterial,17288,14.01,25,5,4,Concrete,45,111.32,4.66,9.83,38.95,1.1,90.94,None,2002,Continental,836.12,9,37.89,354534.58,23
+368,CA,Cuyahoga,Interstate,Minor Arterial,73692,18.44,35,1,4,Concrete,30,162.1,19.01,8.6,51.13,4.14,64.92,Resurface,1993,Cold,1331.61,97,38.78,251132.4,32
+369,TX,King,Interstate,Principal Arterial,68580,16.67,35,4,5,Asphalt,41,130.13,19.17,6.88,92.91,2.29,8.17,None,2006,Cold,1793.51,15,55.55,644115.37,19
+370,OH,Orange,State Highway,Principal Arterial,8368,15.52,70,4,10,Concrete,3,236.1,1.95,9.39,87.43,1.15,13.54,Reconstruction,2022,Temperate,1635.27,103,14.11,965101.35,3
+371,FL,Duval,Rural,Minor Arterial,86436,9.99,45,2,6,Asphalt,5,292.8,0.3,7.22,13.45,4.67,15.57,None,1994,Tropical,886.9,45,38.73,106309.93,31
+372,GA,Cook,Rural,Principal Arterial,47403,5.04,45,2,9,Composite,13,159.51,3.22,1.9,17.28,1.56,63.04,None,2017,Temperate,718.29,28,44.7,114369.85,8
+373,CA,Bexar,Rural,Local,10168,8.48,25,2,7,Composite,3,265.26,19.92,4.42,35.76,3.21,73.54,Patch,2013,Temperate,713.92,14,98.51,185391.48,12
+374,GA,Orange,Rural,Collector,87497,7.34,45,3,4,Composite,25,191.47,3.6,0.72,29.07,2.1,85.96,Patch,2006,Tropical,827.46,47,35.15,308187.42,19
+375,WA,Cook,State Highway,Minor Arterial,50879,13.98,35,2,9,Asphalt,46,89.31,10.05,3.9,61.48,1.26,94.06,None,2000,Continental,1088.33,10,64.46,481977.77,25
+376,FL,Fulton,Rural,Principal Arterial,60871,17.25,45,4,10,Concrete,47,222.66,16.97,7.42,90.28,1.2,20.17,None,2001,Continental,949.88,107,13.74,906694.16,24
+377,FL,Harris,Urban,Minor Arterial,33174,9.26,65,3,9,Composite,38,178.36,0.41,3.86,96.23,1.46,30.98,Resurface,2002,Tropical,439.41,33,6.55,612066.09,23
+378,WA,Fulton,Rural,Local,7581,23.78,45,5,5,Concrete,16,212.65,12.09,3.3,65.36,1.29,24.03,Reconstruction,1997,Tropical,494.22,35,87.15,1356073.62,28
+379,CA,Cuyahoga,Interstate,Minor Arterial,72853,5.13,35,1,7,Concrete,18,272.42,5.54,5.95,83.82,4.04,35.88,Patch,1990,Cold,817.27,29,73.07,111787.2,35
+380,WA,Orange,Rural,Minor Arterial,65046,20.45,70,2,2,Composite,48,160.11,17.25,8.72,52.52,2.94,91.47,Patch,1998,Cold,1211.72,98,31.75,552202.45,27
+381,GA,Cuyahoga,State Highway,Principal Arterial,50678,17.5,25,5,5,Asphalt,5,275.29,5.67,0.48,20.83,2.37,57.51,Patch,2017,Cold,1266.8,72,50.46,1386838.84,8
+382,IL,Harris,Interstate,Local,27649,12.47,55,4,9,Concrete,28,237.67,13.74,3.85,52.47,2.67,73.82,Patch,1991,Cold,1075.17,81,13.57,634259.76,34
+383,FL,Cook,State Highway,Collector,89668,6.01,45,1,2,Composite,10,172.15,13.48,1.58,55.51,4.72,49.01,None,2003,Arid,1529.8,18,70.72,73596.55,22
+384,NY,Harris,State Highway,Collector,83325,17.55,35,5,4,Concrete,15,200.81,4.43,6.95,74.25,4.64,2.89,None,2002,Arid,1527.05,102,7.03,1158199.89,23
+385,NY,King,Interstate,Principal Arterial,15567,12.71,55,1,2,Concrete,29,131.4,0.7,1.06,21.99,3.86,6.42,Resurface,1991,Continental,969.73,67,75.7,134232.17,34
+386,GA,Harris,State Highway,Minor Arterial,81404,23.73,55,2,10,Concrete,24,295.9,8.18,6.65,36.83,4.54,53.79,Patch,1993,Arid,423.99,69,54.68,497464.76,32
+387,TX,King,State Highway,Principal Arterial,62944,15.84,65,4,3,Concrete,39,216.84,5.78,2.86,36.4,2.28,71.88,Patch,2001,Arid,1154.31,114,27.89,363690.28,24
+388,OH,Harris,Rural,Principal Arterial,79002,23.79,55,1,10,Concrete,10,60.96,16.18,1.99,95.94,2.52,21.53,None,1999,Cold,886.64,32,86.26,184878.78,26
+389,WA,Duval,Urban,Principal Arterial,29803,9.41,70,5,5,Asphalt,6,131.66,16.01,9.36,44.39,3.45,72.19,Resurface,1992,Cold,448.26,95,98.61,885092.16,33
+390,WA,King,State Highway,Minor Arterial,19230,19.51,35,2,3,Asphalt,25,205.83,9.14,0.19,75.51,3.49,81.07,None,1993,Tropical,1967.27,79,25.43,150157.25,32
+391,TX,Orange,State Highway,Local,18862,17.34,35,2,5,Composite,21,64.08,12.13,4.38,75.08,2.93,41.19,Patch,1995,Cold,865.56,74,80.62,281666.41,30
+392,TX,Cuyahoga,State Highway,Principal Arterial,44355,19.79,45,5,11,Asphalt,24,55.97,12.09,0.22,26.55,2.6,74.64,Patch,2012,Tropical,1326.44,21,75.02,355944.14,13
+393,GA,Bexar,Rural,Minor Arterial,32259,9.29,45,5,7,Asphalt,18,162.51,16.54,4.84,57.19,4.94,40.4,Reconstruction,1994,Tropical,1082.23,35,74.72,830925.39,31
+394,GA,Cuyahoga,Urban,Local,88445,18.3,45,1,8,Asphalt,30,133.17,8.5,5.01,89.43,4.28,67.84,Reconstruction,1992,Arid,457.09,113,95.72,260726.14,33
+395,TX,Fulton,Interstate,Principal Arterial,31795,14.96,70,3,4,Concrete,25,159.57,5.51,3.22,47.52,2.74,76.4,Reconstruction,1999,Cold,299.98,22,48.66,352653.57,26
+396,FL,Cuyahoga,Rural,Collector,9770,19.86,55,2,4,Concrete,41,115.67,5.3,1.32,94.51,3.91,99.19,Resurface,2008,Arid,1326.38,62,67.42,482430.99,17
+397,GA,Cook,Rural,Local,12093,11.54,55,1,11,Composite,40,91.18,10.72,3.76,21.45,2.08,34.54,None,2003,Cold,644.64,25,82.39,95856.85,22
+398,IL,Duval,Urban,Principal Arterial,47571,22.8,65,5,9,Composite,35,222.29,8.98,6.72,7.42,1.4,41.1,Patch,2010,Arid,638.58,59,47.95,1092168.66,15
+399,GA,Harris,Urban,Local,1193,6.69,70,1,6,Composite,22,178.64,8.8,7.82,89.15,2.41,16.56,Patch,2017,Arid,1922.56,94,48.14,278884.35,8
+400,WA,Fulton,Rural,Local,18569,21.14,45,5,5,Concrete,46,100.04,1.82,5.31,84.77,2.61,20.41,Resurface,2010,Arid,1031.19,92,31.87,654910.1,15
+401,GA,Cook,Interstate,Local,12190,22.23,25,4,8,Asphalt,12,129.9,14.37,5.9,99.26,1.07,69.34,Patch,2013,Continental,252.97,4,78.08,1100411.64,12
+402,FL,Cook,Rural,Local,63824,21.35,65,5,8,Asphalt,24,197.95,4.27,2.01,67.94,4.26,91.7,Patch,2006,Arid,811.72,53,68.62,881776.16,19
+403,TX,King,Urban,Local,43752,15.25,25,5,10,Concrete,1,68.06,3.94,2.87,93.67,2.44,39.46,None,2011,Temperate,1252.08,37,45.11,646006.42,14
+404,WA,Cuyahoga,Interstate,Local,33327,13.77,55,5,10,Composite,1,86.86,8.26,1.62,82.69,3.32,17.98,Reconstruction,2008,Temperate,791.42,61,41.93,1370635.29,17
+405,GA,Orange,Urban,Principal Arterial,43070,24.93,65,3,6,Composite,15,68.31,4.56,2.49,84.44,1.3,28.51,Reconstruction,1999,Temperate,248.33,24,7.26,174027.95,26
+406,FL,Bexar,Interstate,Collector,86925,9.58,65,5,9,Composite,8,253.08,11.68,2.25,56.91,1.7,45.51,Resurface,2000,Tropical,999.76,97,0.65,285023.56,25
+407,IL,Orange,State Highway,Minor Arterial,41197,15.94,35,2,11,Concrete,27,238.1,7.43,5.19,38.24,4.56,29.07,Reconstruction,1991,Arid,390.63,11,52.89,399914.8,34
+408,GA,Fulton,Urban,Local,3261,18.41,55,2,2,Composite,12,238.33,8.98,5.63,93.46,3.43,23.36,Reconstruction,2022,Temperate,1314.49,21,41.75,498375.36,3
+409,FL,Duval,Urban,Minor Arterial,27512,19.02,55,1,10,Composite,34,229.08,10.74,9.45,43.21,4.8,73.6,Resurface,2020,Tropical,1315.26,8,79.6,237886.58,5
+410,IL,Orange,Rural,Principal Arterial,7716,9.08,70,3,9,Concrete,40,217.35,4.07,1.96,53.88,5,0.78,Resurface,2024,Temperate,267.97,83,54.27,209602.13,1
+411,TX,Harris,Urban,Local,87795,18.08,65,1,7,Asphalt,12,169.25,3.12,6.42,44.61,2.49,53.92,Reconstruction,2012,Cold,723.2,28,93.67,287562.8,13
+412,GA,Orange,Urban,Collector,29933,21.37,55,2,4,Concrete,30,210.57,17.61,8.17,56.48,2.2,79.38,None,2015,Continental,944.64,43,19.61,451531.77,10
+413,IL,Fulton,State Highway,Minor Arterial,5378,6,65,2,4,Concrete,20,59.59,8.67,5.6,47.05,4.43,26.62,Resurface,2014,Arid,1190.48,92,99.02,574556.03,11
+414,WA,Bexar,Urban,Local,41583,23.23,70,4,9,Concrete,31,205.37,8.24,2.55,4.8,4.99,60.33,Patch,2006,Continental,732.91,108,29.79,529097.76,19
+415,TX,Orange,State Highway,Principal Arterial,86371,5.59,70,5,6,Concrete,33,244.47,0.71,2.63,88.2,3.52,66.89,Resurface,2004,Continental,717.94,26,64.24,1117423.91,21
+416,WA,Harris,State Highway,Collector,30033,12.12,35,2,11,Asphalt,7,175.09,9.96,0.39,44.44,4.18,65.5,Patch,1993,Cold,1969.43,117,50.19,529969.37,32
+417,NY,King,State Highway,Minor Arterial,25000,5.32,65,1,8,Composite,40,139.38,11.08,3.05,58.89,4.13,44.58,Resurface,2011,Cold,275.35,54,35.96,145116.06,14
+418,CA,Duval,State Highway,Minor Arterial,76868,6.54,55,1,6,Concrete,47,119.36,11.18,7.45,13.92,2.42,34.66,Resurface,2006,Cold,1980.28,80,13.93,291214.98,19
+419,GA,Fulton,Interstate,Local,43604,23.22,55,5,9,Asphalt,1,210.7,14.14,0.48,0.34,3.3,83.59,Reconstruction,2011,Tropical,285.95,4,13.48,581240.99,14
+420,IL,King,Rural,Collector,69336,12.1,65,5,11,Composite,37,223.2,3.55,2.19,24.53,4.33,75.84,Reconstruction,2006,Temperate,719.01,51,71.15,644517.03,19
+421,CA,King,Interstate,Collector,74869,13.5,65,4,11,Composite,31,267.74,5.04,7.06,70.46,3.75,32.13,Reconstruction,2003,Arid,1088.64,108,37.76,1120328.58,22
+422,CA,King,Urban,Collector,6410,9.31,65,3,5,Composite,39,135.58,16.21,7.83,9.92,1.08,10.3,None,2003,Cold,457.94,12,96.13,877244.81,22
+423,IL,Cook,Interstate,Collector,84375,16.94,45,1,3,Concrete,27,242.44,18.94,4.55,90.89,2.35,7.18,Reconstruction,2006,Arid,442.72,41,32.56,121298.94,19
+424,TX,Duval,Interstate,Principal Arterial,57044,16.9,55,5,4,Concrete,36,190.34,2.72,6.98,21.5,1.58,9.43,Reconstruction,1997,Arid,661.36,14,98.35,420487.55,28
+425,GA,Bexar,Urban,Collector,64315,12.44,70,1,9,Composite,40,270.71,9.95,3.88,20.46,1.93,58.29,Resurface,2023,Arid,1952.31,78,20.54,239763.85,2
+426,NY,Cuyahoga,Urban,Minor Arterial,72344,11.66,55,5,8,Composite,0,181.95,4.28,1.6,18.15,4.62,5.17,Resurface,2015,Cold,884.21,17,10.28,1412081.58,10
+427,WA,Duval,Urban,Minor Arterial,7796,22.7,45,2,3,Composite,40,179.41,1.2,3.98,1.4,1.15,33.69,None,2019,Cold,1218.79,49,31.26,400356.82,6
+428,FL,Cook,Interstate,Principal Arterial,87716,12.67,65,1,7,Composite,9,194.47,6.51,5.8,77.18,1.88,75.32,Patch,2011,Temperate,1467.72,1,88.56,208629.74,14
+429,WA,Cuyahoga,Interstate,Minor Arterial,55245,14.87,35,2,10,Composite,3,237.33,2.87,9.48,87.5,2.24,29.43,Resurface,2005,Cold,1536,86,52.19,481471.67,20
+430,FL,Duval,Urban,Minor Arterial,44056,10.67,65,1,5,Composite,34,291.17,14.2,0.69,61.42,3.47,76.33,Resurface,2019,Cold,1438.47,106,13.57,88271.2,6
+431,WA,King,Rural,Collector,18709,20.74,65,3,10,Asphalt,9,68.39,10.67,5.07,18.82,3.14,74.55,Patch,2005,Arid,806.47,12,20.25,880101.67,20
+432,IL,Fulton,Rural,Minor Arterial,59557,12.95,45,4,3,Composite,46,63.36,2.88,3.29,28.53,1.87,24.58,None,2013,Temperate,401.11,106,31.13,564329.38,12
+433,NY,Cuyahoga,State Highway,Principal Arterial,18543,15.27,55,2,3,Concrete,10,284.39,0.18,5.08,47.59,1.66,72.88,Resurface,2024,Continental,707.09,67,59.02,414120.21,1
+434,GA,Harris,Urban,Collector,38418,10.07,65,5,10,Concrete,13,182.47,16.16,0.24,95.43,1.95,74.78,Reconstruction,1995,Cold,578.53,46,33.24,835770.03,30
+435,FL,Harris,State Highway,Local,17724,24.75,55,3,8,Concrete,37,203.73,3.52,3.13,24.74,3.01,39.75,None,1993,Cold,445.3,117,74.71,501135.73,32
+436,GA,Orange,Rural,Collector,4828,10.83,25,1,8,Composite,11,170.61,12.12,8.2,73.16,2.08,21.04,Patch,2007,Continental,244.09,118,61.63,225686.09,18
+437,GA,Cuyahoga,State Highway,Principal Arterial,18087,20.41,70,2,2,Concrete,44,73.41,6.74,5.54,43.94,4.79,52.13,Patch,1995,Arid,1884.31,88,87.38,597331.15,30
+438,GA,Fulton,Urban,Collector,13605,13.55,55,1,7,Asphalt,16,242.02,11.71,4.51,29.78,2.86,92.14,Reconstruction,2015,Temperate,1857.86,74,50.1,214764.96,10
+439,OH,Bexar,Urban,Collector,32337,9.12,35,1,8,Composite,15,236.81,6.31,2.86,45.59,1.24,63.96,Reconstruction,2016,Arid,290.75,49,33.12,248514.78,9
+440,TX,Cook,Urban,Principal Arterial,6482,20.99,70,1,7,Concrete,34,127.93,1.74,2.98,7.12,3.92,17.29,Reconstruction,2000,Tropical,511.55,111,99.63,56904.01,25
+441,WA,King,Interstate,Collector,66333,11.67,35,4,7,Asphalt,1,126.56,4.46,3.83,79.87,2.32,68.28,None,2005,Cold,451.1,105,35.56,1010427.37,20
+442,GA,Orange,State Highway,Principal Arterial,89296,22.3,65,4,3,Asphalt,10,259.46,3.76,8.36,24.33,3.61,42.72,Patch,2008,Tropical,706.2,11,42.86,499975.88,17
+443,WA,Harris,Rural,Principal Arterial,51952,23.31,70,5,7,Concrete,40,68.09,8.56,9.67,72.54,2.12,59.15,Reconstruction,2004,Cold,567.32,12,80.91,408377.31,21
+444,GA,Cook,Rural,Local,6463,22.2,55,2,5,Asphalt,2,270.28,13.17,4.39,6.83,3.28,73.41,Reconstruction,2015,Tropical,1902.54,8,8.86,156667.04,10
+445,FL,Cook,Rural,Minor Arterial,71448,5.7,70,3,10,Concrete,28,114.17,5.28,3.93,95.51,4.09,51.49,Patch,2020,Continental,351.51,58,38.65,659906.11,5
+446,TX,King,Interstate,Minor Arterial,5648,20.75,65,3,2,Asphalt,17,198.25,0.24,8.47,19.3,4.71,81.4,Resurface,2008,Cold,581.01,116,8.57,898212.63,17
+447,TX,Bexar,Interstate,Collector,34623,13.23,45,3,9,Composite,19,284,10.38,4.27,88.27,2.04,72.22,None,2013,Cold,345.3,44,13.93,649646.32,12
+448,IL,Bexar,Urban,Collector,60156,22.47,35,1,6,Composite,46,219.53,12.12,5.52,80.95,2.34,61.51,Resurface,1998,Tropical,1964.69,101,0.46,115587.04,27
+449,OH,Cuyahoga,Rural,Local,36634,17.76,65,4,2,Composite,13,153.61,19.26,2.31,96.79,2.86,15.08,Reconstruction,2012,Temperate,1853.14,69,0.95,403305.97,13
+450,IL,Harris,Interstate,Local,45602,21.67,45,2,5,Composite,33,222.38,11.79,7.44,47.79,4.71,83.59,None,1993,Tropical,1489.94,106,38.03,362978.55,32
+451,IL,Bexar,Urban,Local,50334,14.99,70,1,2,Composite,48,135.99,9.42,5.32,72.74,4.61,93.59,Resurface,1999,Cold,966.75,114,80.92,66259.82,26
+452,IL,Fulton,Rural,Principal Arterial,69648,15.7,70,4,7,Concrete,30,119.31,11.47,8.09,37.07,1.36,13.7,Patch,1998,Cold,542.32,42,58.7,599330.83,27
+453,IL,Bexar,State Highway,Local,23054,7.89,65,4,3,Composite,39,299.17,18.56,7.81,18.44,1.53,48.82,Reconstruction,2008,Temperate,598.68,73,63.49,866234.9,17
+454,IL,Cook,Urban,Local,71028,20.68,55,2,6,Composite,41,237.7,16.57,2.15,44.31,2.98,25.89,None,2004,Arid,997.47,22,51.92,583831.14,21
+455,NY,King,Interstate,Collector,23207,13.39,70,2,8,Composite,17,211.18,6.46,7.16,16.57,1.43,75.45,None,2023,Temperate,1582.8,78,81.98,312826.72,2
+456,TX,Fulton,Interstate,Local,81650,15,55,2,3,Composite,29,138.82,4.75,8,98.2,2.38,72.16,None,2008,Arid,676.51,44,88.04,200111.97,17
+457,IL,Cuyahoga,Urban,Principal Arterial,82554,20.7,55,1,7,Asphalt,24,62.29,5.25,3.46,9.62,1.59,14.09,None,2010,Cold,759.43,22,84.97,254340.6,15
+458,GA,Harris,Urban,Principal Arterial,22386,16.98,55,5,7,Composite,18,57.76,10.09,1.73,58.92,3.54,87.7,Reconstruction,2023,Continental,1279.9,103,81.21,1180249.41,2
+459,TX,Cuyahoga,Interstate,Collector,84276,9.02,25,2,6,Composite,7,188.55,14.88,0.03,62.65,4.8,18.1,Reconstruction,2006,Continental,627.91,100,18.27,529851.94,19
+460,TX,Cook,State Highway,Local,60518,16.8,45,5,6,Concrete,27,240.51,10.06,4.51,53.81,4.99,79.73,Patch,2007,Tropical,1251.59,33,59.39,518398.41,18
+461,CA,Fulton,Rural,Local,53781,13.15,45,1,4,Asphalt,7,184.34,1.36,3.52,66.22,2.5,45.7,Patch,2006,Temperate,896.84,15,58.22,151208.05,19
+462,NY,Fulton,State Highway,Principal Arterial,53780,14.39,70,5,11,Concrete,30,260.2,14.47,5.55,11.62,3.4,32.83,Patch,1991,Temperate,261.86,62,52.79,1476943.05,34
+463,IL,Fulton,Urban,Local,62440,5.57,70,3,11,Composite,2,58.36,16.12,1.88,55.5,4.43,15.82,Resurface,1990,Continental,924.86,108,48.08,268531.74,35
+464,WA,Cook,State Highway,Local,45199,9.2,55,5,3,Concrete,2,141.69,5.79,8.6,28.72,1.47,16.76,Patch,1999,Arid,1855.15,50,8.92,1089313.52,26
+465,FL,Cook,Interstate,Local,62035,10.62,25,2,8,Concrete,43,109.27,13.28,2.58,94.02,3.76,66.19,Reconstruction,1994,Temperate,727.6,104,10.22,218592.23,31
+466,OH,Cuyahoga,Urban,Minor Arterial,9210,19.26,55,1,2,Composite,21,161.82,8.53,2.26,76.21,2.64,55.04,Resurface,2001,Arid,781.1,110,90.23,175039.75,24
+467,GA,Orange,Rural,Collector,45363,5.23,25,2,7,Asphalt,16,68.09,17.78,4.81,97.25,1.82,12.21,Reconstruction,2020,Arid,318.69,31,63.02,500254.82,5
+468,WA,Cuyahoga,Interstate,Minor Arterial,79279,13.18,55,3,7,Asphalt,35,288.53,16.9,4.99,3.76,2.61,11.27,Resurface,1998,Arid,1307.09,37,26.23,516439.54,27
+469,NY,Harris,Interstate,Collector,61348,23.48,35,2,4,Concrete,16,105.81,10.51,2.15,28.51,1.3,7.23,Patch,2015,Arid,1728.64,103,27.93,502740.85,10
+470,FL,King,Rural,Principal Arterial,56284,7.24,35,2,3,Composite,13,280.58,13.83,2.72,19.54,3.78,74.38,Patch,2004,Tropical,835.26,55,61.02,313167.45,21
+471,NY,Fulton,Rural,Local,73124,15.33,65,2,3,Concrete,8,156.47,17.67,1.7,1.12,2.01,71.19,Patch,2005,Tropical,632.44,109,40.69,599676.46,20
+472,GA,Orange,State Highway,Collector,69847,20.73,55,4,10,Concrete,29,296.38,9.91,7.18,24.23,2.25,5.84,Resurface,2002,Continental,1921.9,68,44.13,635828.23,23
+473,TX,King,Urban,Minor Arterial,23432,23.85,70,3,6,Concrete,20,188.51,6.27,7.7,67.88,1.48,56.03,Reconstruction,2014,Tropical,1541.13,16,6.06,262034.61,11
+474,FL,Orange,Rural,Local,65089,19.94,45,2,8,Composite,11,282.71,15.07,4.62,23.11,4.46,8.47,None,2019,Temperate,1220.89,85,13.87,300934.76,6
+475,TX,Bexar,Rural,Principal Arterial,56398,19.41,65,2,6,Composite,36,51.34,4.4,7.14,50.9,2.97,90.37,Reconstruction,1996,Tropical,749.96,38,39.34,471296.59,29
+476,GA,Bexar,Urban,Collector,4321,21.53,70,2,8,Asphalt,31,237.06,7.77,7.36,88.78,3.29,90.71,Patch,1993,Temperate,597.44,40,69.97,523968.88,32
+477,WA,Duval,Rural,Collector,82348,13.92,35,1,5,Composite,10,275.76,17.31,1.38,69.38,3.28,69.82,Resurface,2019,Temperate,1488.34,47,4.8,165025.82,6
+478,GA,Bexar,Rural,Collector,38383,21.12,55,4,9,Concrete,19,84.93,14.49,9.66,39.46,2.64,92.62,Resurface,1999,Arid,1139.22,81,33.46,794476.84,26
+479,WA,Cuyahoga,State Highway,Local,79682,5.16,65,1,11,Concrete,34,74.03,8.08,8.21,37.25,1.77,81.15,Patch,2019,Continental,1137.08,27,69.51,261222.52,6
+480,FL,Bexar,Interstate,Minor Arterial,80190,23.49,55,4,11,Asphalt,46,156.14,4.29,2.04,45.57,3.98,82.85,Resurface,1996,Arid,332.68,76,79.21,1013546.18,29
+481,FL,Cook,Interstate,Minor Arterial,53893,13.87,35,2,8,Composite,45,283.42,7.12,1.86,17.7,1.51,56.97,Patch,2024,Arid,1121.95,49,19.02,428861.95,1
+482,IL,Fulton,Interstate,Collector,36820,16.07,65,3,11,Concrete,10,185.6,5.68,1.26,63.4,1.42,30.61,Reconstruction,2013,Tropical,1680.94,105,73.15,761270.33,12
+483,NY,Cuyahoga,Interstate,Principal Arterial,67262,10.1,35,5,6,Asphalt,7,181.86,3.52,1.38,36.42,3.84,21.78,Resurface,2009,Tropical,1904.24,0,95.54,969888.45,16
+484,IL,King,Rural,Principal Arterial,4760,19.85,25,5,7,Asphalt,3,85.28,14.87,7.48,85.24,1.84,32.72,None,2021,Temperate,392.03,116,90.68,255810.21,4
+485,NY,Duval,Urban,Minor Arterial,23190,6.53,35,2,6,Concrete,26,50.2,5.04,4.7,75.66,2.23,62.85,Resurface,2015,Tropical,1336.1,49,78.94,120633.39,10
+486,IL,Duval,Urban,Principal Arterial,68411,22.45,55,1,8,Concrete,43,252.54,9.08,7.83,61.05,2.9,17.27,Patch,2015,Tropical,1223.03,18,71.23,294952.1,10
+487,TX,Duval,State Highway,Minor Arterial,24377,21.56,45,3,3,Composite,39,71.89,7.72,7.46,36.42,2.8,25.86,None,2024,Cold,1802.56,97,23.51,258744.03,1
+488,FL,King,State Highway,Collector,47737,9.32,35,4,6,Asphalt,37,208.46,19.64,6.05,20.99,3.83,46.81,Patch,2024,Temperate,1552.24,58,63.39,604516.41,1
+489,WA,King,Rural,Minor Arterial,70569,21.19,70,2,11,Concrete,46,278.65,7.82,6.86,77.62,3.49,23.31,Resurface,2001,Temperate,1937.47,67,64.33,566905.64,24
+490,NY,King,Urban,Minor Arterial,39211,20.73,45,3,4,Asphalt,29,102.16,1.6,0.18,48.64,3.58,58.86,None,2022,Cold,1928.06,106,40.68,296279.61,3
+491,GA,King,Urban,Collector,83909,17.64,25,3,10,Composite,43,216.32,1.8,3.12,22.48,3.86,92.32,None,2003,Temperate,606.23,66,49.3,782843.51,22
+492,NY,Duval,Interstate,Principal Arterial,4744,12.47,65,4,7,Concrete,47,69.67,11.82,6.38,19.52,2.17,74.81,Resurface,2022,Continental,1505.63,40,69.4,1018267.57,3
+493,WA,Duval,Rural,Minor Arterial,25995,10.43,65,3,11,Composite,47,200.94,11.99,0.09,16.54,2.29,66.64,None,2013,Continental,1154.94,9,95.21,889747.24,12
+494,IL,Orange,Rural,Minor Arterial,17977,9.64,45,1,4,Asphalt,26,90.98,8.38,0.33,77.72,2.75,58.27,Reconstruction,2004,Cold,586.28,27,29.53,120420.46,21
+495,NY,Cuyahoga,Interstate,Collector,35542,11.37,65,1,8,Composite,20,233.99,8.64,8.52,22.9,2.23,48.79,None,2020,Tropical,550.76,33,24.64,128831.34,5
+496,OH,Fulton,Rural,Principal Arterial,11651,23.07,35,1,5,Composite,19,125.31,1.08,6.84,52.66,4.94,18.66,None,2006,Continental,345.95,38,60.18,275719.5,19
+497,TX,Bexar,Rural,Minor Arterial,79931,6.55,45,3,4,Asphalt,3,165.85,10.33,2.65,45.15,4.26,89.47,Reconstruction,2001,Cold,1631.98,110,13.08,325559.29,24
+498,FL,Bexar,State Highway,Collector,17715,21.58,55,1,9,Composite,10,199.86,10.09,6.88,57.96,1.66,24.85,Patch,2011,Continental,784.11,82,58.25,186975.24,14
+499,WA,Cook,Urban,Minor Arterial,45409,11.98,35,4,5,Asphalt,12,92.82,2.99,7.92,87.72,1.02,9.13,Patch,2012,Arid,1742.54,105,8.89,907344.96,13
+500,FL,Duval,Rural,Local,25306,15.43,35,3,2,Concrete,8,235.41,2.08,3.07,86.77,1.17,75,Reconstruction,2015,Cold,1294.97,55,49.06,353913.18,10
+501,OH,Cook,State Highway,Collector,20086,20.89,35,5,7,Asphalt,3,125.66,2.47,0.36,45.11,1.98,17.56,None,2003,Temperate,1412.54,51,62.04,1423016.18,22
+502,NY,Cuyahoga,Urban,Principal Arterial,15376,22.69,55,3,11,Asphalt,11,215.59,2.02,9.33,1.54,1.46,37.19,Resurface,2001,Continental,725.01,109,7.01,649273.16,24
+503,NY,Cuyahoga,Interstate,Principal Arterial,62350,11.9,25,4,2,Concrete,8,89.57,12.19,3.45,42.64,3.13,2.83,Reconstruction,1993,Temperate,1023.13,99,20.7,247139.31,32
+504,GA,Cook,State Highway,Principal Arterial,72425,14.24,70,5,6,Asphalt,12,222.03,3.93,1.06,60.62,4.43,13.71,Resurface,2002,Cold,942.17,106,33.54,419671.91,23
+505,OH,Duval,State Highway,Principal Arterial,37636,13.29,65,3,8,Concrete,47,82.05,5.03,4.92,55.78,3.95,17.32,Patch,2007,Continental,624.24,2,36.86,293086.18,18
+506,WA,Cook,Urban,Minor Arterial,87120,5.27,45,1,7,Concrete,25,156.34,3.47,7.68,65.13,1.86,5.44,Reconstruction,2017,Temperate,1698.52,22,67.61,111239.34,8
+507,GA,Bexar,Interstate,Minor Arterial,52649,10.92,25,2,3,Asphalt,37,111.8,19.16,2.22,15.41,2.6,65.67,Resurface,2008,Tropical,1319.75,16,52.9,465338.69,17
+508,TX,Orange,State Highway,Principal Arterial,35610,14.18,45,2,5,Composite,41,237.09,17.09,2.69,64.65,3.03,83.7,None,1992,Tropical,267.38,70,38.21,144467.62,33
+509,GA,Bexar,Rural,Principal Arterial,11058,13.22,65,1,3,Composite,12,115.51,4.61,2.43,18.27,4.24,37.33,Reconstruction,2008,Arid,1675.85,25,45.07,137648.67,17
+510,CA,Harris,Rural,Principal Arterial,75637,19.44,55,2,2,Concrete,38,270.43,6.55,9.92,75.05,4.36,87.46,Resurface,2009,Cold,390.87,106,1.3,555691.66,16
+511,WA,Duval,Rural,Minor Arterial,79033,12.7,35,2,4,Composite,27,272.96,4.2,1.97,33.91,4.64,21.33,Reconstruction,2014,Temperate,926.65,17,77.05,378333.84,11
+512,CA,Duval,Interstate,Principal Arterial,71194,14.79,35,1,4,Composite,18,99.11,9.84,5.76,70.99,3.04,32.54,Reconstruction,2000,Arid,1228.26,109,4.1,116374.14,25
+513,OH,Fulton,State Highway,Principal Arterial,77917,13.59,55,1,8,Asphalt,23,203.46,0.39,9.25,4.79,3.78,15.07,Patch,2006,Cold,213.77,45,82.93,289264.07,19
+514,IL,King,Rural,Local,65200,19.81,25,3,2,Concrete,18,71.93,13.43,1.47,40.79,1.45,62.06,Patch,2024,Tropical,1375.23,69,54.1,333236.92,1
+515,CA,Harris,Interstate,Local,47619,22.26,25,3,10,Concrete,48,147.88,10.46,9.71,70.5,3.26,41.99,None,2003,Temperate,1387.47,30,52.78,828824.72,22
+516,TX,Cuyahoga,Rural,Principal Arterial,18154,15.64,45,1,7,Asphalt,12,228.33,17.97,9.47,22.69,1.99,61.33,Patch,2008,Continental,1374.55,92,70.46,231442.42,17
+517,GA,Duval,Urban,Collector,20539,20.79,55,4,5,Composite,12,214.86,3.29,8.85,79.53,2.73,76.17,Patch,1992,Tropical,494.24,8,85.96,940521.04,33
+518,IL,Cook,State Highway,Principal Arterial,61058,10.94,25,2,4,Concrete,27,206.18,16.08,2.15,63.08,3.54,54.57,Patch,2023,Continental,660.32,117,94.26,482469.66,2
+519,GA,Harris,State Highway,Local,63068,15.83,55,3,4,Composite,1,120.64,15.84,6.34,58.76,2.03,62.76,Resurface,2011,Continental,645.28,34,54.34,529926.98,14
+520,CA,Fulton,Interstate,Collector,78313,11.9,65,2,3,Concrete,9,144.51,2.54,7.61,35.35,1.21,93.53,Reconstruction,2016,Temperate,1928.12,80,15.07,507289.36,9
+521,GA,Cuyahoga,Interstate,Collector,31373,13.28,35,5,3,Concrete,21,75.74,7.97,9.86,48.25,1.04,29.91,Patch,2010,Temperate,321.55,59,87.86,1295241.37,15
+522,OH,King,State Highway,Principal Arterial,34154,19.65,35,1,11,Concrete,12,229.76,3.4,1.8,59.73,1.09,35.92,Resurface,2020,Continental,971.77,75,4.07,140121.68,5
+523,IL,King,Rural,Local,7031,22.63,35,4,6,Concrete,8,175.97,5.09,7.66,47.25,1.03,71.77,Reconstruction,2016,Arid,1768.26,62,80.73,600344.52,9
+524,OH,Fulton,Rural,Local,72975,7.43,55,5,10,Composite,32,227.19,5.26,3.39,69.83,1.44,61.13,Patch,1991,Continental,1585.04,99,68.04,1360945.9,34
+525,CA,Fulton,Urban,Collector,23785,17.69,55,5,3,Composite,13,112.24,11.12,1.76,43.37,1.96,17.85,Patch,1998,Continental,1680.4,51,90.47,905911.58,27
+526,OH,Cook,Rural,Principal Arterial,79928,16.64,45,5,3,Composite,47,131.11,8.23,4.21,20.23,1.88,37.61,Reconstruction,2008,Temperate,1950.13,47,89.75,1333679.37,17
+527,TX,Duval,Interstate,Minor Arterial,29669,7.37,35,1,7,Composite,19,133.55,18.95,7.94,21.39,4.95,46.78,Resurface,1999,Cold,897.07,60,5.32,206692.37,26
+528,CA,King,Interstate,Minor Arterial,3282,9.24,45,3,11,Asphalt,14,56.44,2.53,4.65,0.58,2.22,41.94,Resurface,1996,Tropical,757.38,23,60.94,595175.82,29
+529,CA,Cuyahoga,Rural,Local,35624,11.22,35,1,3,Concrete,31,135.26,19.47,5.38,30.1,1.51,17.83,None,1993,Temperate,255.19,73,12.47,57745.24,32
+530,CA,Harris,Interstate,Minor Arterial,49438,8.34,45,3,5,Concrete,32,250.83,4.61,9.95,74.89,3.18,92.44,Reconstruction,2004,Arid,470.03,57,7.85,358420.8,21
+531,WA,Cuyahoga,State Highway,Local,68534,9.87,45,5,7,Concrete,16,274.32,15.46,3.99,79.42,4.43,76.23,None,2001,Tropical,1211.63,63,44.83,877572.06,24
+532,GA,Orange,State Highway,Local,32705,10.35,65,5,6,Asphalt,23,179.55,6.78,6.15,20.25,3.71,48.14,Resurface,1995,Temperate,483.79,29,9.76,984146.47,30
+533,WA,Orange,Rural,Local,39244,11.71,45,4,2,Composite,29,163.88,2.86,3.65,95.9,2.18,68.01,Patch,1998,Temperate,1525.35,28,72.79,830434.53,27
+534,WA,Fulton,State Highway,Minor Arterial,75964,19.99,55,3,7,Concrete,12,57.71,17.16,3.93,50.24,3.25,89.73,None,2024,Cold,267.02,102,96.89,687167.12,1
+535,TX,Cook,State Highway,Local,38437,16.44,45,5,2,Composite,46,269.8,6.18,6.96,91.7,3.86,13.62,Resurface,1997,Arid,667.08,9,56.96,1070291.79,28
+536,IL,Orange,Urban,Collector,78872,24.72,35,2,4,Composite,47,53.25,13.18,9.38,70.68,3.91,25.04,Resurface,1996,Arid,1451.82,38,23.52,524288.35,29
+537,GA,King,Urban,Principal Arterial,75878,13.29,45,4,11,Asphalt,15,286.19,11.33,5.42,72.24,3.67,54.27,Patch,1993,Temperate,659.91,54,84.32,495470.34,32
+538,OH,Cuyahoga,State Highway,Principal Arterial,73982,20.08,25,1,6,Asphalt,1,172.3,9.44,7.68,8.5,4.48,79.9,Reconstruction,2002,Cold,1511.77,27,85.31,210392.5,23
+539,NY,Cuyahoga,Rural,Local,51583,22.43,70,4,11,Composite,16,135.48,9.92,0.89,22,4.48,3.63,Resurface,2008,Temperate,1992.55,17,73.28,251159.51,17
+540,CA,Fulton,Urban,Principal Arterial,39392,18.58,35,2,6,Concrete,31,281.05,14.64,2.11,0.88,3.32,98.4,None,1996,Continental,1634.75,40,61.51,340095.04,29
+541,OH,Duval,Interstate,Minor Arterial,8461,13.24,25,3,11,Concrete,42,56.1,1.76,5.02,71.61,2.72,45.49,Patch,1999,Continental,815.3,117,86.78,351024.72,26
+542,CA,Duval,Interstate,Minor Arterial,11516,20.07,35,1,7,Asphalt,7,195.36,13.36,0.2,34.44,3.57,35.92,Reconstruction,2014,Cold,1821.07,113,16.33,145221.79,11
+543,TX,Harris,Interstate,Principal Arterial,80285,9.07,55,1,11,Asphalt,2,187.23,17.92,2.53,78.67,4.27,29.27,Reconstruction,2024,Temperate,292.12,80,93.16,138665.69,1
+544,CA,Fulton,Rural,Minor Arterial,18514,11.55,70,3,9,Asphalt,11,104.83,1.16,5.17,33.89,1.02,17.44,Reconstruction,2014,Cold,1505.01,74,94.72,195323.01,11
+545,WA,Bexar,State Highway,Principal Arterial,37268,15.93,70,4,6,Asphalt,19,157.22,2.81,0.15,81.93,4.97,79.16,Resurface,2018,Temperate,241.98,64,87.2,666645.8,7
+546,GA,Harris,Interstate,Principal Arterial,37788,16.51,55,5,2,Asphalt,15,213.07,14.33,2.65,13.07,1.73,95.54,Reconstruction,2001,Temperate,514.2,80,25.07,1493286.61,24
+547,NY,Bexar,Rural,Principal Arterial,76749,5.44,70,4,6,Asphalt,13,231.78,8.75,5.14,17.34,2.88,41.36,Resurface,2001,Continental,1977.65,99,85.82,498936.06,24
+548,FL,Duval,Urban,Local,62049,23.9,55,2,4,Asphalt,15,50.18,8.07,5.73,34.09,4.49,95.24,Patch,1995,Tropical,849.59,99,49.76,468072.99,30
+549,CA,Fulton,State Highway,Principal Arterial,63493,18.93,25,5,5,Concrete,48,284.21,2.74,9.26,40.85,1.9,82.38,Patch,1999,Arid,1676.9,45,59.49,934735.42,26
+550,OH,Bexar,Urban,Local,37027,14.91,65,4,9,Asphalt,42,91.13,10.14,6.45,34.87,2.91,48.11,Reconstruction,1991,Arid,876.96,59,84.06,525225.3,34
+551,WA,Fulton,Rural,Principal Arterial,43849,23.66,35,3,8,Asphalt,48,108.4,2.53,4.15,76.36,1.53,67.4,Patch,2014,Cold,1712.05,8,2.96,217205.3,11
+552,FL,Fulton,Interstate,Principal Arterial,18858,13.78,55,2,6,Concrete,32,115.87,9.53,9.3,9.7,2.58,43.5,None,1996,Arid,1937.79,44,36.29,207928.95,29
+553,NY,Duval,Interstate,Principal Arterial,85162,24.61,35,2,3,Concrete,29,59.46,15.27,7.85,35.12,1.71,55.87,None,2012,Continental,983.97,59,81.57,490926.77,13
+554,FL,Harris,Rural,Minor Arterial,80003,15.25,25,2,7,Composite,11,80.76,5.17,2,83.72,2.45,5.8,Resurface,2000,Tropical,1206.83,27,81.4,239510.09,25
+555,WA,Harris,Interstate,Local,53395,7.29,65,5,7,Asphalt,14,296.59,9.62,1.31,6.68,2.49,69.63,Reconstruction,2012,Temperate,1331.55,111,84.87,430378.1,13
+556,GA,Fulton,State Highway,Local,40758,20.3,25,1,11,Asphalt,17,128.8,19.84,6.76,94.23,4.97,5.28,Resurface,1996,Temperate,1882.7,96,16.92,132824.59,29
+557,GA,Orange,Rural,Principal Arterial,55312,18.58,70,5,11,Asphalt,27,78.83,13.73,5.6,98.63,4.98,81.71,Patch,2016,Continental,662.14,2,70.59,980053.69,9
+558,IL,Cook,Urban,Principal Arterial,69670,20.46,35,4,7,Asphalt,22,76.75,16.83,7.9,8.86,1.46,82.49,Reconstruction,2002,Arid,1300.25,50,14.65,903463.16,23
+559,GA,Duval,Rural,Minor Arterial,83279,24.03,65,1,10,Composite,13,229.86,8.3,7.39,29.13,3.9,23.71,Resurface,2006,Temperate,784.5,7,78.51,146841.21,19
+560,IL,Cook,State Highway,Minor Arterial,16434,20.53,70,4,9,Concrete,29,263.64,15.36,6.25,37.24,1.21,32.37,Reconstruction,2021,Arid,590.48,113,24.51,698147.16,4
+561,FL,Cook,State Highway,Minor Arterial,65047,17.23,65,1,9,Concrete,32,114.24,0.81,9.86,77.64,1.12,48.13,Reconstruction,2015,Continental,352.86,69,73.78,163729.17,10
+562,TX,Harris,Rural,Local,48775,22.15,70,5,2,Asphalt,44,55.23,2.46,5.34,59.59,1.42,59.67,Resurface,2011,Temperate,1317.28,58,45.5,261254.19,14
+563,OH,Harris,Rural,Local,76769,18.46,25,2,6,Asphalt,14,105.77,4.06,1.13,64.44,4.86,28.74,Reconstruction,2002,Cold,1787.75,115,98.63,297800.24,23
+564,OH,Orange,Interstate,Local,67677,13.16,55,3,8,Asphalt,6,64.13,8.04,8.28,75.75,4.76,59.25,Patch,2001,Tropical,832.51,60,57.99,590489.86,24
+565,FL,Cook,State Highway,Principal Arterial,84555,22.71,35,2,7,Composite,14,75.85,16.91,2.52,11.8,1.78,29.78,None,1996,Arid,1194.8,57,63.26,384972.36,29
+566,CA,Cook,Rural,Local,86920,9.44,45,5,6,Composite,41,157.88,6.93,7.77,83.32,1.65,5.55,None,1990,Arid,1355.84,69,36.82,1187209.45,35
+567,CA,Fulton,Rural,Collector,46734,19.29,45,1,9,Concrete,45,107.48,13.09,9.57,70.56,1.96,0.25,Reconstruction,2022,Arid,946.37,92,73.45,217593.98,3
+568,GA,Harris,State Highway,Collector,89503,22.63,25,2,4,Asphalt,37,178.99,14.19,6.97,57.73,3.06,10.12,None,2003,Arid,1826.03,100,49.49,238403.4,22
+569,OH,Cook,Rural,Minor Arterial,41603,19.63,35,5,7,Asphalt,45,113.37,11.72,5.96,88.97,3.28,79.23,Reconstruction,2006,Continental,852.96,11,1.81,569554.59,19
+570,OH,Cuyahoga,Interstate,Local,77708,18.95,35,4,6,Asphalt,43,285.13,7.14,4.6,70.03,1.89,96.14,Resurface,1993,Continental,425.02,8,60.86,664141.8,32
+571,IL,Orange,State Highway,Collector,82926,20.05,25,3,9,Asphalt,10,276.49,11.54,3.64,20.17,4.03,42.7,Patch,1990,Continental,459.24,104,83.05,699727.25,35
+572,TX,Bexar,Interstate,Minor Arterial,69803,14.3,35,2,5,Composite,28,191.7,6.85,3.53,42.97,2.24,51.27,None,2013,Continental,1803.54,48,23.68,146913.65,12
+573,WA,Cuyahoga,Interstate,Local,40332,22.48,55,1,9,Concrete,30,138.61,1.68,6.36,49.4,4.69,14.68,Resurface,2023,Temperate,1978.41,82,22.11,287081.65,2
+574,CA,Cuyahoga,Interstate,Principal Arterial,22312,9.07,25,4,11,Concrete,24,145.29,19.86,7.51,5.52,3.63,55.1,Patch,2023,Continental,720.09,16,60.89,743153.12,2
+575,OH,Bexar,Interstate,Collector,85526,7.55,55,5,3,Composite,23,152.96,2.54,6.79,95.46,2.75,14.47,None,2013,Temperate,458.48,53,81.8,633010.49,12
+576,IL,Duval,State Highway,Principal Arterial,45179,10.71,35,3,10,Asphalt,18,231.89,1.45,1.98,12.86,4.16,61.12,None,2004,Cold,1067.98,111,24.96,670043.42,21
+577,NY,Duval,Interstate,Local,72442,15.63,25,1,10,Concrete,1,162.91,17.57,4.94,69.75,4.27,93.33,Patch,2006,Continental,1477.15,43,93.23,61181.45,19
+578,IL,Orange,Interstate,Collector,41379,15.21,35,5,11,Concrete,21,264.18,6.04,7.92,50.62,2.16,19.57,Resurface,2002,Cold,1302.33,31,92.74,855496.14,23
+579,CA,Cuyahoga,Rural,Local,18297,21.41,25,5,11,Composite,19,286.02,13.01,4.76,2.56,2.36,76.46,Resurface,1996,Continental,1911.99,34,20.05,857462.06,29
+580,CA,Cook,State Highway,Principal Arterial,3011,13.09,35,2,7,Asphalt,32,133.99,6.58,5.37,92.47,4.74,2.35,None,1998,Cold,1672,77,26.38,180987.64,27
+581,IL,Harris,State Highway,Collector,45014,14.69,55,2,5,Concrete,7,190.17,7.83,7.71,85.18,1.66,37.55,Patch,2024,Tropical,1764.15,48,70.06,518693.91,1
+582,WA,Orange,Urban,Principal Arterial,12738,5.27,55,1,5,Asphalt,24,73.76,5.24,6.61,52.43,1.17,11.07,Resurface,2012,Cold,1175,53,95.17,249203.03,13
+583,FL,Fulton,State Highway,Local,48498,13.19,35,5,7,Concrete,45,100.12,6.86,4.09,22.89,2.82,35.25,Patch,2012,Temperate,789.1,15,70.99,440915.49,13
+584,CA,Bexar,State Highway,Local,12120,17.96,25,2,6,Composite,8,153.37,8.21,8.95,12.16,4.2,17.35,Patch,2015,Arid,1463.12,84,44.49,281913.65,10
+585,IL,Cuyahoga,Urban,Principal Arterial,9767,5.31,45,3,7,Asphalt,33,101.55,14.41,1.63,36.34,4.09,37.33,None,1990,Cold,990.3,11,16.9,225322.17,35
+586,OH,Orange,State Highway,Collector,23852,10.62,55,3,8,Composite,22,269.14,10.23,9.96,25.54,4.68,41.75,Patch,2003,Arid,717.96,87,46.1,786456.57,22
+587,IL,King,State Highway,Principal Arterial,80239,9.16,55,5,8,Concrete,4,89.57,18.87,1.19,50.67,3.13,30.06,Patch,2021,Tropical,474.09,97,60.68,654150.13,4
+588,TX,King,State Highway,Local,1929,5.84,70,2,10,Composite,24,163.92,0.84,0.15,96.64,1.4,65.66,Reconstruction,1999,Tropical,1150.17,7,33.1,319658.15,26
+589,FL,Duval,State Highway,Principal Arterial,78487,14.59,45,1,9,Composite,7,201.42,10.06,8.9,57.5,3.35,91.89,Patch,1990,Temperate,1269.66,107,51.03,130967.99,35
+590,NY,Bexar,Urban,Local,18438,8.63,35,1,7,Composite,15,222.97,11.68,2.45,88.99,4.11,40.06,Resurface,1994,Temperate,1223.81,20,13.02,127506.5,31
+591,WA,Harris,State Highway,Principal Arterial,49515,19.86,25,1,7,Concrete,47,145.77,18.4,7.3,65.09,1.37,19.23,None,1992,Cold,409.79,47,45.22,236825.56,33
+592,GA,Cook,State Highway,Collector,6744,21.96,70,3,6,Asphalt,44,267.27,0.98,8.11,47.52,1.69,27.07,None,2016,Continental,1225.98,7,9.08,710674.68,9
+593,NY,Harris,Urban,Collector,84820,15.91,35,2,2,Composite,14,192.08,11.47,8.59,85.46,1.05,85.4,Patch,2011,Tropical,503.15,27,4.91,358894.09,14
+594,FL,Harris,Rural,Principal Arterial,43417,24.63,65,2,10,Asphalt,0,159.88,17.07,9.92,47.14,3.37,57.16,Patch,2007,Arid,1394.69,79,85.72,428808.47,18
+595,FL,Harris,Interstate,Principal Arterial,8069,14.01,55,3,10,Concrete,21,66.81,4.84,2.94,86.86,4.55,45.5,Resurface,2005,Continental,972.89,9,20.51,533747.4,20
+596,FL,Bexar,Rural,Collector,43359,15.27,65,1,10,Asphalt,2,166.17,17.53,7.1,29.16,3.68,14.96,Reconstruction,1991,Tropical,1727.82,51,57.52,57147.3,34
+597,NY,Harris,Urban,Local,20799,24.78,55,1,9,Composite,37,255.18,0.38,1.15,12.88,4.93,44.97,None,2002,Cold,1600.88,14,14.9,66501.61,23
+598,OH,Fulton,Interstate,Collector,71188,9.63,55,5,11,Composite,13,203.64,14.65,4.07,85.53,1.25,27.85,Reconstruction,2005,Tropical,1503.89,3,26.25,729675.71,20
+599,FL,Bexar,Urban,Local,8597,23.85,65,4,4,Composite,35,258.04,18.66,8.48,58.74,4.61,94.32,Resurface,1997,Temperate,1461.33,89,36.13,949746.36,28
+600,IL,Fulton,Urban,Principal Arterial,48093,5.86,65,2,2,Composite,17,173.5,13.14,3.68,88.91,4.26,88.41,None,1997,Arid,1208.88,78,14.37,556613.11,28
+601,NY,Bexar,State Highway,Principal Arterial,38226,13.93,35,2,9,Composite,46,79.62,8.78,5.91,93.78,2.26,8.39,Resurface,1999,Arid,310,99,4.6,114854.15,26
+602,GA,Duval,Interstate,Local,73127,6.4,70,2,8,Composite,40,53.41,0.9,5.04,5.36,4.89,51.67,Patch,2022,Temperate,1379.88,95,87.72,284015.03,3
+603,FL,Orange,State Highway,Principal Arterial,78362,19.58,70,4,6,Concrete,17,125.8,18.4,6.46,50.1,2.15,22.51,Resurface,2020,Continental,1040.46,61,1.18,423782.44,5
+604,IL,King,Interstate,Local,27417,17.17,65,5,11,Concrete,2,224.5,9.41,9.73,37.5,4.56,41.08,Patch,2001,Temperate,1045.2,106,6.13,1269006.6,24
+605,OH,Harris,Urban,Minor Arterial,19693,19.13,35,4,8,Concrete,9,247.56,0.58,0.56,62.59,4.52,87.68,Reconstruction,1998,Arid,882.24,101,80.51,1045968.14,27
+606,TX,Duval,Urban,Collector,80674,12.49,70,1,11,Asphalt,48,123.94,13.8,5.74,79.36,4.03,52.75,None,1998,Cold,1872.33,3,28.2,101602.22,27
+607,OH,Orange,Rural,Minor Arterial,54161,12.39,35,1,5,Asphalt,38,173.91,9.64,8.63,28.06,3.25,33.42,None,2007,Continental,649.01,40,72.28,227706.81,18
+608,GA,King,Interstate,Local,3169,5.91,35,2,10,Concrete,46,155.28,2.49,4.81,55.68,1.48,20.79,Reconstruction,2019,Tropical,769.87,72,14.62,465878.02,6
+609,FL,Cuyahoga,State Highway,Collector,85092,12,55,3,11,Asphalt,0,152.63,4.29,0.79,70.87,3.13,80.03,Patch,2021,Cold,1933.47,98,23.73,282793.27,4
+610,GA,Cook,Rural,Local,23052,23.59,70,2,3,Asphalt,26,107.84,1.29,5.61,13.44,2.43,62.45,None,2012,Continental,1658.28,54,57.28,316847.96,13
+611,NY,Fulton,Rural,Collector,72849,12.58,70,3,10,Composite,26,84.09,11.49,3.32,81.41,4.17,46.81,Resurface,2000,Arid,225.36,27,98.86,615253.35,25
+612,CA,Cuyahoga,Rural,Collector,74851,21.63,55,4,10,Composite,10,99.17,12.44,1.55,60.61,4.03,21.75,Patch,2009,Arid,1830.99,100,7.34,226066.61,16
+613,FL,Bexar,State Highway,Collector,9036,21.85,65,1,6,Asphalt,48,63.83,10.11,8.49,94.95,4.64,33.42,None,2008,Cold,607.97,46,40.06,151147.96,17
+614,CA,King,Rural,Collector,32778,12.46,55,3,2,Asphalt,4,99.53,16.34,5.22,33.95,1.06,95.98,Resurface,2015,Continental,1470.68,8,4.31,266218.67,10
+615,IL,Cuyahoga,State Highway,Local,28734,17.64,70,4,8,Concrete,6,52.3,17.22,9.33,10.81,4.24,52.01,Resurface,1999,Tropical,1195.53,1,19.92,741896.5,26
+616,TX,Cook,Rural,Collector,24173,6.91,70,1,11,Asphalt,18,206.81,12.31,8.06,50.65,4.75,40.07,None,2013,Tropical,1166.26,66,90.75,260729.4,12
+617,WA,Duval,State Highway,Collector,31403,7.07,65,3,11,Composite,28,129.09,0.26,6.93,8.58,4.16,52.14,Reconstruction,2002,Temperate,1492.26,116,9.65,543565.45,23
+618,GA,King,Urban,Minor Arterial,67321,5.97,55,2,5,Asphalt,14,293.29,13.9,0.05,96.95,1.52,77.9,Reconstruction,2023,Cold,572.93,107,85.69,117991.8,2
+619,OH,Cuyahoga,Urban,Principal Arterial,72675,16.62,25,2,10,Concrete,34,98.43,8.36,4.28,3.87,1.33,34.01,None,2018,Continental,486.25,47,17.78,114828.62,7
+620,TX,Fulton,Urban,Principal Arterial,7344,13.52,25,2,7,Composite,46,136.46,11.31,1.97,75.35,1.08,17.87,Resurface,1996,Cold,1373.44,68,86.18,402751.57,29
+621,FL,Fulton,Urban,Minor Arterial,19800,15.96,65,4,4,Composite,36,139.46,12.98,9.11,52.51,3.51,58.49,Reconstruction,2019,Tropical,723.04,73,53.8,527981.56,6
+622,CA,Orange,Urban,Minor Arterial,26372,15.42,55,2,7,Composite,11,52.11,7,1.75,36.86,3.52,66.52,Reconstruction,2006,Continental,1953.11,27,87.82,386333.25,19
+623,OH,Cuyahoga,Rural,Local,62516,12,55,5,11,Composite,29,259.8,18.34,2.86,6.58,4.95,71.27,Reconstruction,2002,Arid,1012.72,78,15.17,454546.39,23
+624,CA,Harris,Rural,Local,21538,18.55,35,1,7,Asphalt,19,58,2.68,5.17,62.22,2.59,88.2,Patch,2013,Arid,400.87,13,76.2,244215.59,12
+625,NY,Cuyahoga,Rural,Local,64918,20.17,70,4,6,Concrete,36,285.04,13.43,2.63,58.52,2.33,37.12,Reconstruction,2020,Continental,1434.47,45,68.07,1060719.71,5
+626,CA,Duval,State Highway,Minor Arterial,15973,5.29,45,2,3,Asphalt,2,273.02,0.09,2.1,28.09,3.5,7.54,None,2016,Cold,751.09,86,54.29,544612.8,9
+627,NY,King,State Highway,Minor Arterial,72155,9.14,65,1,11,Asphalt,8,183.88,18.49,5.99,91.02,4.3,95.83,None,2010,Cold,467.46,12,81.06,126018.65,15
+628,IL,King,State Highway,Collector,60500,19.26,45,3,11,Composite,40,185.9,2.25,0.89,30.41,4.75,43.5,Patch,1990,Arid,961.08,15,64.83,645551.53,35
+629,OH,Duval,State Highway,Local,37575,12.73,45,2,3,Concrete,38,213.44,1.9,0.58,44.97,4.21,62.33,Patch,2004,Arid,1935.6,93,87.7,239521.19,21
+630,OH,Cuyahoga,Urban,Local,43261,18.25,65,1,8,Composite,25,146.76,6.66,3.72,54.38,2.71,66.63,None,1992,Tropical,940.58,39,38.11,240689.21,33
+631,WA,Duval,Urban,Local,28716,11.94,55,5,3,Asphalt,1,211.81,7.47,7.21,10.02,3.54,54.65,Patch,1995,Continental,825.2,71,58.99,400656.25,30
+632,FL,Cook,Urban,Principal Arterial,4236,12.82,65,3,7,Asphalt,22,61.19,4.29,5.55,93.22,4.43,20.53,Reconstruction,2003,Cold,1000.12,80,87.06,722073.61,22
+633,NY,Bexar,Interstate,Collector,16848,8.17,45,5,6,Composite,22,63.51,11.7,4.23,37.45,2.96,75.51,Resurface,2022,Tropical,221.81,29,21.48,799660.8,3
+634,WA,Duval,Rural,Local,3352,10.16,70,1,5,Asphalt,20,164.31,8.86,5.66,8.08,1.87,80.38,Resurface,1997,Cold,439.58,80,48.57,263887.37,28
+635,CA,Fulton,State Highway,Local,2932,17.11,70,5,8,Asphalt,15,187.41,0.68,3.65,38.73,1.68,55.3,Resurface,2015,Arid,1729.41,98,96.07,1173663.57,10
+636,CA,Duval,State Highway,Local,77449,13.66,70,1,9,Composite,8,271.95,6.39,9.36,60.02,1,48.86,None,2004,Continental,1960.46,64,47.36,144129.91,21
+637,WA,King,Urban,Principal Arterial,9556,20.49,55,1,5,Asphalt,12,76.17,16.21,0.55,51.37,3.87,11.39,Patch,2003,Temperate,484.29,112,25.28,275884.8,22
+638,OH,Fulton,State Highway,Principal Arterial,87836,22.05,25,5,2,Concrete,27,255.66,13.79,6.73,69.45,1.44,8.4,Resurface,2009,Continental,1163.93,57,35.11,604171.42,16
+639,CA,King,State Highway,Minor Arterial,6498,15.83,65,1,2,Composite,26,102.51,14.5,8.91,5.55,1.98,33.96,Reconstruction,2008,Temperate,1939.4,87,88.51,291747.16,17
+640,GA,Orange,Rural,Collector,77118,20.17,70,2,2,Concrete,16,148.52,13.96,8.04,28.45,2.19,31.08,Reconstruction,2022,Tropical,481.85,47,95.49,483601.69,3
+641,IL,Harris,Urban,Minor Arterial,51098,11.14,65,1,2,Asphalt,37,129.15,6.22,1.84,81.92,3.24,95.37,Reconstruction,2013,Temperate,535.36,48,95.01,297668.71,12
+642,IL,King,Rural,Collector,65386,13.3,70,4,6,Asphalt,35,150.04,1.99,2.96,7.99,2.59,78.36,Patch,1999,Temperate,1868.27,88,69.89,253904.62,26
+643,GA,Fulton,Interstate,Principal Arterial,10569,19.26,55,1,5,Composite,0,87.62,5.45,7.17,85.55,3.7,65.99,Resurface,2023,Tropical,1470.24,1,50.96,118509.01,2
+644,WA,Orange,Interstate,Local,57882,12.72,25,4,10,Asphalt,17,175.89,16.64,0.84,9.19,1.22,51.76,Reconstruction,2005,Continental,473.54,88,18.27,941264.26,20
+645,GA,King,Interstate,Minor Arterial,71393,16.77,25,1,4,Composite,8,250.41,19.61,8.12,83.45,1.5,16.74,Patch,2004,Tropical,908.29,13,12.32,280562.43,21
+646,NY,Cook,Urban,Local,1340,8.71,70,1,8,Composite,12,160.38,9.88,7.19,36.08,3,97.85,Reconstruction,2007,Arid,301.29,102,5.98,57192.7,18
+647,NY,Duval,State Highway,Minor Arterial,44949,17,55,5,9,Composite,39,172.65,0.19,7.3,61.22,2.35,37.5,Resurface,1996,Arid,978.81,114,1.77,250011.62,29
+648,WA,Harris,Urban,Principal Arterial,83302,22.23,35,2,7,Composite,44,262.19,2.8,1,15.29,2.18,10.69,Resurface,2011,Temperate,1600.22,96,87.81,228121.31,14
+649,GA,King,Urban,Principal Arterial,63443,22.37,65,2,11,Composite,14,226.51,6.44,7.18,6.62,1.27,49.38,Resurface,2021,Tropical,1197.15,16,80.91,526389.34,4
+650,NY,Orange,State Highway,Principal Arterial,75027,19.49,65,3,2,Concrete,42,172.61,11.57,6.8,21.59,4.58,87.4,Resurface,2008,Tropical,1365.4,30,56.78,725364.83,17
+651,OH,Cook,Rural,Minor Arterial,1138,19.92,45,5,9,Composite,43,114.42,1.5,8.31,12.79,3.77,88.73,Resurface,1990,Tropical,788.28,9,99.87,675346.83,35
+652,GA,Cuyahoga,Interstate,Collector,1358,16.16,55,5,11,Concrete,45,271.23,18.87,0.42,31.24,1.49,1.1,Reconstruction,2024,Continental,490.51,69,95.31,252514.08,1
+653,OH,Orange,Rural,Minor Arterial,76250,16.69,45,2,4,Asphalt,3,194.26,7.3,0.23,51.44,1.26,88.63,Resurface,1994,Cold,223.61,102,65.51,377352.87,31
+654,NY,Duval,Interstate,Collector,86376,7.67,70,5,9,Composite,32,105.29,18.25,3.73,58.88,4.9,27.15,Reconstruction,2001,Cold,1678.36,88,46.46,547444.34,24
+655,IL,Orange,Urban,Minor Arterial,31654,13.88,45,2,5,Asphalt,23,117.28,15.61,1.49,78.99,3.72,3.9,Resurface,2001,Cold,1345.98,101,15.22,472804.46,24
+656,NY,Cook,Interstate,Minor Arterial,26879,14.02,25,5,9,Composite,35,250.78,15.11,5.58,65.62,2.67,84.78,Reconstruction,2010,Continental,612.78,36,51.56,807937.08,15
+657,OH,Orange,Urban,Principal Arterial,82532,24.17,65,1,2,Concrete,40,61.04,12.13,9.17,60.88,3.81,86.39,Resurface,2008,Tropical,953.18,63,15.77,219650.48,17
+658,TX,Cook,Rural,Local,56778,13.62,45,2,4,Concrete,9,298.02,12.54,3.91,41.18,4.03,59.62,Reconstruction,1998,Cold,1642.6,29,39.85,526154.41,27
+659,FL,King,Urban,Local,38772,15.99,25,2,7,Concrete,35,82.59,12.76,8.45,47.38,4.12,57.44,Resurface,2021,Tropical,1169.66,33,94.26,367879.9,4
+660,CA,Bexar,Rural,Collector,59478,15.67,55,4,10,Asphalt,19,249.02,12.57,0,41.45,2.91,81.31,Patch,2024,Temperate,740.29,17,34.2,535955.54,1
+661,GA,Cook,State Highway,Local,65353,17.74,45,5,3,Composite,40,148.69,11.07,1.69,84.22,2.72,78.63,Reconstruction,2020,Cold,680.93,87,15.28,1211929.43,5
+662,TX,Cook,State Highway,Minor Arterial,27762,19.96,70,5,2,Asphalt,44,173.05,19.73,0.3,23,1.04,89.01,Patch,2021,Temperate,591.71,62,58.24,581484.05,4
+663,NY,Harris,State Highway,Minor Arterial,14283,9.5,70,2,11,Concrete,43,270.16,14.65,3.28,0.57,4.71,55.27,Reconstruction,2021,Continental,1682.71,48,60.24,545759.41,4
+664,IL,Cook,Urban,Principal Arterial,64922,15.57,70,1,4,Asphalt,10,153.23,15.54,9.08,65.13,3.41,96.76,Reconstruction,2019,Arid,1247.35,55,19.38,67856.91,6
+665,WA,Cook,State Highway,Principal Arterial,40420,21.52,65,1,5,Concrete,11,184.37,17.45,0.97,20.25,1.81,99.61,Reconstruction,2021,Continental,1476.48,90,19.66,258867.16,4
+666,NY,Cuyahoga,Interstate,Local,56568,14.26,45,1,6,Concrete,17,62.32,4.31,6.06,89.01,4.68,11.65,None,1991,Continental,1748.22,57,98.95,72888.93,34
+667,IL,Bexar,Rural,Collector,86090,10.57,55,5,4,Concrete,29,50.59,1.68,4.51,85.9,4.66,84.95,Resurface,2000,Continental,1976.35,26,24.33,320171.23,25
+668,FL,King,Rural,Local,21219,18.09,45,4,11,Composite,43,111.2,9.66,9.38,7.67,4.96,49.98,Patch,2009,Cold,649.07,54,83.82,563256.94,16
+669,NY,Duval,Interstate,Local,58169,21.48,65,2,3,Composite,47,220.15,10.28,1.23,10.64,4.5,38.76,Patch,1998,Temperate,525.62,102,47.03,578274.68,27
+670,OH,Harris,Urban,Local,75965,6.26,25,3,3,Concrete,36,80.32,16.58,2.12,49.52,4.99,61.31,Reconstruction,2008,Cold,1031.6,84,43.5,887614.54,17
+671,WA,Cuyahoga,Urban,Local,47840,20.54,65,4,8,Asphalt,19,78.44,8.88,0.3,60.92,1.98,5.6,Patch,1996,Arid,263.13,18,29.5,402070.5,29
+672,IL,Fulton,Rural,Minor Arterial,45695,21.43,70,3,10,Asphalt,24,152.74,11.42,4.34,27.49,4.37,50.65,Patch,1994,Continental,1625.09,102,77.38,261478.17,31
+673,IL,Bexar,State Highway,Collector,85754,14.23,25,4,11,Composite,11,211.96,10.54,2.78,71.68,4.29,87.09,Patch,2013,Tropical,1790.77,22,88.07,552953.33,12
+674,IL,King,Urban,Minor Arterial,78988,24.67,70,1,3,Concrete,20,228.02,0.76,8.7,59.49,1.92,21.35,Patch,1996,Arid,1434.87,102,26.11,134271.71,29
+675,FL,King,Urban,Collector,59342,20.73,35,5,8,Asphalt,24,94.61,12.3,6.05,32.48,1.39,42.64,None,2000,Temperate,682.39,111,9.51,1199491.1,25
+676,NY,Fulton,Interstate,Principal Arterial,19951,20.47,65,3,8,Concrete,10,69.9,16.56,6.14,2.54,4.92,93.95,Reconstruction,1998,Arid,421.68,107,13.69,482999.27,27
+677,FL,Duval,Interstate,Local,2307,19.96,65,4,8,Asphalt,8,285.1,3.15,5.32,75.02,2.18,42.86,Patch,2019,Cold,887.86,46,79.28,979883.59,6
+678,GA,Cook,State Highway,Minor Arterial,81388,8.01,55,5,4,Composite,49,115.17,11.89,0.92,21.48,4.48,35.84,None,1992,Tropical,1700,78,43.58,1185891.37,33
+679,CA,Cuyahoga,Urban,Collector,36428,9.34,45,3,8,Concrete,24,263.34,11.87,4.45,83.45,1.02,44.05,None,2011,Cold,826.09,106,13.19,583732.82,14
+680,CA,Orange,Urban,Principal Arterial,76774,14.28,25,2,2,Concrete,34,265.87,3.28,10,42.03,1.08,51.95,Reconstruction,2009,Continental,261.66,65,34.03,516756.05,16
+681,GA,Harris,Interstate,Principal Arterial,39975,10.28,25,4,11,Asphalt,31,243.13,2.47,8.35,57.71,2.86,63.2,Resurface,2021,Continental,693.7,98,51.42,395647.75,4
+682,NY,Orange,Urban,Local,2140,13.3,55,2,2,Asphalt,48,92.21,19.6,8.93,87.29,1.95,80.07,Resurface,1996,Arid,1981.9,50,85.21,180905.25,29
+683,OH,Fulton,Rural,Collector,25842,22.77,55,1,6,Asphalt,13,255.45,7.87,8.23,86.36,3.76,45.21,Resurface,1996,Continental,1418,83,64.17,237662.56,29
+684,FL,King,Interstate,Minor Arterial,27421,21.49,45,2,3,Concrete,0,242.31,4.55,1.03,37.15,3.26,81.75,Patch,2009,Continental,1821.54,27,17.6,222398.53,16
+685,WA,Duval,State Highway,Local,2708,17.6,70,2,10,Composite,16,199.18,3.43,2.27,20.89,1.31,53.37,Reconstruction,2014,Temperate,1594.76,56,15.87,101397.19,11
+686,IL,King,Interstate,Minor Arterial,4630,22.16,45,4,8,Composite,24,134.3,13.35,0.03,77.51,1.65,33.85,Resurface,2024,Temperate,1171.47,57,41.23,1111960.17,1
+687,IL,Harris,Urban,Principal Arterial,20595,20.68,65,1,5,Asphalt,7,115.63,12.19,3.04,43.31,2.55,65.8,Patch,2013,Cold,467.64,14,7.52,205734.26,12
+688,NY,King,State Highway,Minor Arterial,77021,13.58,70,2,5,Composite,4,80.47,12.87,1.09,19.2,1.74,71.77,Reconstruction,2002,Cold,827.56,15,75.56,322468.85,23
+689,OH,King,Interstate,Minor Arterial,29308,9.02,35,5,3,Asphalt,4,177.44,1.76,4.73,90.44,4.17,55.8,Patch,1993,Temperate,1250.73,96,40.15,1157170.64,32
+690,CA,Harris,Rural,Local,45789,15.28,45,3,6,Composite,40,196.32,17.87,6.77,19.81,2.66,5.66,Resurface,2001,Arid,1767.14,46,34.3,399998.8,24
+691,CA,Cuyahoga,Rural,Minor Arterial,56690,19.72,55,2,5,Concrete,34,139.83,7.79,8.75,2.58,1.37,16.99,Resurface,2006,Temperate,683.62,62,50.91,576833.03,19
+692,IL,Cuyahoga,Interstate,Local,27086,13.73,70,1,2,Asphalt,18,168.84,6.27,7.49,2.03,2.94,28.53,None,1990,Cold,418.21,11,70.9,67155.07,35
+693,NY,Harris,Rural,Principal Arterial,17859,18.34,45,2,9,Composite,22,140.88,9.25,9.39,62.23,1.36,28.26,None,2006,Tropical,1205.9,102,56.93,420474.1,19
+694,FL,Duval,Rural,Local,8684,6.89,25,3,4,Concrete,8,210.25,7.8,0.54,66.17,1.52,67.34,Reconstruction,1991,Continental,517.7,102,80.24,732967.11,34
+695,CA,Fulton,Rural,Local,2207,19.96,35,1,7,Composite,29,275.31,17.27,0.12,31.1,1.96,1.83,Patch,1995,Tropical,1298.65,42,62.94,167281.48,30
+696,FL,Bexar,State Highway,Collector,47099,21.25,65,4,5,Concrete,49,90.98,18.59,6.61,32,4.44,75.57,Patch,2000,Tropical,674.34,83,78.8,954968.36,25
+697,OH,King,Rural,Minor Arterial,68496,19.14,25,1,10,Concrete,15,145.35,6.07,2.89,33.95,4.7,26.53,Resurface,2007,Continental,615.73,28,69.68,281727.6,18
+698,CA,Duval,Rural,Principal Arterial,67093,24.35,25,4,8,Composite,32,85.22,17.28,2.54,68.02,4.31,31,Resurface,2014,Temperate,918.53,106,19.31,943993.9,11
+699,CA,King,Rural,Local,30689,21.53,35,1,10,Composite,1,206.24,15.63,3.31,5.81,2.34,52.79,Reconstruction,2017,Arid,1267.75,48,5.24,127341.72,8
+700,TX,Bexar,State Highway,Principal Arterial,49651,23.06,65,3,11,Concrete,13,232.22,18.62,2.7,92.91,2.09,21.59,None,2005,Tropical,1181.57,2,90.34,571384.78,20
+701,CA,Fulton,Interstate,Collector,14893,23.67,55,3,4,Concrete,45,282.98,4.92,5.11,22.25,3.2,88.45,Resurface,2001,Arid,640.52,111,94.57,833702.64,24
+702,GA,Cuyahoga,Urban,Minor Arterial,67418,21.03,70,1,2,Concrete,0,119.72,11.54,4.4,99.97,3.89,8.54,Patch,2018,Cold,1804.01,68,72.69,162274.43,7
+703,WA,Duval,Rural,Local,61011,18.49,65,2,6,Asphalt,25,287.55,5.49,5.12,17.15,4.97,44.44,Resurface,2012,Tropical,397.79,59,72.42,440849.25,13
+704,GA,Cook,Interstate,Minor Arterial,39635,5.11,45,3,4,Concrete,24,65.82,16.48,6.73,77.15,1.53,84.94,None,2010,Cold,271.04,65,27.01,499136.04,15
+705,NY,Cook,Rural,Collector,57115,14.32,25,4,7,Asphalt,15,200.75,0.11,3.87,22.34,1.2,61.58,Patch,2005,Temperate,1284.87,86,54.24,321344.16,20
+706,NY,Bexar,State Highway,Collector,79405,16.42,45,4,9,Concrete,14,64.28,11.3,2.51,8.08,3.78,29.23,None,2015,Tropical,422.13,89,99.22,258597.64,10
+707,FL,Cook,Interstate,Principal Arterial,73702,11.08,55,5,5,Asphalt,25,273.44,6.78,1.66,87.49,4.33,42.08,Reconstruction,2011,Cold,1108.8,25,85.61,1440342.45,14
+708,GA,Cuyahoga,State Highway,Local,79518,11.36,45,4,6,Concrete,46,182.45,6.45,3.49,85.88,4.39,70.67,Reconstruction,1999,Cold,1913.19,70,30.44,812541.77,26
+709,GA,Bexar,Rural,Principal Arterial,73805,24.22,65,5,6,Concrete,43,217.34,12.9,7.42,40.36,3.71,97.33,None,1996,Temperate,1457.44,73,30.1,379768.64,29
+710,GA,Cuyahoga,Rural,Collector,59954,22.83,45,1,5,Concrete,15,257.89,17.03,7.57,70.24,4.82,89.31,Patch,1998,Arid,1311.42,68,48.36,264359.64,27
+711,OH,Fulton,State Highway,Minor Arterial,29064,21.98,55,1,5,Composite,13,87.58,12.18,6.67,55.71,3.04,34.24,None,2014,Arid,1234.65,46,40.46,180673.28,11
+712,CA,King,Urban,Principal Arterial,80063,13.12,55,1,5,Composite,28,59.65,17.06,2.34,85.3,4.66,99.82,Resurface,2004,Tropical,523.17,75,37.12,242983.03,21
+713,WA,Fulton,State Highway,Principal Arterial,3454,5.27,55,2,5,Concrete,23,269.72,5.29,5.88,31.51,4.87,0.35,Resurface,2002,Temperate,978.77,95,62.7,163378.1,23
+714,FL,Fulton,Rural,Minor Arterial,21878,6.6,65,2,5,Asphalt,46,128.73,10.39,5.71,52.37,4.39,2.76,None,2015,Tropical,816.54,41,1.15,553455.22,10
+715,GA,Cuyahoga,State Highway,Principal Arterial,52098,11.24,55,5,6,Asphalt,14,82.24,9.01,4.84,48.54,2.24,82.38,Resurface,2010,Arid,1915.53,30,76.33,988169.3,15
+716,GA,Bexar,Urban,Minor Arterial,63154,5.31,25,4,3,Concrete,18,167.12,0.23,5.5,35.39,1.78,19.95,None,2012,Temperate,636.18,21,74.01,938260.68,13
+717,TX,Bexar,State Highway,Local,13991,5.34,55,4,3,Composite,7,199.58,11.14,4.92,89.15,3.19,6.08,Resurface,2017,Continental,1048.73,16,83.03,231379.69,8
+718,FL,Cook,Urban,Minor Arterial,69344,23.33,45,1,10,Asphalt,33,57.74,13.23,5.65,16.59,2.81,23.71,None,2001,Temperate,1888.54,83,84.15,128826.23,24
+719,GA,Orange,Urban,Local,37593,19.12,70,3,3,Composite,1,118.72,11.84,7.16,14.95,4.51,42.61,Resurface,2013,Temperate,1620.53,19,56.64,350584.06,12
+720,FL,King,State Highway,Minor Arterial,37304,11.18,45,2,7,Asphalt,26,58.2,14.73,1.1,57.69,1.4,73.06,Patch,2002,Continental,1936.13,106,78.01,574797.5,23
+721,CA,Cuyahoga,State Highway,Collector,31386,7.65,70,2,3,Concrete,9,155.08,11.43,7.5,65.75,2.03,62.43,Patch,1991,Cold,1294.99,7,49.24,192669.28,34
+722,TX,Cook,Interstate,Collector,56220,15.23,45,1,6,Composite,34,273.78,1.34,1.36,19.46,4.01,23.76,Resurface,2001,Cold,800.82,110,95.15,226762.93,24
+723,FL,Duval,Rural,Local,70338,5.11,65,2,5,Asphalt,22,295.66,2.33,0.67,39.07,1.38,50.33,None,2003,Cold,1687.97,97,19.07,121376.77,22
+724,WA,Orange,Urban,Local,22083,23.77,45,1,8,Concrete,48,209.26,11.93,9.76,94.66,2.28,92.62,Resurface,2019,Arid,724.62,48,91.56,99421.02,6
+725,WA,Orange,Interstate,Collector,19354,13.3,65,5,8,Concrete,7,90.41,5.5,9.57,24.66,2.55,81.5,Reconstruction,2008,Temperate,496.59,86,25.85,673246.69,17
+726,NY,Cuyahoga,State Highway,Local,23190,13.05,65,4,7,Concrete,27,276.46,1.59,0.6,66.84,3.49,32.32,Reconstruction,2020,Continental,1471.32,37,10.27,994505.85,5
+727,TX,Harris,Rural,Minor Arterial,7142,12.81,55,3,11,Composite,22,179.06,8.59,4.43,74.01,1.63,98.23,None,2014,Arid,1350.12,52,43.91,742482.44,11
+728,TX,King,Interstate,Minor Arterial,29398,6.39,25,4,6,Composite,3,88.44,11.09,1.86,44.81,4.44,70.86,Resurface,1993,Continental,1782.11,27,61.49,1152601.86,32
+729,NY,Orange,Urban,Collector,52971,17.77,70,4,2,Concrete,13,280.43,6.57,4.85,93.75,2.79,6.24,Resurface,2002,Arid,1931.46,76,23.1,1116767.5,23
+730,FL,Cuyahoga,Interstate,Principal Arterial,42862,19.66,55,5,4,Composite,41,239.37,14.41,8.3,73.67,4.67,3.52,Patch,1992,Arid,1742.96,28,55.58,351893.24,33
+731,TX,Cuyahoga,Urban,Minor Arterial,54410,18.52,55,2,10,Asphalt,28,232.93,12.88,9.51,45.79,2.87,16.84,None,2005,Arid,308.04,71,80.79,514933.86,20
+732,WA,Cook,State Highway,Local,20503,7.77,65,3,2,Concrete,0,227.3,6.66,6.34,56.93,2.1,72.79,Reconstruction,2015,Continental,1396.12,10,25.71,488380.18,10
+733,WA,Duval,Rural,Principal Arterial,49456,16.58,65,2,6,Concrete,3,100.08,15.1,3.54,69.26,1.57,18.37,Reconstruction,2008,Tropical,1612.52,46,58.03,532943.05,17
+734,GA,Harris,Rural,Principal Arterial,83035,16.39,70,4,3,Composite,31,102.75,12.97,6.03,59.22,1.01,51.15,None,2004,Arid,1967.47,44,33.93,289286.25,21
+735,CA,King,Rural,Minor Arterial,9016,22.37,45,1,5,Concrete,32,222.07,12.75,3.12,87.87,3.13,9.33,Reconstruction,2021,Cold,874.39,17,52.98,255692.28,4
+736,TX,Bexar,State Highway,Minor Arterial,3384,12.58,45,4,2,Asphalt,48,104.93,11.07,9.1,35.69,1.43,92.09,None,2010,Temperate,505.79,49,66.69,359642.52,15
+737,FL,Fulton,Urban,Principal Arterial,63320,12.43,55,2,4,Composite,25,159.67,0.23,8.7,29.99,2.57,34.4,Reconstruction,1990,Tropical,1735.28,88,35.04,266920.82,35
+738,NY,Duval,State Highway,Principal Arterial,16072,17.37,35,4,11,Composite,16,245.5,13.93,5.58,21.38,3.36,90.81,Reconstruction,1995,Tropical,771.44,48,99.45,228848.4,30
+739,NY,Duval,Rural,Collector,81018,17.66,35,1,8,Concrete,38,245.99,7.52,3.25,3.78,2.1,94.49,None,2016,Continental,1276.76,21,56.38,80932.02,9
+740,FL,Cook,State Highway,Local,41510,14.39,45,5,11,Concrete,22,163.32,18.85,2.93,4.3,1.7,0.61,None,2012,Tropical,901.81,44,82.45,807157.36,13
+741,OH,Bexar,State Highway,Collector,49933,13.86,35,2,4,Concrete,31,248.05,16.36,0.33,87.01,4.1,46.41,Reconstruction,2020,Continental,924.19,60,72.51,509169.17,5
+742,IL,Orange,State Highway,Minor Arterial,22826,14.88,45,4,5,Composite,14,259.66,11.75,8.16,67.84,4.79,2.47,Reconstruction,2001,Continental,1518.44,98,85.28,973669.77,24
+743,CA,Orange,Urban,Collector,69026,22.22,65,2,3,Concrete,12,213.69,5.04,4.5,66.05,1.4,90.87,Patch,2010,Cold,850.66,92,17.38,217648.88,15
+744,NY,Cook,Interstate,Collector,26518,14.22,55,5,4,Asphalt,1,107.11,4.07,3.25,61.46,1.62,51.84,Resurface,1991,Arid,1447.54,20,22.26,439613.06,34
+745,TX,Cuyahoga,Interstate,Collector,25045,23.8,25,4,10,Concrete,18,118.5,6.81,4.71,84.92,4.84,7.49,None,1994,Tropical,225.79,119,48.74,589263.46,31
+746,CA,Orange,State Highway,Collector,51876,15.08,55,4,4,Concrete,23,128.71,9.53,8.19,48.03,1.15,11.03,None,1998,Arid,784.37,70,85.23,1083268.35,27
+747,TX,Harris,Interstate,Local,52919,23.98,45,2,6,Composite,44,79.2,5.92,1.25,87.04,4.91,38.35,Resurface,2009,Arid,774.28,60,19.76,145712.54,16
+748,OH,King,Interstate,Local,28103,21.66,45,2,3,Concrete,23,118.29,10.3,8.58,35.94,1.02,94.02,Patch,2007,Arid,1547.9,75,97.11,371457.01,18
+749,WA,Duval,State Highway,Principal Arterial,37188,12.25,55,1,5,Composite,10,102.38,3.31,8.98,92.67,4.49,69.29,Reconstruction,2011,Continental,766.2,35,12.76,72201.87,14
+750,CA,Duval,State Highway,Minor Arterial,6845,22.27,70,5,8,Concrete,21,163.83,19.55,9.47,69.87,2.23,86.76,Reconstruction,1997,Arid,1339.99,23,17.51,837765.15,28
+751,GA,Harris,Rural,Collector,87698,7.2,45,1,8,Asphalt,14,277.11,2.16,3.97,25.72,4.75,36.65,Patch,2023,Tropical,1439.34,31,16.72,81697.88,2
+752,NY,Bexar,Interstate,Principal Arterial,37674,23.5,35,4,4,Asphalt,9,76.12,18.64,2.17,56.41,2.27,4.32,Patch,1998,Continental,1385.17,90,58.6,280336.93,27
+753,CA,Orange,Urban,Principal Arterial,20337,17.63,35,2,6,Composite,40,230.07,18.27,3.74,53.3,3.62,97.43,Resurface,1996,Tropical,1285.93,95,91.75,195424.67,29
+754,CA,Duval,State Highway,Principal Arterial,23313,6.09,45,4,2,Composite,26,221.82,10.51,3.33,13.79,1.32,1.72,Resurface,2019,Continental,944.51,58,25.51,455256.02,6
+755,CA,Fulton,Rural,Local,27943,17.89,45,4,11,Concrete,8,73.94,14.5,1.76,59.12,1.97,94.77,Reconstruction,2007,Temperate,871.95,95,55.3,476265.38,18
+756,IL,Bexar,Urban,Collector,78949,24.48,70,3,11,Concrete,27,280.64,8.72,6.07,31.48,4.09,36.87,Patch,2016,Temperate,1216.25,95,17.58,633950.96,9
+757,CA,King,Interstate,Collector,1276,6.4,35,3,11,Asphalt,0,192.12,12.6,4.77,5.23,3.11,1.01,Patch,2005,Temperate,314.67,89,63.11,191236.41,20
+758,TX,King,Rural,Minor Arterial,52151,16.09,45,4,2,Concrete,16,140.93,6.81,8.66,94.87,4.71,68.92,Reconstruction,2010,Temperate,1776.48,74,12.32,280809.06,15
+759,WA,Duval,State Highway,Collector,18611,19.96,45,2,6,Asphalt,30,239.13,6.02,0.32,64.15,2.72,98.05,Reconstruction,1994,Continental,1685.57,109,49.13,194353.08,31
+760,OH,Cook,Urban,Collector,12944,21.21,70,4,11,Composite,43,114.34,11.56,6.44,87.69,4.48,96.56,Reconstruction,2018,Arid,823.49,81,65.52,1072063.07,7
+761,FL,Bexar,State Highway,Principal Arterial,53887,13.28,70,3,10,Concrete,9,223.38,9.96,7.63,67.61,2.8,16.09,Reconstruction,2011,Cold,1220.27,102,57.91,621453.69,14
+762,CA,Duval,Interstate,Minor Arterial,82442,9.08,55,2,2,Composite,36,59.93,11.59,7.59,35.7,4.92,18.12,Reconstruction,2003,Cold,1878.01,4,14,465184.83,22
+763,NY,Cook,Urban,Collector,50847,5.85,70,4,2,Concrete,28,259.85,5.73,8.86,51.27,4.84,56.55,Resurface,2008,Temperate,688.95,15,16.14,570362.16,17
+764,CA,Duval,Interstate,Local,59653,16.59,25,5,5,Asphalt,17,162.04,7.34,7.29,67.57,2.32,63.73,Reconstruction,2024,Arid,1536.42,10,67.14,516525.44,1
+765,NY,Fulton,Interstate,Collector,87072,14.06,35,5,5,Composite,46,209.17,1.68,9.28,96.03,4.54,73.94,Patch,2013,Tropical,348.92,117,80.89,297451.7,12
+766,TX,Bexar,Rural,Principal Arterial,57622,23.97,55,4,3,Composite,37,105.31,1.05,3.33,25.37,4.39,18.11,None,1995,Arid,1142.07,34,90.81,688535.62,30
+767,NY,Cuyahoga,State Highway,Local,28810,6.21,25,2,10,Concrete,38,219.27,5.07,5.03,87.5,1.84,95.9,Resurface,1992,Tropical,1791.14,111,81.36,387140.48,33
+768,GA,King,Urban,Principal Arterial,78842,18.71,45,4,10,Composite,48,243.06,1.48,0.14,92.41,3.5,63.87,Patch,2023,Cold,1193.08,74,97.39,1097002.79,2
+769,FL,Duval,Interstate,Collector,11503,5.5,45,4,3,Asphalt,5,168.3,2.08,0.07,67.04,1.29,84.7,None,1991,Arid,1309.26,41,40.83,1082092.98,34
+770,WA,Fulton,Interstate,Local,85761,8.43,55,3,10,Composite,39,204.43,16.26,2.4,93.13,4.35,54.01,Resurface,2004,Arid,1833.75,86,33.12,468513.87,21
+771,NY,Cook,Urban,Minor Arterial,37976,14.07,70,5,7,Composite,11,164.08,0.78,1.01,39.79,1.7,41.43,Reconstruction,2004,Cold,1487.65,118,2.82,779472.41,21
+772,NY,Cook,Interstate,Minor Arterial,12590,14.1,45,3,9,Concrete,13,273.52,13.18,2.6,95.3,1.28,97.72,Resurface,2021,Arid,1452.57,97,44.99,270842.17,4
+773,WA,King,Rural,Local,11886,18.71,65,3,11,Composite,43,174.47,5.45,1.77,70.28,2.6,58.21,Reconstruction,2010,Tropical,1255.49,111,65.14,343086.74,15
+774,FL,Harris,Rural,Local,13866,23.2,55,4,5,Concrete,9,260.45,17.43,0.29,4.2,3.31,86.69,Reconstruction,2006,Arid,1339.38,80,81.54,1125663.58,19
+775,CA,Duval,Rural,Principal Arterial,67624,17.78,25,3,3,Concrete,19,250.34,9.7,9.09,90.69,4.42,95.33,Reconstruction,2023,Tropical,1646.67,9,26.75,255777.01,2
+776,NY,Bexar,Rural,Local,69899,24.07,55,5,3,Composite,14,152.63,6.11,0.08,48.45,4.9,67.54,None,2021,Temperate,1962.62,81,51.36,1460874.43,4
+777,WA,Orange,Interstate,Principal Arterial,33792,22.63,35,3,10,Asphalt,30,107.52,10.35,7.36,46.03,2.76,54.89,Resurface,2012,Arid,1631.59,107,66.2,528553.91,13
+778,GA,Cook,Urban,Collector,10764,16.69,70,5,2,Concrete,6,151.52,7.64,1.52,56.65,1.24,0.35,Reconstruction,2024,Tropical,1473.57,7,55.16,820758.47,1
+779,GA,Bexar,Urban,Principal Arterial,87156,21.68,70,3,8,Composite,40,256.55,11.29,9.12,14.94,4,4,Patch,2022,Cold,443.98,25,27.4,280978.79,3
+780,TX,Bexar,Urban,Local,43727,17.85,55,5,4,Concrete,9,106.91,2.29,8.93,46.92,3.26,20.09,Resurface,2014,Temperate,1670.74,2,79.63,1076926.56,11
+781,WA,Cuyahoga,Urban,Local,79471,6.57,45,3,4,Asphalt,9,181.11,19.94,6.54,83.11,2.79,18.6,Patch,2010,Arid,1524.79,58,17.34,494884.14,15
+782,TX,Bexar,State Highway,Collector,9068,19.81,45,3,3,Asphalt,47,251.52,8.51,6.72,1.55,2.24,25.48,None,2023,Tropical,1586.78,115,90.5,427997.3,2
+783,GA,Bexar,Urban,Local,8295,6.9,65,2,11,Concrete,38,138.37,6.96,0.05,27.29,3.01,30.49,None,2008,Arid,615.97,87,95.26,232258.11,17
+784,FL,Cuyahoga,State Highway,Local,42160,16.88,65,5,7,Asphalt,27,210.55,14.2,9.85,0.25,2.35,36.01,Resurface,2016,Tropical,1826.2,2,36.56,333108.5,9
+785,CA,Cook,State Highway,Minor Arterial,12390,19.05,70,5,11,Composite,29,111.41,7.28,8.78,41.57,4.03,42.05,None,1998,Arid,375.11,37,37.62,899160.15,27
+786,WA,Bexar,Rural,Minor Arterial,21131,6.33,65,5,3,Composite,36,77.32,16.67,8.95,72.83,3.18,9.89,None,1994,Temperate,656.5,1,74.33,641135.42,31
+787,OH,Harris,State Highway,Collector,76969,9.62,25,1,11,Concrete,2,248.6,9.09,6.59,79.88,4.51,4.24,Resurface,1994,Temperate,1393.44,98,45.63,226966.3,31
+788,GA,Harris,Interstate,Principal Arterial,16038,23.31,65,3,5,Asphalt,49,74.74,14.39,3.45,94.52,3.17,67.39,Patch,2014,Arid,1412.69,16,2.86,692641.77,11
+789,GA,Fulton,State Highway,Minor Arterial,53327,17.33,25,5,11,Composite,42,117.85,2.15,8.94,60.85,1.95,53.73,Reconstruction,2015,Arid,763.98,72,91.99,665133.76,10
+790,OH,Cuyahoga,Rural,Principal Arterial,78064,9.93,65,1,10,Composite,14,263.78,16.92,2.92,25.46,4.4,44.41,Resurface,2008,Continental,1462.74,35,43.08,217280.17,17
+791,IL,Fulton,State Highway,Local,22281,18.81,70,2,10,Composite,20,136.62,14.71,5.63,92.41,3.23,63.44,Resurface,2019,Arid,898.27,85,20.35,229337.62,6
+792,GA,Cuyahoga,Interstate,Minor Arterial,55189,16.94,70,5,7,Concrete,36,293.26,4.23,1,77.53,1.83,82.77,Reconstruction,2005,Arid,200.32,94,55.57,1158967.16,20
+793,NY,Duval,Interstate,Collector,49511,15.03,25,5,5,Concrete,11,294.93,2.91,9.22,57.44,3.49,42.77,Patch,1996,Temperate,492.69,118,21.89,270096.43,29
+794,FL,Duval,Interstate,Collector,9605,24.52,55,1,8,Composite,3,117.07,6.33,1.41,69.56,2.43,64.11,Reconstruction,2007,Arid,1788.71,97,20.6,87902.19,18
+795,WA,Bexar,Rural,Collector,2381,18.67,70,3,2,Composite,46,60.24,19.52,2.25,92.43,4.38,95.36,Reconstruction,2010,Cold,600.85,87,54.57,333756.5,15
+796,OH,Orange,Rural,Minor Arterial,67634,12.51,55,2,5,Asphalt,8,226.27,5.14,5.58,71.24,2.81,83.96,Patch,2020,Arid,403.24,72,39.1,486467.74,5
+797,NY,Duval,Urban,Principal Arterial,20810,21,45,5,6,Asphalt,38,162.75,9.12,7.64,36.84,3.91,42.6,Patch,1990,Continental,1427.96,109,57.3,332970.32,35
+798,OH,Orange,Rural,Local,25322,22.69,25,3,9,Asphalt,41,75.19,0.6,6.19,71.3,1.38,64.47,Reconstruction,1992,Tropical,993.27,106,99.68,291042.86,33
+799,WA,Duval,Interstate,Principal Arterial,42869,7.5,70,2,3,Concrete,27,226.88,7.94,2.32,4.03,2.58,17.71,Reconstruction,2020,Temperate,1633.86,1,85.9,279312.05,5
+800,TX,King,Interstate,Principal Arterial,33955,9.01,35,4,6,Composite,22,57.79,11.43,0.01,38.64,4.93,56.05,Resurface,2014,Cold,1750.6,84,0.77,209174.99,11
+801,WA,Duval,Rural,Local,62388,9.32,45,4,7,Concrete,44,267.55,19.06,7.57,40.63,4.23,98.13,Patch,1997,Tropical,1722.78,33,5.06,962120.98,28
+802,IL,Fulton,State Highway,Local,11207,18.82,55,2,6,Composite,39,84.66,10.33,9.85,16.68,1.64,51.83,None,1990,Cold,763.42,26,61.01,380052.57,35
+803,WA,Cook,Rural,Minor Arterial,88329,17.06,70,1,10,Asphalt,43,81.83,16.38,8.1,2.31,2.11,92.76,Patch,1996,Temperate,1109.98,36,62.63,275169.85,29
+804,WA,Bexar,Rural,Minor Arterial,68628,17.38,25,2,11,Asphalt,21,93.92,10.94,4.6,13.34,2.32,40.73,Reconstruction,1996,Continental,1370.26,70,87.82,115515.52,29
+805,IL,Fulton,Interstate,Minor Arterial,29220,23.82,65,2,2,Asphalt,23,290.07,0.82,9.04,65.46,3.6,99.88,Reconstruction,1997,Temperate,779.57,21,62.91,235695.34,28
+806,FL,Cook,Urban,Minor Arterial,85050,20.52,35,1,4,Asphalt,25,223.29,6.3,4.1,80.23,4.03,57.92,Reconstruction,2008,Cold,273.98,67,22.77,232812.91,17
+807,GA,Harris,Interstate,Minor Arterial,75085,7.56,55,1,3,Composite,29,250.34,11.51,5.25,98.82,4,4.23,Reconstruction,2006,Cold,1092.2,13,46.85,218787.35,19
+808,WA,Fulton,Urban,Local,23031,11.95,45,3,4,Asphalt,32,149.41,19.01,4.77,34.64,3.04,58.68,None,2000,Temperate,223.07,97,80.9,332293.08,25
+809,IL,Harris,Interstate,Principal Arterial,71721,13.71,25,3,11,Composite,15,134.08,17.18,4.48,59.94,4.24,27.46,Patch,2000,Arid,1911.16,22,92.28,596765.8,25
+810,NY,Orange,Rural,Minor Arterial,81807,12.92,35,1,10,Composite,21,108.62,4.57,7.75,93.71,2.75,3.25,None,1991,Temperate,1634.03,43,23.69,248439.41,34
+811,TX,Orange,Interstate,Minor Arterial,72312,18.39,25,4,10,Concrete,48,170.16,4.4,5.27,16.7,1.5,82.09,None,1993,Continental,545.62,105,53.96,233380.7,32
+812,TX,King,Interstate,Principal Arterial,60766,22.84,70,4,11,Asphalt,49,187.96,4.02,3.17,71.76,3.26,27.57,Reconstruction,2017,Temperate,717.63,88,15.89,917628.4,8
+813,WA,Duval,Interstate,Minor Arterial,13449,11.12,65,2,3,Asphalt,42,207.94,18.45,2.58,75.5,4.81,79.65,None,2022,Tropical,1969.11,64,49.7,226048.53,3
+814,FL,Fulton,Rural,Principal Arterial,57699,16.04,45,5,4,Concrete,17,114.28,17.05,0.38,8.9,4.17,28.82,Reconstruction,2000,Arid,872.39,114,9.01,1434814.11,25
+815,FL,Harris,Rural,Principal Arterial,82253,20.79,25,2,5,Composite,6,287.16,15.5,5.83,86.12,3.31,19.43,Reconstruction,1992,Tropical,1610.7,118,94.17,369110.11,33
+816,NY,Cook,Rural,Local,47092,13.32,55,2,10,Asphalt,49,92.44,7.85,2.3,81.31,3.59,97.39,Reconstruction,1994,Temperate,1004.27,111,63.81,116693.09,31
+817,WA,Orange,Rural,Collector,64671,8.36,70,5,4,Composite,25,291.41,10.09,1.48,3.34,4.72,36.16,None,2010,Arid,1755.37,78,85.42,754288.27,15
+818,TX,Duval,Urban,Local,11350,14.5,70,1,8,Concrete,7,53.71,9.29,6.54,9.11,2.71,60.14,Reconstruction,2011,Tropical,1466.76,95,99.83,291577.96,14
+819,FL,Orange,Urban,Collector,69487,6.1,45,4,4,Composite,5,170.28,5.07,6.81,4.91,2.33,61,None,2000,Tropical,241.24,77,18.27,930372.99,25
+820,WA,Cook,State Highway,Collector,18622,23.85,70,2,8,Asphalt,29,133.34,10.1,7.52,33.47,4.91,56.05,Patch,2011,Arid,729.9,104,69.41,250239.5,14
+821,OH,Duval,Rural,Collector,71263,6.5,55,5,8,Composite,38,162.28,0.61,5.04,50.93,4.45,91.47,Reconstruction,2002,Arid,1204.39,60,88.7,969084.12,23
+822,FL,Duval,Urban,Minor Arterial,54117,13.77,25,3,10,Composite,22,192.67,2.64,8.94,53.23,2.29,67.44,Resurface,1992,Cold,1867.11,84,57.59,599326.02,33
+823,IL,Harris,Interstate,Local,59394,15.6,45,2,3,Asphalt,31,158.9,17.73,9.36,26.77,2.86,40.37,Resurface,2002,Arid,383.65,54,63.97,111674.08,23
+824,OH,Harris,Rural,Collector,24782,24.71,70,4,7,Asphalt,21,153.71,15.03,8.07,91.16,2.66,86.24,Resurface,2017,Temperate,1282.09,110,40.77,378833.36,8
+825,GA,Fulton,State Highway,Principal Arterial,29454,8.32,70,1,10,Composite,41,233.18,8.46,6.36,36.83,1.6,18.11,Resurface,2000,Continental,743.92,70,67.48,187944.23,25
+826,FL,Fulton,State Highway,Minor Arterial,68904,7.29,55,2,3,Composite,42,221.47,10.34,3.04,4.56,4.83,54.42,Resurface,2000,Cold,1800.79,99,39.56,301376.28,25
+827,TX,Cuyahoga,State Highway,Local,16592,5.17,65,2,3,Concrete,44,258.32,7.4,9.83,30.02,2.62,95.06,None,2010,Arid,1577.31,84,47.66,195018.91,15
+828,CA,Bexar,Interstate,Collector,23173,8.11,65,5,6,Asphalt,8,112.49,14.82,2.74,53.11,4.5,62.54,Patch,2010,Continental,865.46,49,10.29,1215835.92,15
+829,OH,Cuyahoga,Urban,Principal Arterial,34204,9.15,70,3,11,Composite,30,202.38,15.68,2.03,40.82,1.76,81.7,None,1996,Cold,500.79,103,0.78,516746.16,29
+830,GA,King,Interstate,Local,36596,17.61,25,3,11,Asphalt,6,196.3,15.27,4.42,27.38,3.19,65.36,Reconstruction,2006,Temperate,220.7,11,5.52,382479.86,19
+831,NY,Orange,Rural,Local,35324,9.39,45,1,11,Concrete,8,142.43,14.45,0.57,13.13,1.1,83.94,Patch,2003,Continental,1318.04,78,19.25,90419.34,22
+832,NY,Fulton,State Highway,Minor Arterial,62202,5.41,70,4,9,Composite,12,171.51,4.09,9.78,81.92,4.06,94.45,Patch,2022,Arid,931.02,14,45.66,811163.36,3
+833,TX,Harris,Interstate,Local,31750,21.53,35,1,10,Composite,2,128.45,6.76,5.88,99.61,3.32,27.29,Patch,2000,Arid,766.56,16,2.1,216565.33,25
+834,FL,Cook,Interstate,Minor Arterial,77112,12.31,45,2,3,Composite,34,85.46,9.4,5.57,32.95,3.5,16.97,Patch,2002,Temperate,1973.9,33,15.59,434798.61,23
+835,WA,Harris,Urban,Collector,17566,12.07,65,2,6,Asphalt,32,103.45,6.62,6.56,38.16,1.21,48.4,Resurface,1990,Cold,1039.06,107,78.14,210143.68,35
+836,FL,Orange,Urban,Minor Arterial,8190,11.05,70,3,8,Concrete,20,76.38,15.1,4.97,61.8,1.84,70.19,Reconstruction,2023,Continental,1549.71,34,76.22,596503.81,2
+837,TX,Cuyahoga,State Highway,Principal Arterial,89607,24.51,55,4,7,Asphalt,30,220.77,6.59,0.32,71.84,1.3,22.72,Patch,1998,Temperate,519.34,38,78.97,1105406.46,27
+838,NY,Harris,Interstate,Minor Arterial,39333,8.4,35,5,7,Composite,33,215.18,2.76,6.12,39.2,2.16,0.41,Patch,2002,Cold,224.22,101,92.15,691484.5,23
+839,FL,Bexar,Interstate,Principal Arterial,81905,22.96,70,4,8,Concrete,31,287.65,7.98,7.16,90.49,3.51,34.29,Resurface,2019,Tropical,951.61,77,11.91,410766.93,6
+840,NY,King,Urban,Minor Arterial,2589,20.54,25,2,4,Composite,34,232.42,19.6,4.17,56,3.26,96.89,None,1996,Tropical,1398.2,54,16.31,486074.76,29
+841,OH,Orange,Interstate,Local,26235,6.53,35,5,4,Composite,14,63.01,4.52,7.57,45.04,3.45,69.5,None,2003,Cold,1111.88,58,33.36,471103.68,22
+842,GA,Cuyahoga,Interstate,Collector,1159,24.73,70,4,11,Asphalt,31,271.06,12.24,2.27,64.67,3.2,40.13,None,1995,Arid,1802.84,4,91.51,453748.72,30
+843,WA,Bexar,Interstate,Principal Arterial,13145,10.43,25,4,10,Composite,5,265.67,8.66,2.21,95.28,2.09,19.26,Reconstruction,2023,Arid,981.16,29,77.55,300644.39,2
+844,OH,Cook,Urban,Minor Arterial,81909,6.97,35,5,9,Concrete,44,160.83,1.42,1.61,79.46,1.98,35.61,None,2005,Tropical,759.81,3,32.41,584842.9,20
+845,NY,Cuyahoga,State Highway,Minor Arterial,32921,21.59,25,2,6,Composite,20,196.47,9.76,3.72,4,1.55,16.98,Patch,1995,Arid,1848.89,14,8.76,305167.53,30
+846,NY,Duval,Rural,Minor Arterial,17237,19.13,25,4,7,Composite,32,294.02,14.04,8.47,33.23,4.4,10.63,Resurface,1997,Arid,932.24,102,61.64,264157.86,28
+847,CA,Bexar,State Highway,Local,9244,17.34,35,5,11,Asphalt,31,183.08,10.26,8.28,47.05,3.47,90.67,Resurface,2013,Cold,685.37,34,25.68,1339636.14,12
+848,CA,Bexar,Rural,Local,15743,8.12,35,2,2,Concrete,18,276.33,17.44,3.83,31.45,1.75,99.77,None,1992,Cold,375.79,108,53.12,356837.4,33
+849,OH,King,Interstate,Principal Arterial,47101,14.57,25,5,11,Asphalt,32,70.76,5.78,5.89,70.02,1.71,16.41,Resurface,1993,Arid,1627.96,73,94.18,985129.54,32
+850,IL,Orange,State Highway,Principal Arterial,85227,20.61,65,5,2,Composite,27,97.76,1.72,7.21,82.63,4.49,5.45,Patch,2021,Cold,1685.16,54,57.26,714107.2,4
+851,OH,Cook,Rural,Local,57378,11.07,35,4,5,Asphalt,30,160.19,18.73,2.41,73.13,3.97,32.97,None,1990,Continental,259.94,65,92.38,869835.23,35
+852,CA,King,Urban,Principal Arterial,72126,11.23,70,2,3,Asphalt,20,196.19,7.56,1.68,98.93,3.64,46.17,Patch,2023,Tropical,845.56,107,39.3,315890.87,2
+853,NY,Cuyahoga,Urban,Collector,57071,5.06,45,4,8,Asphalt,33,254.06,11.53,9.72,27.25,2.63,20.48,Reconstruction,1998,Continental,1549.78,59,63.34,961313.77,27
+854,TX,King,State Highway,Collector,72121,8.48,55,1,3,Asphalt,14,297.07,15.84,6.18,87.5,2.05,30.14,Patch,2001,Continental,1903.49,23,89.39,255350.54,24
+855,OH,Bexar,State Highway,Local,75763,22.51,25,1,11,Composite,13,147.21,6.49,9.81,76.66,4.92,20.09,Patch,1999,Arid,880.07,91,58.8,217962.28,26
+856,NY,Orange,Interstate,Principal Arterial,13237,13.83,25,2,3,Composite,18,61.85,14.32,3.38,36.22,4.19,77.43,Patch,1999,Arid,1769.7,21,61.49,345667.81,26
+857,TX,Fulton,State Highway,Minor Arterial,16649,24.68,55,5,6,Concrete,42,250.29,2.71,7.03,73.41,2.21,71.26,Patch,2012,Continental,908.7,43,71.63,1227836.69,13
+858,TX,King,Interstate,Collector,38713,12.91,65,4,5,Asphalt,14,201.1,5.83,2.23,10.41,4.39,63.5,Reconstruction,1995,Continental,523.09,31,88.21,694285.31,30
+859,CA,Duval,Interstate,Local,74463,19.3,55,4,9,Asphalt,5,99.64,2.89,2.61,78.93,4.04,38.72,None,2013,Temperate,206.2,94,8.82,311509.9,12
+860,OH,King,Urban,Principal Arterial,46409,10.64,35,2,5,Concrete,8,173.71,16.22,5.12,53.23,2.19,90.9,Patch,2013,Temperate,794.33,82,33.69,158170.11,12
+861,FL,Cuyahoga,Urban,Local,49766,12.28,55,2,7,Asphalt,36,235.58,4.45,3.2,29.23,2.71,96.95,None,2010,Tropical,881.26,50,39.77,574291.57,15
+862,WA,Cuyahoga,Rural,Minor Arterial,47154,8.81,25,1,6,Concrete,19,242.6,14.35,1.68,65.58,1.74,17.36,Resurface,2020,Continental,1901.21,84,90.97,103390.75,5
+863,CA,Cook,Urban,Collector,8016,11.94,55,3,3,Composite,33,174.9,18.87,2.63,64.16,1.44,22.3,Patch,2019,Cold,570.93,2,95.6,761943.74,6
+864,CA,Cuyahoga,Urban,Local,80563,15.94,45,2,9,Concrete,37,126.3,10.56,0.36,20.95,3.89,52.56,Patch,2023,Temperate,888.02,69,12.04,223352.7,2
+865,FL,Harris,State Highway,Local,49688,24.84,70,3,3,Asphalt,25,293.44,10.8,7.04,3.04,2.07,9.13,Resurface,2007,Arid,245.28,31,11.91,473085.07,18
+866,WA,Orange,Urban,Local,55238,18.28,35,2,10,Concrete,17,215.84,9.22,4.92,43.36,4.28,43.64,None,2001,Continental,1574.37,1,93.49,427474.06,24
+867,NY,Orange,Rural,Minor Arterial,59608,8.98,55,5,10,Composite,27,152.06,6.52,0.94,56.95,4.98,58.18,Reconstruction,2024,Cold,1847.25,87,29.58,448583.97,1
+868,IL,Fulton,State Highway,Local,32897,5.9,25,5,4,Asphalt,8,120.12,9.51,1.72,87.66,1.31,52.21,Patch,1996,Cold,628.08,108,24.18,1171558.11,29
+869,OH,Fulton,Rural,Minor Arterial,51961,7.53,70,1,5,Composite,31,232.78,12.06,1.03,92.82,2.89,33.09,Resurface,2014,Cold,972.19,58,3.56,222478.24,11
+870,IL,Orange,Urban,Minor Arterial,69703,16.25,35,1,9,Composite,5,110.55,19.72,6.13,52.88,4.21,54.24,Resurface,1995,Arid,419.8,90,27.56,185770.72,30
+871,NY,Duval,Rural,Minor Arterial,45757,20.3,25,3,10,Concrete,13,92.93,18.76,0.94,75.38,4.16,95.88,Patch,1990,Temperate,1022.3,72,69.35,574417.32,35
+872,GA,Fulton,State Highway,Collector,27917,23.81,65,2,4,Composite,27,182.46,17.24,7.54,43.93,4.04,20.6,None,2005,Cold,440.02,76,42.6,152885.9,20
+873,CA,Cook,Interstate,Collector,23736,5.32,45,4,6,Asphalt,23,122.5,17.78,0.21,74.61,2.4,65.48,None,1993,Temperate,1142.03,118,51.69,635949.15,32
+874,WA,Cuyahoga,Rural,Local,28990,15.46,65,1,9,Composite,12,207.23,9.36,2.49,20.48,2.82,4.34,Patch,2018,Tropical,1522.32,13,91.73,71642.85,7
+875,CA,Orange,Rural,Local,63551,14.42,45,4,4,Composite,42,79.48,13.15,8.91,37.11,3.38,6.64,Resurface,2017,Arid,1196.02,50,11.47,507863.29,8
+876,TX,Bexar,State Highway,Collector,59161,18.12,55,4,8,Concrete,11,213.74,17.9,7.19,63.42,4.9,55.18,Patch,2011,Temperate,641.4,10,7.12,1100312.14,14
+877,CA,Fulton,State Highway,Principal Arterial,80623,16.19,35,2,9,Composite,18,120.82,7.86,0.73,1.82,2.31,10.49,Reconstruction,1997,Temperate,836.83,77,85.19,387266.7,28
+878,CA,Orange,Rural,Collector,23440,18.74,55,3,11,Concrete,20,50.06,19.24,8.21,72.25,4.69,2.23,Reconstruction,2021,Cold,1349.43,79,77.49,707027.58,4
+879,NY,Harris,Urban,Minor Arterial,36205,18.16,45,2,4,Concrete,26,81.73,8.32,4.93,83.55,2.08,17.15,None,2022,Cold,1261.56,9,26.37,386942.93,3
+880,NY,King,Rural,Collector,81811,7.34,45,1,3,Asphalt,18,283.4,12.02,8.47,39.91,4.96,56.48,Reconstruction,2002,Arid,446.19,83,32.42,98559.19,23
+881,NY,Cuyahoga,State Highway,Minor Arterial,56103,20.99,45,4,11,Asphalt,23,266.84,14.2,6.01,44.79,3.68,70.33,Resurface,2016,Temperate,1720.91,79,31.03,794808.32,9
+882,IL,Orange,Interstate,Local,71812,7.46,70,2,8,Asphalt,25,108.4,19.01,6.82,85.13,2.85,20.25,Reconstruction,2007,Continental,1055.34,57,64.78,477694.04,18
+883,TX,King,Interstate,Principal Arterial,42627,18.97,25,2,10,Asphalt,44,244.59,4.89,9.94,77.57,3.45,66.83,Patch,2007,Cold,492.26,33,6.12,169202.5,18
+884,GA,Fulton,Urban,Local,20008,13.32,35,2,2,Concrete,27,202.14,14.92,2.32,28.81,2.09,18.25,Resurface,2002,Cold,421.09,79,48.94,508453.36,23
+885,GA,King,Rural,Minor Arterial,72274,15.28,55,1,4,Composite,45,292.73,10.42,6.24,32.4,2.1,61.35,None,2011,Tropical,1937.99,77,13.39,188848.04,14
+886,NY,Cuyahoga,Interstate,Minor Arterial,33402,23.07,55,3,6,Asphalt,17,143.4,5.37,4.6,67.89,1.45,41.2,None,2003,Arid,706.76,52,81.97,153206.4,22
+887,WA,Orange,Rural,Minor Arterial,54384,22.8,65,2,4,Asphalt,43,220.37,15.53,0.39,56.32,1.46,65.38,Reconstruction,2000,Temperate,1835.47,27,38.07,359889.24,25
+888,IL,Harris,State Highway,Principal Arterial,6793,21.36,45,1,2,Asphalt,35,65.88,11.04,0.14,16.22,2.39,99.51,None,2011,Temperate,939.05,17,52.76,148917.87,14
+889,FL,Duval,Interstate,Collector,6571,15.2,45,4,8,Composite,41,149.06,13.22,1.19,30.99,4.05,93.78,Patch,2006,Temperate,894.66,25,2.93,496446.51,19
+890,WA,Fulton,Urban,Local,17209,19.72,45,5,8,Asphalt,28,290.95,6.46,6.49,90,3.43,0.43,Resurface,2021,Cold,1461.67,101,5.83,1214071.52,4
+891,OH,Orange,State Highway,Local,44148,15.26,55,1,11,Composite,16,184.75,9.63,5.67,68.82,1.41,88.54,Patch,2003,Arid,217.79,6,67.51,274874.97,22
+892,OH,Cuyahoga,Urban,Collector,3224,22.39,65,5,9,Concrete,3,121.97,12.35,5.53,98.6,4.41,6.65,Patch,2018,Temperate,808.56,44,76.68,1203316.36,7
+893,WA,Fulton,State Highway,Local,49695,13.06,25,2,6,Concrete,43,80.07,8.1,0.32,76.7,3.41,95.3,Patch,1995,Continental,744.76,97,71,523386.29,30
+894,NY,Cook,Interstate,Principal Arterial,33441,24.4,70,2,11,Concrete,44,225.88,3.97,4.69,94.2,4.84,28.18,Patch,1993,Tropical,1762.58,110,73.7,554390.47,32
+895,FL,King,Urban,Local,40129,23.65,35,1,6,Composite,28,211.21,19.23,9.25,21.62,3.68,38.2,Resurface,2000,Tropical,1152.42,112,10.46,278157.33,25
+896,FL,Duval,Urban,Minor Arterial,63368,19.83,25,5,6,Asphalt,3,143.48,10.23,3.98,77.15,1.7,9.16,Resurface,1999,Temperate,856.23,44,69.35,393297.68,26
+897,IL,Cuyahoga,State Highway,Collector,45760,10.59,55,2,2,Asphalt,9,287.74,14.68,6.25,2.02,2.9,11.23,Patch,2017,Cold,678.94,70,18.17,328192.74,8
+898,FL,Cook,Urban,Principal Arterial,24478,7.63,70,4,11,Asphalt,24,55.55,8.22,7.8,67.08,3.59,72.67,Patch,2000,Tropical,1262.92,96,9.8,200286.47,25
+899,OH,Bexar,State Highway,Collector,72854,22.09,70,3,6,Asphalt,30,125.93,7.1,7.84,46.93,1.11,94.43,None,2024,Tropical,473.01,34,75.72,529846.94,1
+900,TX,Orange,State Highway,Principal Arterial,86716,8.31,70,3,7,Asphalt,2,280.27,8.14,5.19,34.68,1.06,61.07,None,2004,Tropical,643.17,51,88.94,843182.95,21
+901,NY,Harris,State Highway,Minor Arterial,13180,22.09,45,2,2,Composite,46,130.23,8.18,8.58,86.24,1.52,71.59,Resurface,1997,Tropical,728.5,113,71.67,199551.15,28
+902,FL,Fulton,State Highway,Collector,16372,14.82,35,5,8,Concrete,1,113.06,10.88,3.91,85.43,2.01,76.2,None,2009,Temperate,1294.24,102,80.56,1049733.29,16
+903,IL,King,Interstate,Local,30796,13.13,55,2,2,Asphalt,24,183.56,10.87,8.89,2.23,2.72,26.28,Resurface,2010,Arid,871.86,20,99.11,422189.52,15
+904,OH,Fulton,State Highway,Principal Arterial,59272,23.06,55,5,3,Concrete,48,255.95,9.94,2.4,60.95,2.95,4.52,Resurface,1990,Arid,1110.41,112,13.48,450442.48,35
+905,TX,Duval,Rural,Collector,55040,17.08,70,4,3,Composite,5,75.79,2.7,2.8,36.78,1.55,0.19,Reconstruction,2018,Cold,1370.79,27,96.52,438527.44,7
+906,CA,Orange,Urban,Local,76357,16.53,55,5,6,Composite,25,285.76,9.92,0.53,41.57,3.69,35.06,Resurface,2013,Continental,1921.29,95,60.12,827527.23,12
+907,CA,Fulton,Rural,Collector,72368,16.18,35,2,11,Asphalt,7,248.77,3.38,7.96,83.2,3.38,24.15,None,2019,Arid,1576.71,43,81.33,194104.69,6
+908,TX,King,Interstate,Collector,79356,12.42,35,4,8,Composite,34,95.31,2.52,4.17,30.98,2.18,6.23,Reconstruction,2024,Continental,929.46,79,65.02,784993.98,1
+909,OH,Orange,Rural,Collector,17211,20.71,65,1,2,Concrete,26,228,18.65,2.29,94.3,1.05,17.95,None,2022,Arid,1546.9,55,57,171135.43,3
+910,IL,Fulton,Urban,Principal Arterial,6842,10.06,65,3,11,Asphalt,24,146.24,12.1,2.32,17.96,1.31,12.45,Resurface,2009,Arid,1909.45,9,70.36,539398.63,16
+911,TX,Harris,Rural,Local,64115,23.78,25,2,2,Asphalt,17,150.57,13.19,9.01,66.27,2.57,91.49,Resurface,2005,Cold,1098.88,22,32.03,167233.78,20
+912,NY,Cuyahoga,Interstate,Minor Arterial,67852,22.88,35,2,2,Concrete,0,245.82,8.04,8.34,67.21,1.62,14.03,Patch,1998,Tropical,938.89,47,92.43,358625.91,27
+913,NY,Orange,State Highway,Principal Arterial,46968,11.75,35,2,7,Asphalt,47,290.7,18.18,5.54,25.22,2.51,53.76,Resurface,2020,Cold,340.43,51,11.53,124739.1,5
+914,CA,Cuyahoga,Rural,Principal Arterial,18508,19.59,35,4,3,Asphalt,38,81.66,12.76,6.16,32.48,3.51,59.31,Reconstruction,2006,Arid,1806.27,113,31.8,1081535.3,19
+915,FL,Bexar,Interstate,Principal Arterial,23005,16.46,65,1,2,Concrete,2,155.16,15.38,4.74,83.48,3.19,54.35,Resurface,2020,Tropical,643.58,14,3.12,135812.42,5
+916,IL,Orange,Interstate,Minor Arterial,55575,11.75,70,5,7,Asphalt,3,170.24,7.37,3.92,76.18,1.92,9.91,Patch,2012,Tropical,315.12,54,27.13,1320421.66,13
+917,CA,Harris,Urban,Local,81742,24.77,70,1,3,Asphalt,40,144.08,19.2,9.15,32.91,2.38,31.88,Resurface,1995,Tropical,1166.97,42,21.82,225414.09,30
+918,FL,Cuyahoga,Urban,Local,19971,5.5,55,4,7,Concrete,36,140.8,16.41,1.26,53.4,3.46,5.13,Resurface,2019,Continental,1722.62,49,4.96,966172.59,6
+919,FL,Cook,Rural,Local,26599,10.05,70,2,11,Composite,14,63.07,17.08,4.18,6.17,4.44,39.57,Resurface,1996,Arid,931.94,5,49.18,257272.25,29
+920,GA,King,State Highway,Collector,88592,15.4,45,3,9,Concrete,7,221.38,3.44,3.45,20.87,4.01,18.86,Patch,2000,Temperate,1609.52,32,46.86,320807.95,25
+921,NY,Cook,Interstate,Collector,67914,15.44,65,2,3,Asphalt,37,159.05,5.42,4.98,48.58,3.21,56.16,None,2023,Cold,1705.51,61,7.77,303370.28,2
+922,OH,Fulton,Rural,Collector,68055,16.78,35,5,10,Concrete,49,98.7,5.71,4.58,8.6,2.45,69.28,Resurface,2001,Continental,1017.93,54,26.19,280282.33,24
+923,WA,Harris,Interstate,Minor Arterial,88697,20.03,70,3,9,Asphalt,18,254.01,5.42,5.19,84.33,2.46,53.21,Reconstruction,2016,Cold,1263.72,38,95.33,839066.76,9
+924,OH,Cook,Interstate,Collector,6355,17.47,65,2,11,Asphalt,46,250.64,17.11,1.4,71.8,4.52,43.42,Patch,2001,Temperate,1161.04,11,11.07,293507.13,24
+925,WA,Orange,State Highway,Minor Arterial,55120,17.01,70,3,2,Concrete,25,171.6,0.64,5.13,94.36,1.16,38.73,Reconstruction,2002,Tropical,1890.55,115,30.5,891417.45,23
+926,TX,Fulton,State Highway,Local,75619,6.07,25,1,8,Asphalt,38,124.61,1.52,2.42,69.35,4.95,84.17,Resurface,1997,Temperate,1505.91,99,3.59,240362.36,28
+927,NY,Fulton,Rural,Collector,39342,12.53,35,4,11,Composite,9,209.52,5.48,1.84,94.04,3.66,21.94,Patch,2005,Cold,1865.62,30,14.89,280515.01,20
+928,FL,Cook,State Highway,Collector,86992,9.64,25,2,7,Asphalt,37,122.04,4,0.65,55.45,3.72,73.42,Resurface,2018,Temperate,596.02,73,69.94,430094.14,7
+929,IL,Bexar,State Highway,Principal Arterial,79860,10.31,35,5,7,Concrete,13,109,4.64,7.63,60.02,1.15,75.75,Reconstruction,2024,Arid,758.43,52,36.67,588548.96,1
+930,WA,Cook,Rural,Minor Arterial,3257,16.09,65,1,7,Composite,48,232.63,15.96,4.27,97.7,3.42,41.92,Patch,2018,Temperate,327.64,33,45.21,110929.66,7
+931,OH,Bexar,State Highway,Local,28364,8.99,55,2,7,Composite,40,60.08,11.26,6.27,64.21,2.94,29.73,None,2020,Arid,1099.83,40,15.7,228281.33,5
+932,FL,Harris,Urban,Principal Arterial,25972,10.88,70,1,11,Asphalt,18,73.69,0.12,7.28,3.08,1.42,47.05,None,2002,Temperate,1773.06,9,68.21,279018.76,23
+933,WA,King,Interstate,Principal Arterial,27654,9.74,70,5,8,Concrete,29,51.7,8.59,6.79,72.38,2.11,9.32,None,2001,Arid,788.32,51,75.15,874975.22,24
+934,WA,Cook,Interstate,Local,81769,23.97,45,2,4,Asphalt,4,88.24,8.16,4.71,90.55,4.56,4.59,Resurface,1991,Arid,430.91,74,18.11,434735.45,34
+935,GA,Duval,Interstate,Principal Arterial,82423,23.89,25,5,7,Asphalt,30,67.25,2.28,3.88,79.56,3.2,11.16,Patch,2022,Temperate,323.2,56,4.5,601184.78,3
+936,WA,Bexar,Interstate,Minor Arterial,30320,17.2,70,3,4,Concrete,6,298.95,13.52,3.76,58.38,2.65,18.71,Reconstruction,1997,Continental,1005.5,77,8.09,542215.84,28
+937,IL,Cook,Rural,Minor Arterial,21808,23.49,65,5,8,Concrete,18,122.2,14.04,6.4,67.13,1.29,50.42,Reconstruction,2021,Tropical,495.24,2,65.7,687625.17,4
+938,NY,Cuyahoga,Interstate,Collector,53389,20.72,55,3,8,Asphalt,30,87.32,14.42,4.95,99.02,3.86,84.91,Resurface,2017,Tropical,822.99,56,13.55,390854.28,8
+939,IL,Orange,Interstate,Principal Arterial,35773,16.8,65,2,9,Composite,38,110.25,14.57,8.49,9.07,3.81,23.56,Resurface,2004,Tropical,1675.96,32,49.39,223484.42,21
+940,CA,Duval,Interstate,Collector,52168,5.13,25,3,3,Asphalt,23,284.03,0,8.75,66.72,3.46,93.52,Reconstruction,2012,Arid,891.29,6,15.26,456755.17,13
+941,FL,Duval,Interstate,Principal Arterial,28747,20.45,45,2,10,Composite,33,180.04,19.08,1.71,28.34,3.04,95.49,Patch,2013,Tropical,1297.77,3,17.01,430015.06,12
+942,NY,Bexar,Urban,Minor Arterial,77396,19.05,70,2,6,Asphalt,22,141.2,16.28,1.36,64.01,2.74,95.89,Resurface,2002,Arid,1103.89,38,0.44,211021.89,23
+943,GA,Cuyahoga,Interstate,Minor Arterial,84692,17.31,65,4,10,Concrete,47,268.35,18.08,6.3,60.76,3.37,83.76,Patch,2010,Continental,1493.36,47,32.08,1165443.99,15
+944,NY,Cuyahoga,Urban,Minor Arterial,58505,20.21,35,2,11,Composite,44,148.75,0.31,3.01,15.35,1.93,36.38,Reconstruction,2001,Temperate,481.1,73,8.98,162305.84,24
+945,NY,Fulton,Rural,Principal Arterial,86896,15.26,55,3,6,Concrete,39,133.75,18.68,0.19,20.67,4.77,7.27,Patch,2002,Temperate,1856.79,78,39.4,510155.41,23
+946,OH,Bexar,State Highway,Minor Arterial,19135,19.08,65,4,8,Concrete,5,101.82,16.2,8.89,62.16,3.36,56.88,None,2012,Arid,1358.54,15,59.78,285028.22,13
+947,NY,King,Interstate,Principal Arterial,48377,23.7,55,4,10,Concrete,37,144.45,16.74,2.27,12.82,2.24,55.87,Reconstruction,2017,Arid,687.72,37,36.75,222665.32,8
+948,GA,Orange,State Highway,Collector,24554,12.52,70,2,5,Concrete,40,129.17,1.87,9.29,26.52,2.8,85,None,2003,Continental,421.86,3,70.51,561338.66,22
+949,IL,Harris,State Highway,Principal Arterial,63491,19.16,35,5,3,Concrete,35,219.33,14.78,7.17,83.52,4.22,99.6,Reconstruction,2006,Tropical,469.51,3,74.15,1262980.99,19
+950,NY,Duval,Rural,Collector,56621,14.51,45,5,10,Asphalt,26,122.4,19.2,7.63,32.71,1.65,50.82,None,2013,Continental,1608.79,119,69.66,1117694.22,12
+951,TX,Harris,State Highway,Principal Arterial,59283,18.49,45,4,3,Composite,10,194.3,13.57,2.01,48.81,2.17,34.52,Patch,2023,Temperate,1258.6,118,93.67,1065190.81,2
+952,FL,Cook,Urban,Collector,86140,20.26,35,2,4,Asphalt,4,66.47,11.41,2.34,94.11,3.72,18.59,Reconstruction,2011,Temperate,885.36,99,23.73,501424.21,14
+953,NY,Cook,State Highway,Minor Arterial,17923,5.91,55,5,11,Asphalt,16,97.82,18.91,5.21,22.71,2.26,0.48,Reconstruction,1999,Tropical,799.22,26,18.95,1059047.15,26
+954,FL,Harris,State Highway,Collector,48591,17.93,70,2,3,Asphalt,6,151.85,8.86,1.72,38.96,4.17,50.91,None,1997,Temperate,1740.36,85,60.97,523671.16,28
+955,TX,Cook,State Highway,Minor Arterial,63261,9.53,65,2,4,Concrete,26,284.24,11.99,3.05,60.65,1.52,55.55,Patch,2010,Arid,1774.57,85,59.49,295400.28,15
+956,TX,King,Interstate,Minor Arterial,55336,18.4,35,4,7,Asphalt,46,144.31,9.53,3.21,75.53,4.05,82.49,Reconstruction,1996,Temperate,1246.27,16,51.01,752751.83,29
+957,FL,Cuyahoga,Interstate,Collector,75083,14.37,25,4,4,Composite,14,216.02,18.66,1.6,90.17,1.27,50.46,Resurface,2015,Cold,1144.18,108,0.44,976310.65,10
+958,WA,Cook,Urban,Principal Arterial,61948,20.47,55,1,11,Asphalt,45,113.77,1.52,2.05,91.55,1.05,91.65,None,2002,Tropical,1669.61,97,55.52,71199.5,23
+959,CA,Fulton,Urban,Principal Arterial,34002,7.47,45,5,9,Concrete,12,81.76,10.02,7.89,77.66,4.59,62.81,Reconstruction,2005,Tropical,1548.8,95,93.28,1323306.83,20
+960,OH,Cook,Interstate,Local,81098,17.53,35,5,7,Composite,10,64.63,13.74,1.67,22.83,3.33,84.03,Patch,2019,Tropical,920.59,115,33.46,446038.07,6
+961,WA,Orange,Urban,Principal Arterial,74016,10.57,45,5,8,Composite,44,126.35,15.84,0.28,2.48,2.41,14.83,Patch,2020,Cold,348.93,69,96.76,1330676.57,5
+962,WA,King,Interstate,Local,27672,22.06,55,3,2,Composite,25,89.42,11.66,6.29,38.38,1.93,85.53,Patch,1994,Continental,1583.3,53,35.68,383499.65,31
+963,IL,Orange,Rural,Principal Arterial,5213,23.57,45,2,4,Composite,21,93.5,18.18,9.76,14.15,3.47,67.51,Patch,2021,Arid,503.66,96,13.99,263391.42,4
+964,OH,Orange,State Highway,Principal Arterial,11293,24.93,35,4,4,Asphalt,27,240.19,18.84,3.31,71.04,3.04,17.02,None,2005,Tropical,229.48,7,39.84,273948.69,20
+965,OH,Fulton,State Highway,Minor Arterial,56860,20.92,55,5,3,Concrete,23,53.96,1.29,1.19,66.11,4.97,18.98,Reconstruction,1998,Temperate,1717.94,113,49.46,1357374.53,27
+966,WA,King,Urban,Local,63507,20.07,25,1,8,Composite,28,189.45,8.05,5.7,4.4,4.93,92.65,None,2011,Arid,1240.86,52,62.95,93627.6,14
+967,NY,King,Interstate,Principal Arterial,58134,9.31,35,5,10,Composite,8,144.87,0.47,9.06,83.66,3.54,3.22,None,2003,Temperate,1805,99,50.49,1037562.38,22
+968,IL,Bexar,Interstate,Local,3100,11.72,65,2,5,Concrete,41,176.64,6.59,7.84,24.87,2.77,46.25,Patch,2005,Arid,1072.26,4,53.67,421983.8,20
+969,IL,King,Urban,Minor Arterial,62997,14.31,70,2,6,Asphalt,3,190.71,10.74,6.23,43.22,2.96,31.35,Resurface,2009,Arid,1867.67,68,2.41,240575.75,16
+970,TX,King,Interstate,Minor Arterial,29172,20.47,35,4,4,Composite,48,128.34,18.22,3.15,66.79,3.73,66.51,Patch,2004,Temperate,837.15,46,25.36,1185660.96,21
+971,GA,King,Rural,Local,21132,23.3,55,3,10,Asphalt,45,123.78,16.93,5.42,42.94,1.41,83.96,Resurface,2015,Temperate,1504.14,73,31.07,198124.66,10
+972,OH,Fulton,State Highway,Minor Arterial,19199,8.78,70,4,5,Asphalt,17,233.35,2.55,0.91,44.13,2.31,36.04,None,1998,Arid,741.78,39,98.71,807872.01,27
+973,WA,Cook,Urban,Collector,37609,23.45,35,5,6,Asphalt,42,267.82,1.86,6.79,6.56,1.3,42.69,Patch,1990,Tropical,202.09,6,29.56,849429.91,35
+974,TX,Bexar,Urban,Collector,43965,18.91,25,1,2,Asphalt,15,98.15,11.79,7.25,40.14,1.29,98.19,Patch,2024,Temperate,883.54,11,89.66,111371.03,1
+975,FL,Orange,Interstate,Minor Arterial,9016,17.22,25,4,3,Composite,32,74.4,10.64,9.65,76.48,1.78,78.39,None,2009,Cold,1527.98,93,30.47,363551.71,16
+976,CA,King,Urban,Collector,40779,9,65,3,10,Composite,28,274.45,5.33,2.6,91.52,2.94,89.72,Patch,1995,Cold,470.04,24,9.61,702813.27,30
+977,GA,Duval,Rural,Principal Arterial,32881,6.11,45,4,3,Asphalt,38,137.47,17.99,0.18,41.35,4.14,43.88,Reconstruction,1999,Arid,1108.64,27,24.76,1116314.87,26
+978,GA,Cook,Interstate,Local,83594,16.37,70,2,6,Asphalt,9,187.83,18.55,5.46,42.36,2.94,23.41,Resurface,2022,Continental,582.18,42,27.28,153773.13,3
+979,GA,Cook,Interstate,Principal Arterial,25472,18.03,55,5,9,Concrete,8,139.89,8.05,7.07,70.26,2.34,41.19,Resurface,2005,Arid,334.32,76,97.82,492475.27,20
+980,IL,Orange,Interstate,Local,52813,9.22,55,5,4,Concrete,30,81.45,17.81,7.9,94.28,1.33,71.61,Resurface,1995,Arid,1311.41,46,67.43,1482837.18,30
+981,FL,Fulton,Interstate,Minor Arterial,37021,16.13,45,5,7,Concrete,27,197.33,7.68,1.94,26.71,3.2,10.94,Patch,2008,Tropical,1913.54,48,93.17,268778.34,17
+982,GA,Harris,Rural,Principal Arterial,55131,22.13,25,5,5,Composite,2,181.29,14.74,2.62,44.01,2.09,27.05,Reconstruction,2020,Tropical,759.27,85,83.5,885314.96,5
+983,FL,Harris,Interstate,Minor Arterial,25087,21.7,25,5,8,Concrete,13,100.75,9.52,5.13,79.6,3.46,4.66,Patch,1991,Continental,1245.16,53,57.86,895141.06,34
+984,NY,Cook,Urban,Minor Arterial,13828,23.55,35,5,11,Composite,24,162.97,2.45,3.31,60.97,4.91,43.23,Resurface,2007,Continental,1916.49,17,67.54,578951.91,18
+985,GA,Cuyahoga,Rural,Local,62610,12.32,65,1,4,Composite,14,249.24,18.56,8.61,11.06,1.45,82.74,Patch,2017,Continental,1370.87,26,62.48,215757.22,8
+986,CA,Cuyahoga,State Highway,Local,2401,11.36,70,3,7,Composite,1,197.61,9.08,4.74,62.77,1.85,2.47,Resurface,1993,Continental,1411.6,71,66.63,858705.68,32
+987,FL,Orange,State Highway,Local,86179,19.99,65,5,11,Composite,23,74.23,14.69,8,18.67,2.89,67.53,None,1990,Continental,522.07,5,26.48,812767.41,35
+988,FL,Harris,Urban,Principal Arterial,16193,13.62,65,3,10,Concrete,13,187.01,7.34,5.81,51.02,4.87,93.25,Resurface,2005,Arid,1086.7,74,40.81,712064.63,20
+989,CA,Cook,Urban,Collector,45864,6.75,35,5,11,Asphalt,47,225.68,0.38,7.73,52.91,4.09,23.69,None,1991,Arid,860.75,92,59.26,1057587.82,34
+990,GA,Fulton,Rural,Local,21307,10.66,65,4,2,Asphalt,6,248.18,2.01,3.33,87.62,4.59,69.36,None,1990,Cold,1047.72,104,3.59,672941.86,35
+991,CA,Harris,State Highway,Local,20611,13.37,45,5,4,Asphalt,35,207.28,9.92,8.31,46.25,2.33,97.51,None,2012,Cold,1641.49,68,48.28,312265.37,13
+992,FL,Cook,State Highway,Principal Arterial,44791,10.85,35,2,3,Concrete,49,88.16,13.8,2.75,27.94,4.97,96.23,Resurface,2015,Temperate,1029.26,70,85.97,470874.9,10
+993,CA,Cook,State Highway,Local,12950,11.64,45,1,9,Asphalt,23,227.54,6.69,5.46,23.1,1.41,23.49,Reconstruction,2000,Arid,313.13,21,49.24,140812.86,25
+994,FL,King,State Highway,Principal Arterial,77240,10.88,35,4,8,Concrete,26,219.34,13.91,2.14,87.43,1.21,10.03,Resurface,1990,Continental,1829.97,58,55.23,424494.69,35
+995,FL,Fulton,State Highway,Minor Arterial,78403,5.83,65,4,3,Concrete,36,56.11,13.97,4.76,17.1,4.42,14.83,Patch,2000,Temperate,1180.67,46,20.19,1148268.65,25
+996,NY,King,Interstate,Local,3745,17.74,45,2,7,Concrete,37,152.94,14.08,3.18,42.59,4.71,70.2,Patch,2013,Tropical,1864.09,116,79.43,486751.38,12
+997,WA,Orange,Urban,Local,56243,16.95,45,5,4,Asphalt,29,133.24,9.85,2.67,18.72,1.36,72.58,Reconstruction,1999,Arid,1230.24,117,35.89,1452835.85,26
+998,FL,King,Interstate,Minor Arterial,4866,18.07,45,1,9,Asphalt,26,217.35,18.3,9.67,77.33,1.45,67.42,Reconstruction,2003,Cold,325.35,67,95.66,114054.23,22
+999,GA,Duval,State Highway,Minor Arterial,33245,8.85,35,4,11,Asphalt,38,104.03,9.78,1.6,47.44,1.13,33.61,Reconstruction,2003,Arid,1195.16,31,99.37,1035793.33,22
+1000,TX,King,Rural,Minor Arterial,45724,10.91,55,1,4,Composite,14,197.72,9.01,7.87,35.11,1.42,16.98,None,1996,Arid,1236.33,82,91.6,201930.35,29
